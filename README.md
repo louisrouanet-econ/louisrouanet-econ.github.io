@@ -19,7 +19,7 @@ This is a static version of the public website exported from WordPress on Octobe
 - All 20 research entries from the original home page are retained. The teaching section now lists ISS 2440 (Introduction to PPEL, UF), whose button links to the course's GitHub repository; the older GMU course entries were removed, but their syllabus PDFs remain under `wp-content/uploads/` so old links keep working.
 - Two older syllabus URLs now serve the corresponding syllabus found in the export. The old `/2024/08/Rouanet_Tallec_Long_Live_Republic.pdf` address was already unavailable on WordPress; the current working paper uses the available November 2025 PDF.
 - Coauthor website links are retained. The old contact form has been replaced with an email link because GitHub Pages does not run WordPress/PHP form handlers.
-- The contact email still matches the original site: `lcrouanet@utep.edu`. Confirm this is the intended address before switching the domain.
+- The contact email is `louisrouanetecon@gmail.com` (changed from the original site's UTEP address).
 - The preview has `noindex,follow` to avoid search indexing during migration.
 - `louisrouanet.com` still serves the original WordPress site. No domain/DNS changes have been made.
 - A complete UpdraftPlus database/files backup was created on WordPress on October 17, 2026 at 12:11 EDT. Keep backup ZIPs and the WordPress XML export private; do not commit them here.
