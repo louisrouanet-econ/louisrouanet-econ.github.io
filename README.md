@@ -16,7 +16,7 @@ This is a static version of the public website exported from WordPress on Octobe
 ## Migration status
 
 - All 27 media attachments recorded in the supplied WordPress export have been copied into this repository. `asset-import.json` records source addresses, sizes, and SHA-256 checksums.
-- All 22 research and teaching entries from the original home page are retained.
+- All 20 research entries from the original home page are retained. The teaching section now lists ISS 2440 (Introduction to PPEL, UF), whose button links to the course's GitHub repository; the older GMU course entries were removed, but their syllabus PDFs remain under `wp-content/uploads/` so old links keep working.
 - Two older syllabus URLs now serve the corresponding syllabus found in the export. The old `/2024/08/Rouanet_Tallec_Long_Live_Republic.pdf` address was already unavailable on WordPress; the current working paper uses the available November 2025 PDF.
 - Coauthor website links are retained. The old contact form has been replaced with an email link because GitHub Pages does not run WordPress/PHP form handlers.
 - The contact email still matches the original site: `lcrouanet@utep.edu`. Confirm this is the intended address before switching the domain.
