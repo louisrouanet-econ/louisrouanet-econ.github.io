@@ -1,0 +1,93 @@
+name: Publish academic website
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: website-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - name: Import public WordPress assets once
+        run: |
+          python - <<'PYTHON'
+          from concurrent.futures import ThreadPoolExecutor
+          from pathlib import Path
+          from urllib.request import Request, urlopen
+          from urllib.parse import urlsplit
+          import hashlib, json, time
+
+          urls = ['https://louisrouanet.com/wp-content/uploads/2019/10/Rouanet-Syllabus-ECON-311.pdf', 'https://louisrouanet.com/wp-content/uploads/2020/10/Rouanet-Syllabus_money-and-banking.pdf', 'https://louisrouanet.com/wp-content/uploads/2021/04/JMP_Rouanet.pdf', 'https://louisrouanet.com/wp-content/uploads/2021/04/Leeson_Rouanet_Externality-and-Covid-19.pdf', 'https://louisrouanet.com/wp-content/uploads/2021/04/Rouanet2019_Article_TheInterestGroupOriginsOfTheBa.pdf', 'https://louisrouanet.com/wp-content/uploads/2021/04/Rouanet_competition_is_still_a_though_weed.pdf', 'https://louisrouanet.com/wp-content/uploads/2021/04/Rouanet-Syllabus-ECON-311.pdf', 'https://louisrouanet.com/wp-content/uploads/2021/04/Rouanet-Syllabus_money-and-banking.pdf', 'https://louisrouanet.com/wp-content/uploads/2021/04/desertion_as_theft.pdf', 'https://louisrouanet.com/wp-content/uploads/2022/03/Geography_and_wages_in_colonial_Canada-12.pdf', 'https://louisrouanet.com/wp-content/uploads/2022/03/Native_American_Constitutions-9.pdf', 'https://louisrouanet.com/wp-content/uploads/2022/05/Hyperinflation_and_Rent_seeking-16.pdf', 'https://louisrouanet.com/wp-content/uploads/2022/08/The_political_Economy_of_Price_controls_in_revolutionary_france-27.pdf', 'https://louisrouanet.com/wp-content/uploads/2022/11/The_Failure_of_French_Democratic_Socialism-16.pdf', 'https://louisrouanet.com/wp-content/uploads/2023/07/9781800882263-book-part-9781800882263-6.pdf', 'https://louisrouanet.com/wp-content/uploads/2023/07/Assignats-EER.pdf', 'https://louisrouanet.com/wp-content/uploads/2023/07/Chapter_Leeson.pdf', 'https://louisrouanet.com/wp-content/uploads/2023/09/Rouanet_JEH.pdf', 'https://louisrouanet.com/wp-content/uploads/2024/08/Rouanet_Tallec_Long_Live_Republic.pdf', 'https://louisrouanet.com/wp-content/uploads/2025/03/RTA_The_Politics_of_Railroads_3-14-2025.pdf', 'https://louisrouanet.com/wp-content/uploads/2025/04/Louis_Rouanet_s_Resume.pdf', 'https://louisrouanet.com/wp-content/uploads/2025/11/Rouanet_Tallec_Long_Live_Republic_site.pdf', 'https://louisrouanet.com/wp-content/uploads/2026/09/Rouanet-3-scaled.jpeg', 'https://louisrouanet.com/wp-content/uploads/2021/04/167638971_480433419834241_7896361798243175425_n-1.jpg']
+          marker = Path("asset-import.json")
+          if marker.exists():
+              print("Assets already imported; using versioned files.")
+          else:
+              def download(url):
+                  path = Path(urlsplit(url).path.lstrip("/"))
+                  if not str(path).startswith("wp-content/uploads/") or ".." in path.parts:
+                      raise ValueError("Unexpected asset path")
+                  for attempt in range(3):
+                      try:
+                          with urlopen(Request(url, headers={"User-Agent": "LouisRouanetWebsiteMigration/1.0"}), timeout=45) as response:
+                              body = response.read(95000000)
+                          if path.suffix.lower() == ".pdf" and not body.startswith(b"%PDF-"):
+                              raise ValueError("Not a PDF")
+                          if path.suffix.lower() in (".jpg", ".jpeg") and not body.startswith(bytes([255,216,255])):
+                              raise ValueError("Not a JPEG")
+                          if len(body) >= 95000000 or len(body) < 100:
+                              raise ValueError("Unexpected file size")
+                          path.parent.mkdir(parents=True, exist_ok=True)
+                          path.write_bytes(body)
+                          print(f"Copied {path} ({len(body)} bytes)", flush=True)
+                          return {"url": url, "path": str(path), "bytes": len(body), "sha256": hashlib.sha256(body).hexdigest()}
+                      except Exception:
+                          if attempt == 2:
+                              raise
+                          time.sleep(2)
+              with ThreadPoolExecutor(max_workers=3) as pool:
+                  records = list(pool.map(download, urls))
+              index = Path("index.html")
+              index.write_text(index.read_text().replace("https://louisrouanet.com/wp-content/uploads/", "wp-content/uploads/"))
+              marker.write_text(json.dumps(records, indent=2) + "\n")
+              print(f"Imported and checked {len(records)} assets.")
+          PYTHON
+      - name: Preserve migrated files in the repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html wp-content asset-import.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Preserve public WordPress assets and original download paths"
+            git push origin HEAD:main
+          fi
+      - name: Prepare static website
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp -R wp-content _site/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v4
