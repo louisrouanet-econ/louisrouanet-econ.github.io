@@ -4,7 +4,7 @@
 
 Louis Rouanet is an Assistant Professor of Political Economy at the Hamilton School, University of Florida (previously University of Texas at El Paso and Western Kentucky University; PhD George Mason University, 2021) and an Associate Editor at *Public Choice*. His research is in political economy and economic history, with a focus on the French Revolution, revolutionary and Napoleonic France, inflationary finance, military conscription, and the political economy of institutions.
 
-Every paper below that has a PDF on this site also has a plain-text markdown version (the `.md` link). Those text files carry front matter with title, authors, venue, year, an abstract, and the link to the authoritative PDF. `llms-full.txt` concatenates all of them into a single file.
+Every paper below that has a PDF on this site also has an HTML page (abstract, full text, BibTeX) and a markdown version with front matter (title, authors, venue, year, abstract, PDF link). The list links to the markdown; each entry also gives the HTML page and the PDF. `llms-full.txt` concatenates all the markdown files into a single document.
 
 - [Home page](https://louisrouanet-econ.github.io/): biography, publication list, teaching and contact
 - [Curriculum Vitae (text)](https://louisrouanet-econ.github.io/cv.md): CV in plain text; PDF at https://louisrouanet-econ.github.io/wp-content/uploads/2025/04/Louis_Rouanet_s_Resume.pdf
@@ -13,32 +13,32 @@ Every paper below that has a PDF on this site also has a plain-text markdown ver
 
 ## Journal articles
 
-- [Assignats or Death : Inflationary Finance in Revolutionary France](https://louisrouanet-econ.github.io/papers/assignats-or-death-inflationary-finance-in-revolutionary.md): with Bryan Cutsinger and Josh Ingber, European Economic Review, 2023. Following a revolution precipitated by unsustainable government deficits, an explosion of paper money called the assignat caused a rapid increase in prices not seen in Europe again until the widespread adoption of discretionary fiat… PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/Assignats-EER.pdf
-- [Drafting the Great Army](https://louisrouanet-econ.github.io/papers/drafting-the-great-army.md): with Ennio Piano, Journal of Economic History, 2022. Napoléon Bonaparte revolutionized the practice of war with his reliance on a mass national army and large-scale conscription. This system faced one major obstacle: draft evasion. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2023/09/Rouanet_JEH.pdf
-- [Foutu Maximum : The political economy of price controls and national defense in revolutionary France.](https://louisrouanet-econ.github.io/papers/foutu-maximum-the-political-economy-of-price-controls.md): Explorations in Economic History, 2022. War necessitates both allocating real resources to defense and certain interest groups being in favor of the government raising resources to wage war. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2022/08/The_political_Economy_of_Price_controls_in_revolutionary_france-27.pdf
-- [Externalities and COVID-19](https://louisrouanet-econ.github.io/papers/externalities-and-covid-19.md): with Peter Leeson, Southern Economic Journal, 2021. Negative infectious-disease externalities are less prevalent in the absence of government intervention and less costly to society than is often supposed. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Leeson_Rouanet_Externality-and-Covid-19.pdf
-- [The Calculus of American Indian Consent: The law and economics of tribal constitutions](https://louisrouanet-econ.github.io/papers/the-calculus-of-american-indian-consent-the-law.md): with Ennio Piano, Public Choice, 2022. American Indians living on reservation are the poorest demographic in the United States. A growing literature suggests that tribal political institutions are at least in part to blame for such poor economic performance. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Native_American_Constitutions-9.pdf
+- [Assignats or Death : Inflationary Finance in Revolutionary France](https://louisrouanet-econ.github.io/research/assignats-or-death-inflationary-finance-in-revolutionary.md): with Bryan Cutsinger and Josh Ingber, European Economic Review, 2023. Following a revolution precipitated by unsustainable government deficits, an explosion of paper money called the assignat caused a rapid increase in prices not seen in Europe again until the widespread adoption of discretionary fiat… Page: https://louisrouanet-econ.github.io/research/assignats-or-death-inflationary-finance-in-revolutionary/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/Assignats-EER.pdf
+- [Drafting the Great Army](https://louisrouanet-econ.github.io/research/drafting-the-great-army.md): with Ennio Piano, Journal of Economic History, 2022. Napoléon Bonaparte revolutionized the practice of war with his reliance on a mass national army and large-scale conscription. This system faced one major obstacle: draft evasion. Page: https://louisrouanet-econ.github.io/research/drafting-the-great-army/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2023/09/Rouanet_JEH.pdf
+- [Foutu Maximum : The political economy of price controls and national defense in revolutionary France.](https://louisrouanet-econ.github.io/research/foutu-maximum-the-political-economy-of-price-controls.md): Explorations in Economic History, 2022. War necessitates both allocating real resources to defense and certain interest groups being in favor of the government raising resources to wage war. Page: https://louisrouanet-econ.github.io/research/foutu-maximum-the-political-economy-of-price-controls/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2022/08/The_political_Economy_of_Price_controls_in_revolutionary_france-27.pdf
+- [Externalities and COVID-19](https://louisrouanet-econ.github.io/research/externalities-and-covid-19.md): with Peter Leeson, Southern Economic Journal, 2021. Negative infectious-disease externalities are less prevalent in the absence of government intervention and less costly to society than is often supposed. Page: https://louisrouanet-econ.github.io/research/externalities-and-covid-19/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Leeson_Rouanet_Externality-and-Covid-19.pdf
+- [The Calculus of American Indian Consent: The law and economics of tribal constitutions](https://louisrouanet-econ.github.io/research/the-calculus-of-american-indian-consent-the-law.md): with Ennio Piano, Public Choice, 2022. American Indians living on reservation are the poorest demographic in the United States. A growing literature suggests that tribal political institutions are at least in part to blame for such poor economic performance. Page: https://louisrouanet-econ.github.io/research/the-calculus-of-american-indian-consent-the-law/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Native_American_Constitutions-9.pdf
 - [The Redistributive Politics of Monetary Policy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3727543): with Peter Hazlett, Public Choice, 2022. (external link; no text version on this site)
-- [Can Geography Explain Quebec's Historical Poverty ?](https://louisrouanet-econ.github.io/papers/can-geography-explain-quebecs-historical-poverty.md): with Vincent Geloso, Southern Economic Journal. From the 19th century to the 1940’s, Quebec remained poorer and less economically developed than the rest of Canada in general and poorer than Ontario in particular. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Geography_and_wages_in_colonial_Canada-12.pdf
-- [The Interest group origins of the Bank of France](https://louisrouanet-econ.github.io/papers/the-interest-group-origins-of-the-bank-of-france.md): Public Choice, 2021. This paper contrasts different interpretations of the creation of the Bank of France. I argue that the Bank of France was the product of rent-seeking behavior rather than the pursuit of public interest, as is commonly supposed. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Rouanet2019_Article_TheInterestGroupOriginsOfTheBa.pdf
+- [Can Geography Explain Quebec's Historical Poverty ?](https://louisrouanet-econ.github.io/research/can-geography-explain-quebecs-historical-poverty.md): with Vincent Geloso, Southern Economic Journal. From the 19th century to the 1940’s, Quebec remained poorer and less economically developed than the rest of Canada in general and poorer than Ontario in particular. Page: https://louisrouanet-econ.github.io/research/can-geography-explain-quebecs-historical-poverty/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Geography_and_wages_in_colonial_Canada-12.pdf
+- [The Interest group origins of the Bank of France](https://louisrouanet-econ.github.io/research/the-interest-group-origins-of-the-bank-of-france.md): Public Choice, 2021. This paper contrasts different interpretations of the creation of the Bank of France. I argue that the Bank of France was the product of rent-seeking behavior rather than the pursuit of public interest, as is commonly supposed. Page: https://louisrouanet-econ.github.io/research/the-interest-group-origins-of-the-bank-of-france/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Rouanet2019_Article_TheInterestGroupOriginsOfTheBa.pdf
 - [Ethnogenesis and Statelessness](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3448582): with Vincent Geloso, European Journal of Law and Economics, 2023. (external link; no text version on this site)
-- [Filling the ranks : Military replacement in post-revolutionary France](https://louisrouanet-econ.github.io/papers/filling-the-ranks-military-replacement-in-post-revolutionary.md): with Ennio Piano, European Review of Economic History, 2019. Many economists have analyzed the efficiency of a volunteered army relative to a conscripted army. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/JMP_Rouanet.pdf
-- [Desertion as Theft](https://louisrouanet-econ.github.io/papers/desertion-as-theft.md): with Ennio Piano, Journal of Institutional Economics, 2019. To be effective, an army must contain the extent of desertion among its ranks. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/desertion_as_theft.pdf
+- [Filling the ranks : Military replacement in post-revolutionary France](https://louisrouanet-econ.github.io/research/filling-the-ranks-military-replacement-in-post-revolutionary.md): with Ennio Piano, European Review of Economic History, 2019. Many economists have analyzed the efficiency of a volunteered army relative to a conscripted army. Page: https://louisrouanet-econ.github.io/research/filling-the-ranks-military-replacement-in-post-revolutionary/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/JMP_Rouanet.pdf
+- [Desertion as Theft](https://louisrouanet-econ.github.io/research/desertion-as-theft.md): with Ennio Piano, Journal of Institutional Economics, 2019. To be effective, an army must contain the extent of desertion among its ranks. Page: https://louisrouanet-econ.github.io/research/desertion-as-theft/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/desertion_as_theft.pdf
 - [Economic Calculation and the Organization of Markets](https://link.springer.com/epdf/10.1007/s11138-018-0425-4?shared_access_token=lZDtCl7ay3Ip5aX-Ml2PP_e4RwlQNchNByi7wbcMAY454GsQ6suSMNBNH6VoFn337Qq2iSfcStfZplIJSBsV7uaPm8Sjexj9bfPxboEuf6BBAX8CEOO7ZOmoFoT0sIZSsUHaLFszjdQNmPFzWQnR-cpi6M4c_MYKY2oPencmPQI%3D): with Ennio Piano, The Review of Austrian Economics, 2018. (external link; no text version on this site)
-- [Competition is (still) a tough weed : a review essay of Thomas Philippon's The Great Reversal](https://louisrouanet-econ.github.io/papers/competition-is-still-a-tough-weed-a-review-essay-of-thomas.md): The Review of Austrian Economics, 2020. In The Great Reversal, Philippon makes the case that competition in America has weakened during the past two decades. His book contributes to the rapidly developing literature on the macroeconomic consequences of market power. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Rouanet_competition_is_still_a_though_weed.pdf
+- [Competition is (still) a tough weed : a review essay of Thomas Philippon's The Great Reversal](https://louisrouanet-econ.github.io/research/competition-is-still-a-tough-weed-a-review-essay-of-thomas.md): The Review of Austrian Economics, 2020. In The Great Reversal, Philippon makes the case that competition in America has weakened during the past two decades. His book contributes to the rapidly developing literature on the macroeconomic consequences of market power. Page: https://louisrouanet-econ.github.io/research/competition-is-still-a-tough-weed-a-review-essay-of-thomas/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Rouanet_competition_is_still_a_though_weed.pdf
 
 ## Working Papers
 
-- [Long live the Republic: The political consequences of revolutionary land redistribution](https://louisrouanet-econ.github.io/papers/long-live-the-republic-the-political-consequences.md): with Ronan Tallec, R&R at Journal of political economy, 2024. To be politically viable, a Revolution needs the support of key interest groups that benefit from the survival of the new regime. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2025/11/Rouanet_Tallec_Long_Live_Republic_site.pdf
-- [The Politics of Railroads](https://louisrouanet-econ.github.io/papers/the-politics-of-railroads.md): with Ronan Tallec and Anne Alonzo, 2024. Infrastructure programs are eminently political projects whose allocation is not simply the result of concerns about economic efficiency. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2025/03/RTA_The_Politics_of_Railroads_3-14-2025.pdf
-- [The Failure of French Democratic Socialism](https://louisrouanet-econ.github.io/papers/the-failure-of-french-democratic-socialism.md): 2022. The attempt to implement democratic socialism in France following Francois Mitterrand’s election in 1981 is directly responsible for France’s economic underperformance since. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2022/11/The_Failure_of_French_Democratic_Socialism-16.pdf
-- [Democracy, Dictatorship, and the Monetary Commons](https://louisrouanet-econ.github.io/papers/democracy-dictatorship-and-the-monetary-commons.md): with Bryan Cutsinger, 2020. In this paper, we analyze the effect that alternative decision-making structures have on equilibrium inflation rates. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2022/05/Hyperinflation_and_Rent_seeking-16.pdf
+- [Long live the Republic: The political consequences of revolutionary land redistribution](https://louisrouanet-econ.github.io/research/long-live-the-republic-the-political-consequences.md): with Ronan Tallec, R&R at Journal of political economy, 2024. To be politically viable, a Revolution needs the support of key interest groups that benefit from the survival of the new regime. Page: https://louisrouanet-econ.github.io/research/long-live-the-republic-the-political-consequences/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2025/11/Rouanet_Tallec_Long_Live_Republic_site.pdf
+- [The Politics of Railroads](https://louisrouanet-econ.github.io/research/the-politics-of-railroads.md): with Ronan Tallec and Anne Alonzo, 2024. Infrastructure programs are eminently political projects whose allocation is not simply the result of concerns about economic efficiency. Page: https://louisrouanet-econ.github.io/research/the-politics-of-railroads/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2025/03/RTA_The_Politics_of_Railroads_3-14-2025.pdf
+- [The Failure of French Democratic Socialism](https://louisrouanet-econ.github.io/research/the-failure-of-french-democratic-socialism.md): 2022. The attempt to implement democratic socialism in France following Francois Mitterrand’s election in 1981 is directly responsible for France’s economic underperformance since. Page: https://louisrouanet-econ.github.io/research/the-failure-of-french-democratic-socialism/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2022/11/The_Failure_of_French_Democratic_Socialism-16.pdf
+- [Democracy, Dictatorship, and the Monetary Commons](https://louisrouanet-econ.github.io/research/democracy-dictatorship-and-the-monetary-commons.md): with Bryan Cutsinger, 2020. In this paper, we analyze the effect that alternative decision-making structures have on equilibrium inflation rates. Page: https://louisrouanet-econ.github.io/research/democracy-dictatorship-and-the-monetary-commons/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2022/05/Hyperinflation_and_Rent_seeking-16.pdf
 - [Utility maximization and dissipation under price controls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3588136): SSRN, 2020. (external link; no text version on this site)
 
 ## Book chapters
 
-- [Introduction to A Research Agenda for Austrian Economics](https://louisrouanet-econ.github.io/papers/introduction-to-a-research-agenda-for-austrian-economics.md): Edward Elgar. Introductory chapter of A Research Agenda for Austrian Economics (Edward Elgar): what the Austrian tradition brings to applied economics and where its research program should go. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/9781800882263-book-part-9781800882263-6.pdf
-- [Austrian Economics and Economic Policy](https://louisrouanet-econ.github.io/papers/austrian-economics-and-economic-policy.md): Economic Policy and the History of Economic Thought. Surveys the Austrian school's approach to economic policy, from Menger, Böhm-Bawerk and Wieser through Mises and Hayek to contemporary work. PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/Chapter_Leeson.pdf
+- [Introduction to A Research Agenda for Austrian Economics](https://louisrouanet-econ.github.io/research/introduction-to-a-research-agenda-for-austrian-economics.md): Edward Elgar. Introductory chapter of A Research Agenda for Austrian Economics (Edward Elgar): what the Austrian tradition brings to applied economics and where its research program should go. Page: https://louisrouanet-econ.github.io/research/introduction-to-a-research-agenda-for-austrian-economics/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/9781800882263-book-part-9781800882263-6.pdf
+- [Austrian Economics and Economic Policy](https://louisrouanet-econ.github.io/research/austrian-economics-and-economic-policy.md): Economic Policy and the History of Economic Thought. Surveys the Austrian school's approach to economic policy, from Menger, Böhm-Bawerk and Wieser through Mises and Hayek to contemporary work. Page: https://louisrouanet-econ.github.io/research/austrian-economics-and-economic-policy/ — PDF: https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/Chapter_Leeson.pdf
 
 ## Optional
 
@@ -52,8 +52,10 @@ authors: "Louis Rouanet, Bryan Cutsinger, Josh Ingber"
 type: journal article
 venue: "European Economic Review"
 year: 2023
+doi: 10.1016/j.euroecorev.2023.104510
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/Assignats-EER.pdf
-text: https://louisrouanet-econ.github.io/papers/assignats-or-death-inflationary-finance-in-revolutionary.md
+page: https://louisrouanet-econ.github.io/research/assignats-or-death-inflationary-finance-in-revolutionary/
+markdown: https://louisrouanet-econ.github.io/research/assignats-or-death-inflationary-finance-in-revolutionary.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "Following a revolution precipitated by unsustainable government deficits, an explosion of paper money called the assignat caused a rapid increase in prices not seen in Europe again until the widespread adoption of discretionary fiat standards in the 20th century. The value of the assignat depended on the property the revolutionary government had expropriated to back it. The decision to retire the assignats from circulation using the revenue collected from the sale of the expropriated property was ultimately a political one. We examine how shifts in the political equilibrium affected the demand for the assignat and find evidence of two money demand shocks that correspond to the collapse of the political support for the assignats. Our estimates of the demand for the assignat indicate that the first shock reduced the demand for real balances by up to 70%. The second shock caused the negative relationship between real balances and inflation to break down entirely. Our results point to politics’ critical role in determining a currency’s fiscal backing and, thus, the demand for money."
 ---
@@ -63,10 +65,12 @@ abstract: "Following a revolution precipitated by unsustainable government defic
 **Authors:** Louis Rouanet, Bryan Cutsinger, Josh Ingber  
 **Published in:** European Economic Review  
 **Year:** 2023  
+**DOI:** https://doi.org/10.1016/j.euroecorev.2023.104510  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/Assignats-EER.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/assignats-or-death-inflationary-finance-in-revolutionary/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -600,6 +604,19 @@ Sargent, T.J., Smith, B.D., 1987. Irrelevance of open market operations in some 
 
 21
 
+## BibTeX
+
+```bibtex
+@article{rouanet2023assignats,
+  title = {Assignats or Death : Inflationary Finance in Revolutionary France},
+  author = {Louis Rouanet and Bryan Cutsinger and Josh Ingber},
+  journal = {European Economic Review},
+  year = {2023},
+  doi = {10.1016/j.euroecorev.2023.104510},
+  url = {https://louisrouanet-econ.github.io/research/assignats-or-death-inflationary-finance-in-revolutionary/}
+}
+```
+
 
 ---
 
@@ -610,7 +627,8 @@ type: journal article
 venue: "Journal of Economic History"
 year: 2022
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2023/09/Rouanet_JEH.pdf
-text: https://louisrouanet-econ.github.io/papers/drafting-the-great-army.md
+page: https://louisrouanet-econ.github.io/research/drafting-the-great-army/
+markdown: https://louisrouanet-econ.github.io/research/drafting-the-great-army.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "Napoléon Bonaparte revolutionized the practice of war with his reliance on a mass national army and large-scale conscription. This system faced one major obstacle: draft evasion. This article discusses Napoléon's response to widespread draft evasion. First, we show that draft dodging rates across France varied with geographic characteristics. Second, we provide evidence that the regime adopted a strategy of discriminatory conscription enforcement by setting a lower (higher) conscription rate for those regions where the enforcement of conscription was more (less) costly. Finally, we show that this strategy resulted in a rapid fall in draft dodging rates across France."
 ---
@@ -621,9 +639,10 @@ abstract: "Napoléon Bonaparte revolutionized the practice of war with his relia
 **Published in:** Journal of Economic History  
 **Year:** 2022  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2023/09/Rouanet_JEH.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/drafting-the-great-army/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -1871,6 +1890,18 @@ FIGURES FOR PRINT
 
 Figure 3 RUGGEDNESS IN HAUTE-VIENNE Source: Nunn and Puga (2012).
 
+## BibTeX
+
+```bibtex
+@article{rouanet2022drafting,
+  title = {Drafting the Great Army},
+  author = {Louis Rouanet and Ennio Piano},
+  journal = {Journal of Economic History},
+  year = {2022},
+  url = {https://louisrouanet-econ.github.io/research/drafting-the-great-army/}
+}
+```
+
 
 ---
 
@@ -1881,7 +1912,8 @@ type: journal article
 venue: "Explorations in Economic History"
 year: 2022
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2022/08/The_political_Economy_of_Price_controls_in_revolutionary_france-27.pdf
-text: https://louisrouanet-econ.github.io/papers/foutu-maximum-the-political-economy-of-price-controls.md
+page: https://louisrouanet-econ.github.io/research/foutu-maximum-the-political-economy-of-price-controls/
+markdown: https://louisrouanet-econ.github.io/research/foutu-maximum-the-political-economy-of-price-controls.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "War necessitates both allocating real resources to defense and certain interest groups being in favor of the government raising resources to wage war. Price controls can be a tool for governments to mobilize additional resources while buying the support of certain key interest groups, hence making war politically viable. France during the revolutionary Terror, the first instance of widespread price controls used in times of war, is used to illustrate this hypothesis. Urban capitalists benefited from price controls on agricultural output combined with forced sales. At the same time, I estimate that in the six months preceding the abolition of price controls, the government saved, by using them (and in real terms), the equivalent of roughly 40% of the annual 1790 central government budget. Consistent with my theory, once the exigencies of the war attenuated and as collective action became more costly for the urban population, price controls were abandoned."
 ---
@@ -1892,9 +1924,10 @@ abstract: "War necessitates both allocating real resources to defense and certai
 **Published in:** Explorations in Economic History  
 **Year:** 2022  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2022/08/The_political_Economy_of_Price_controls_in_revolutionary_france-27.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/foutu-maximum-the-political-economy-of-price-controls/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -2524,6 +2557,18 @@ White, E. N. (1995), ‘The French Revolution and the politics of government fin
 
 44
 
+## BibTeX
+
+```bibtex
+@article{rouanet2022foutu,
+  title = {Foutu Maximum : The political economy of price controls and national defense in revolutionary France.},
+  author = {Louis Rouanet},
+  journal = {Explorations in Economic History},
+  year = {2022},
+  url = {https://louisrouanet-econ.github.io/research/foutu-maximum-the-political-economy-of-price-controls/}
+}
+```
+
 
 ---
 
@@ -2534,7 +2579,8 @@ type: journal article
 venue: "Southern Economic Journal"
 year: 2021
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Leeson_Rouanet_Externality-and-Covid-19.pdf
-text: https://louisrouanet-econ.github.io/papers/externalities-and-covid-19.md
+page: https://louisrouanet-econ.github.io/research/externalities-and-covid-19/
+markdown: https://louisrouanet-econ.github.io/research/externalities-and-covid-19.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "Negative infectious-disease externalities are less prevalent in the absence of government intervention and less costly to society than is often supposed. That is so for three reasons. (1) Unlike externality creating behaviors in many classical externality contexts, such behaviors are often self-limiting in the context of infectious disease. (2) In market economies, behaviors that may create infectious disease externalities typically occur at sites that are owned privately and visited voluntarily. Owners have powerful incentives to regulate such behaviors at their sites, and visitors face residual infection risk contractually. (3) The social cost of infectious disease externalities is limited by the cheapest method of avoiding externalized infection risk. That cost is modest compared to the one usually imagined: the value of life (or health) lost to the disease if government does not intervene. We elaborate these arguments in the context of the Covid-19 pandemic."
 ---
@@ -2545,9 +2591,10 @@ abstract: "Negative infectious-disease externalities are less prevalent in the a
 **Published in:** Southern Economic Journal  
 **Year:** 2021  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Leeson_Rouanet_Externality-and-Covid-19.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/externalities-and-covid-19/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -2715,6 +2762,18 @@ see: Alvarez et al. (2020); Bairoliya and Imrohoroğlu (2020); Barnett-Howell an
 
 Philipson and Posner (1993) make an analogous point in the context of the AIDS epidemic.
 
+## BibTeX
+
+```bibtex
+@article{rouanet2021externalities,
+  title = {Externalities and COVID-19},
+  author = {Louis Rouanet and Peter Leeson},
+  journal = {Southern Economic Journal},
+  year = {2021},
+  url = {https://louisrouanet-econ.github.io/research/externalities-and-covid-19/}
+}
+```
+
 
 ---
 
@@ -2725,7 +2784,8 @@ type: journal article
 venue: "Public Choice"
 year: 2022
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Native_American_Constitutions-9.pdf
-text: https://louisrouanet-econ.github.io/papers/the-calculus-of-american-indian-consent-the-law.md
+page: https://louisrouanet-econ.github.io/research/the-calculus-of-american-indian-consent-the-law/
+markdown: https://louisrouanet-econ.github.io/research/the-calculus-of-american-indian-consent-the-law.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "American Indians living on reservation are the poorest demographic in the United States. A growing literature suggests that tribal political institutions are at least in part to blame for such poor economic performance. This paper develops and then tests a framework to study one central political institution influencing life on the reservation: Tribal constitutions. Building on previous work on constitutional choice, we articulate several hypotheses on the content of these documents. We focus especially on the strictness of ethnic requirements (or blood quantums), the adoption of direct democracy, the imposition of restrictions on elected officials, and the protection of private property against expropriation by the tribal government. We test our hypotheses against information from 117 American Indian constitutions, the majority of which were written in the aftermath of the Indian Reorganization Act of 1934. The results provide evidence of the validity of our hypotheses."
 ---
@@ -2736,9 +2796,10 @@ abstract: "American Indians living on reservation are the poorest demographic in
 **Published in:** Public Choice  
 **Year:** 2022  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Native_American_Constitutions-9.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/the-calculus-of-american-indian-consent-the-law/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -3606,6 +3667,18 @@ Figure 6: Council Term Length —Leave-one-out observation confirmation routine 
 
 53
 
+## BibTeX
+
+```bibtex
+@article{rouanet2022calculus,
+  title = {The Calculus of American Indian Consent: The law and economics of tribal constitutions},
+  author = {Louis Rouanet and Ennio Piano},
+  journal = {Public Choice},
+  year = {2022},
+  url = {https://louisrouanet-econ.github.io/research/the-calculus-of-american-indian-consent-the-law/}
+}
+```
+
 
 ---
 
@@ -3615,7 +3688,8 @@ authors: "Louis Rouanet, Vincent Geloso"
 type: journal article
 venue: "Southern Economic Journal"
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Geography_and_wages_in_colonial_Canada-12.pdf
-text: https://louisrouanet-econ.github.io/papers/can-geography-explain-quebecs-historical-poverty.md
+page: https://louisrouanet-econ.github.io/research/can-geography-explain-quebecs-historical-poverty/
+markdown: https://louisrouanet-econ.github.io/research/can-geography-explain-quebecs-historical-poverty.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "From the 19th century to the 1940’s, Quebec remained poorer and less economically developed than the rest of Canada in general and poorer than Ontario in particular. This placed Quebec at the bottom of North American rankings of living standards. One prominent hypothesis for the initiation of this gap is tied to disparities in agricultural land quality. Using newly available data for the mid-19th century, we formally test this hypothesis and find it holds little explanatory power. We further argue that poor institutions in Quebec (i.e. notably seigneurial tenure) are at the root of the development gap and that the effect of land quality on living standards is institutionally contingent."
 ---
@@ -3625,9 +3699,10 @@ abstract: "From the 19th century to the 1940’s, Quebec remained poorer and les
 **Authors:** Louis Rouanet, Vincent Geloso  
 **Published in:** Southern Economic Journal  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Geography_and_wages_in_colonial_Canada-12.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/can-geography-explain-quebecs-historical-poverty/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -4255,6 +4330,17 @@ Figure 9: Rerunning specification (7) from table 5 using different thresholds fo
 
 33
 
+## BibTeX
+
+```bibtex
+@article{rouanetndcan,
+  title = {Can Geography Explain Quebec's Historical Poverty ?},
+  author = {Louis Rouanet and Vincent Geloso},
+  journal = {Southern Economic Journal},
+  url = {https://louisrouanet-econ.github.io/research/can-geography-explain-quebecs-historical-poverty/}
+}
+```
+
 
 ---
 
@@ -4264,8 +4350,10 @@ authors: "Louis Rouanet"
 type: journal article
 venue: "Public Choice"
 year: 2021
+doi: 10.1007/s11127-019-00765-6
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Rouanet2019_Article_TheInterestGroupOriginsOfTheBa.pdf
-text: https://louisrouanet-econ.github.io/papers/the-interest-group-origins-of-the-bank-of-france.md
+page: https://louisrouanet-econ.github.io/research/the-interest-group-origins-of-the-bank-of-france/
+markdown: https://louisrouanet-econ.github.io/research/the-interest-group-origins-of-the-bank-of-france.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "This paper contrasts different interpretations of the creation of the Bank of France. I argue that the Bank of France was the product of rent-seeking behavior rather than the pursuit of public interest, as is commonly supposed. I explain how the changing institutional constraints faced by both politicians and bankers can account for changes in France’s monetary constitution. The creation of the Bank in 1800 followed the fall of the Directory and the establishment of Napoléon’s autocratic regime. I argue that as parliamentarism and the separation of powers were weakened by Napoléon, the cost of establishing and maintaining a monopoly privilege in banking evaporated and the creation of the Bank of France became more likely."
 ---
@@ -4275,10 +4363,12 @@ abstract: "This paper contrasts different interpretations of the creation of the
 **Authors:** Louis Rouanet  
 **Published in:** Public Choice  
 **Year:** 2021  
+**DOI:** https://doi.org/10.1007/s11127-019-00765-6  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Rouanet2019_Article_TheInterestGroupOriginsOfTheBa.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/the-interest-group-origins-of-the-bank-of-france/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -4590,6 +4680,19 @@ Public Choice Marion, M. (1914a). Histoire financière de la France depuis 1715 
 
 13
 
+## BibTeX
+
+```bibtex
+@article{rouanet2021interest,
+  title = {The Interest group origins of the Bank of France},
+  author = {Louis Rouanet},
+  journal = {Public Choice},
+  year = {2021},
+  doi = {10.1007/s11127-019-00765-6},
+  url = {https://louisrouanet-econ.github.io/research/the-interest-group-origins-of-the-bank-of-france/}
+}
+```
+
 
 ---
 
@@ -4599,8 +4702,10 @@ authors: "Louis Rouanet, Ennio Piano"
 type: journal article
 venue: "European Review of Economic History"
 year: 2019
+doi: 10.1093/ereh/hez014
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/JMP_Rouanet.pdf
-text: https://louisrouanet-econ.github.io/papers/filling-the-ranks-military-replacement-in-post-revolutionary.md
+page: https://louisrouanet-econ.github.io/research/filling-the-ranks-military-replacement-in-post-revolutionary/
+markdown: https://louisrouanet-econ.github.io/research/filling-the-ranks-military-replacement-in-post-revolutionary.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "Many economists have analyzed the efficiency of a volunteered army relative to a conscripted army. However, they have rarely studied the working of real-world alternative, market-based, military institutions where exemptions from military service are traded among the citizens. This paper fills this gap by studying the rise and fall of the Remplacement Militaire in the eighteenth and the nineteenth century France. This system endured for more than three quarters of a century until the French government progressively moved toward universal conscription after 1872. At times of military expansion, the State regulated the replacement market. We argue that the goal of such regulations was to limit the increase in fraud and avoid a deterioration in the quality of the soldiery associated with increases in the price of replacements."
 ---
@@ -4610,10 +4715,12 @@ abstract: "Many economists have analyzed the efficiency of a volunteered army re
 **Authors:** Louis Rouanet, Ennio Piano  
 **Published in:** European Review of Economic History  
 **Year:** 2019  
+**DOI:** https://doi.org/10.1093/ereh/hez014  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/JMP_Rouanet.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/filling-the-ranks-military-replacement-in-post-revolutionary/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -4945,6 +5052,19 @@ Downloaded from https://academic.oup.com/ereh/advance-article/doi/10.1093/ereh/h
 
 Levi, M. (1998). Conscription. In: Bates, R.H. Analytic narratives. Princeton: Princeton University Press, pp. 109–147. Lucas, D.S., Fuller, C.S. and Piano, E.E. (2018). Rooking the state. International Review of Law and Economics 55, pp. 12–20. Maillot, F.C. and Puel, J.A. (1842). Aide-Mémoire medico-légale de l’Officier de Santé de l’Armée de Terre. Paris, Librairie de l’Académie royale de Médecine. Mention, L. (1900). L’armée de l’ancien Régime de Louis XIV à la Révolution. Paris: Société française d’éditions d’art. Molis, R. (1971). L’armée de l’ancien régime: la milice provinciale dans la subdélégation de SaintGaudens en 1780, 1781, 1782 et 1787. Revue d’Histoire Économique et Sociale 49, pp. 44–54. Mulligan, C.B. and Shleifer, A. (2005). Conscription as regulation. American Law and Economics Review 7, pp. 85–111. Percy, P. F. , Laurent, C. (1819). Dictionnaire des sciences médicales. Paris, Panckoucke. Peau-Saint-Martin, M. (1861). Les pères de Famille et la Conscription Militaire. Guide du Tirage au sort et de la Révision. Paris: Hachette. Piano, E.E. and Rouanet, L. (2019). Desertion as theft. Journal of Institutional Economics forthcoming, 1–15. Rey (1839). Des Compagnies d’assurances pour le Remplacement Militaire. Paris: Librairie Anselin et Gaultier-Laguione. Ross, T.W. (1994). Raising an army: a positive theory of military recruitment. The Journal of Law and Economics 37, pp. 109–131. Rovinello, M. (2013). The draft and draftees in Italy, 1861–1914. In E.J. Zürcher (ed), Fighting for a Living. Amsterdam: Amsterdam University Press. Schnapper, B. (1968). Le Remplacement Militaire en France. Paris: SEVPEN. Seignan, K. (1998). La conscription dans le Département de la Seine-inferieure (an vi-1815). Mimeo, Université Paris 1 Panthéon-Sorbonne. Vallée, G. (1928). Le remplacement militaire en Charente, 1798–1814. La Revolution Française 40, pp. 224–235. Villemin, M. (1987). Les assurances contre le recrutement et pour les remplacements en Moselle avant 1870. Les Cahiers Lorrains 3, pp. 309–339.
 
+## BibTeX
+
+```bibtex
+@article{rouanet2019filling,
+  title = {Filling the ranks : Military replacement in post-revolutionary France},
+  author = {Louis Rouanet and Ennio Piano},
+  journal = {European Review of Economic History},
+  year = {2019},
+  doi = {10.1093/ereh/hez014},
+  url = {https://louisrouanet-econ.github.io/research/filling-the-ranks-military-replacement-in-post-revolutionary/}
+}
+```
+
 
 ---
 
@@ -4954,8 +5074,10 @@ authors: "Louis Rouanet, Ennio Piano"
 type: journal article
 venue: "Journal of Institutional Economics"
 year: 2019
+doi: 10.1017/S1744137419000250
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/desertion_as_theft.pdf
-text: https://louisrouanet-econ.github.io/papers/desertion-as-theft.md
+page: https://louisrouanet-econ.github.io/research/desertion-as-theft/
+markdown: https://louisrouanet-econ.github.io/research/desertion-as-theft.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "To be effective, an army must contain the extent of desertion among its ranks. This phenomenon rose to particular prominence in Europe during the 18th and 19th centuries, with the appearance of the figure of the “citizen-soldier” on the battlefield. This paper offers the first theoretical treatment of the issue of desertion from an economic perspective. Building on the work of Yoram Barzel on the “economic analysis of property rights,” we develop a “desertion as theft” framework. We then test the empirical implications of the framework against qualitative and quantitative evidence from Napoleonic France."
 ---
@@ -4965,10 +5087,12 @@ abstract: "To be effective, an army must contain the extent of desertion among i
 **Authors:** Louis Rouanet, Ennio Piano  
 **Published in:** Journal of Institutional Economics  
 **Year:** 2019  
+**DOI:** https://doi.org/10.1017/S1744137419000250  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/desertion_as_theft.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/desertion-as-theft/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -5522,6 +5646,19 @@ Halle, P. de la (1803), Statistique Générale et Particulière de la France et 
 
 Cite this article: Piano EE, Rouanet L (2019). Desertion as theft. Journal of Institutional Economics 1–15. https://doi.org/ 10.1017/S1744137419000250 Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
 
+## BibTeX
+
+```bibtex
+@article{rouanet2019desertion,
+  title = {Desertion as Theft},
+  author = {Louis Rouanet and Ennio Piano},
+  journal = {Journal of Institutional Economics},
+  year = {2019},
+  doi = {10.1017/S1744137419000250},
+  url = {https://louisrouanet-econ.github.io/research/desertion-as-theft/}
+}
+```
+
 
 ---
 
@@ -5531,8 +5668,10 @@ authors: "Louis Rouanet"
 type: journal article
 venue: "The Review of Austrian Economics"
 year: 2020
+doi: 10.1007/s11138-020-00521-w
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Rouanet_competition_is_still_a_though_weed.pdf
-text: https://louisrouanet-econ.github.io/papers/competition-is-still-a-tough-weed-a-review-essay-of-thomas.md
+page: https://louisrouanet-econ.github.io/research/competition-is-still-a-tough-weed-a-review-essay-of-thomas/
+markdown: https://louisrouanet-econ.github.io/research/competition-is-still-a-tough-weed-a-review-essay-of-thomas.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "In The Great Reversal, Philippon makes the case that competition in America has weakened during the past two decades. His book contributes to the rapidly developing literature on the macroeconomic consequences of market power. I argue that Philippon fails to convincingly support his hypothesis because (1) he does not consider competition as a process operating on several margins, with the price being only of them, and (2) the available empirical data does not unambiguously show a rise in market power. Philippon’s work suffers from similar flaws as the “structure-conduct-performance” paradigm. I also incorporate recent attempts to estimate aggregate market power and explain why the methods used for such estimations are calculated by making assumptions over which margins entrepreneurs compete and suffers from serious knowledge problems. Finally, I offer an alternative view of competition, which focuses on how and at what speed rents are being dissipated instead of the markup of price over marginal cost."
 ---
@@ -5542,10 +5681,12 @@ abstract: "In The Great Reversal, Philippon makes the case that competition in A
 **Authors:** Louis Rouanet  
 **Published in:** The Review of Austrian Economics  
 **Year:** 2020  
+**DOI:** https://doi.org/10.1007/s11138-020-00521-w  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Rouanet_competition_is_still_a_though_weed.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/competition-is-still-a-tough-weed-a-review-essay-of-thomas/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -5661,6 +5802,19 @@ Armentano, D. T. (1990). Antitrust and monopoly: Anatomy of a policy failure (2n
 
 Hayek, F. A. (1945). The use of knowledge in society. The American Economic Review, 35(4), 519–530. Hayek, F. A. (1948). Individualism and economic order. Chicago: University of Chicago Press. Henrekson, M., & Stenkula, M. (2017). The entrepreneurial rent: The value of and compensation for entrepreneurship. Journal of Entrepreneurship and Public Policy, 6(1), 11–25. Kirzner, I. M. (1973). Competition and entrepreneurship. Chicago: University of Chicago press. Lamoreaux, N. R. (2019). The problem of bigness: From standard oil to Google. Journal of Economic Perspectives, 33(3), 94–117. Leeson, P. T. (2020). Economics is not statistics (and vice versa). Journal of Institutional Economics. https://doi.org/10.1017/S174413742000003X Leeson, P. T., & Subrick, J. R. (2006). Robust political economy. The Review of Austrian Economics, 19(2–3), 107–111. Lindenberg, E. B., & Ross, S. A. (1981). Tobin’s q ratio and industrial organization. Journal of Business, 54(1), 1–32. Manne, H. G. (2014). Resurrecting the ghostly entrepreneur. The Review of Austrian Economics, 27(3), 249– 258. McChesney, F. S. (1987). Rent extraction and rent creation in the economic theory of regulation. The Journal of Legal Studies, 16(1), 101–118. Mises, L. V. (1920 [1935]). Economic calculation in the socialist commonwealth. In F. A. Hayek (Ed.), Collectivist economic planning (pp. 87–130). Londong: Routledge & Kegan Paul. Mises, L. V. (1949). Human action: A treatise on economics. New Haven: Yale University Press. Morck, R., Shleifer, A., & Vishny, R. W. (1988). Management ownership and market valuation: An empirical analysis. Journal of Financial Economics, 20, 293–315. Peltzman, S. (1991). The handbook of industrial organization: A review article. Journal of Political Economy, 99(1), 201–217. Philippon, T. (2019). The great reversal: How America gave up on free markets. Cambridge: Harvard University Press. Piano, E. E., & Rouanet, L. (2018). Economic calculation and the organization of markets. The Review of Austrian Economics. https://doi.org/10.1007/s11138-018-0425-4 Posner, R. A. (1979). The Chicago school of antitrust analysis. University of Pennsylvania Law Review, 127(4), 925–948. Raval, D. (2019a). Testing the production approach to markup estimation. Available at SSRN: https://papers. ssrn.com/sol3/papers.cfm?abstract_id=3324849. Accessed 5 June 2020. Raval, D. R. (2019b). The micro elasticity of substitution and non-neutral technology. The Rand Journal of Economics, 50(1), 147–167. Rossi-Hansberg, E., Sarte, P., & Trachter, N. (2018). Diverging trends in national and local concentration. NBER Working Paper No. 25066. Available at: https://www.nber.org/papers/w25066.pdf. Accessed 5 June 2020. Rothbard, M. N. (1962). Man, economy, and state: A treatise on economic principles. D. Van Nostrand: Princeton. Stigler, G. J. (1983). The organization of industry. Chicago: University of Chicago Press. Telser, L. G. (1960). Why should manufacturers want fair trade? The Journal of Law & Economics, 3, 86–105. Tollison, R. D. (1982). Rent seeking: A survey. Kyklos, 35(4), 575–602. Traina, J. (2018). Is aggregate market power increasing? Production trends using financial statements. Stigler Center New Working Paper Series, 17, 1–21. Tullock, G. (1967). The welfare costs of tariffs, monopolies, and theft. Western Economic Journal, 5(3), 224– 232. van Ark, B., O’Mahoney, M., & Timmer, M. P. (2008). The productivity gap between Europe and the United States: Trends and causes. Journal of Economic Perspectives, 22(1), 25–44. Williamson, O. E. (1968). Economies as an antitrust defense: The welfare tradeoffs. The American Economic Review, 58(1), 18–36. Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
 
+## BibTeX
+
+```bibtex
+@article{rouanet2020competition,
+  title = {Competition is (still) a tough weed : a review essay of Thomas Philippon's The Great Reversal},
+  author = {Louis Rouanet},
+  journal = {The Review of Austrian Economics},
+  year = {2020},
+  doi = {10.1007/s11138-020-00521-w},
+  url = {https://louisrouanet-econ.github.io/research/competition-is-still-a-tough-weed-a-review-essay-of-thomas/}
+}
+```
+
 
 ---
 
@@ -5671,7 +5825,8 @@ type: working paper
 venue: "R&R at Journal of political economy"
 year: 2024
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2025/11/Rouanet_Tallec_Long_Live_Republic_site.pdf
-text: https://louisrouanet-econ.github.io/papers/long-live-the-republic-the-political-consequences.md
+page: https://louisrouanet-econ.github.io/research/long-live-the-republic-the-political-consequences/
+markdown: https://louisrouanet-econ.github.io/research/long-live-the-republic-the-political-consequences.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "To be politically viable, a Revolution needs the support of key interest groups that benefit from the survival of the new regime. The redistribution of clergy property during the French Revolution created a group –the new owners of clergy assets- whose wealth depended on the Revolution’s fate, thus increasing political support for the Revolution. In contrast, it weakened the Church’s influence and further led it to side with anti-Republicans. Using data on elections during the beginning of the Third Republic, we show that the sale of clergy assets during the French Revolution substantially reduced support for anti-Republican candidates 80 years later. We trace this effect back to the dechristianization campaigns during the Revolution. The sale of Church assets reduced both the supply of and demand for Catholic worship, thus limiting the influence of priests. Predictably, it strengthened protestantism. Our results suggest that the liquidation of the Church’s wealth helped Republicans prevail in the 1870s. Overall, interest group politics is key to understanding the political and religious legacy of the Revolution."
 ---
@@ -5682,9 +5837,10 @@ abstract: "To be politically viable, a Revolution needs the support of key inter
 **Status:** R&R at Journal of political economy  
 **Year:** 2024  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2025/11/Rouanet_Tallec_Long_Live_Republic_site.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/long-live-the-republic-the-political-consequences/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -9040,6 +9196,18 @@ original avec une introduction et des notes. Paris, France: Librairie du Recueil
 
 128
 
+## BibTeX
+
+```bibtex
+@unpublished{rouanet2024long,
+  title = {Long live the Republic: The political consequences of revolutionary land redistribution},
+  author = {Louis Rouanet and Ronan Tallec},
+  note = {Working paper; R&R at Journal of political economy},
+  year = {2024},
+  url = {https://louisrouanet-econ.github.io/research/long-live-the-republic-the-political-consequences/}
+}
+```
+
 
 ---
 
@@ -9049,7 +9217,8 @@ authors: "Louis Rouanet, Ronan Tallec, Anne Alonzo"
 type: working paper
 year: 2024
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2025/03/RTA_The_Politics_of_Railroads_3-14-2025.pdf
-text: https://louisrouanet-econ.github.io/papers/the-politics-of-railroads.md
+page: https://louisrouanet-econ.github.io/research/the-politics-of-railroads/
+markdown: https://louisrouanet-econ.github.io/research/the-politics-of-railroads.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "Infrastructure programs are eminently political projects whose allocation is not simply the result of concerns about economic efficiency. We show how representative politics influenced the allocation of railroads in France following the 1879 Freycinet plan, which projected a 40% increase in the size of the French network. Towns in Republican majority electoral districts were more likely to get train stations. This electoral effect emerged only after the parliament started getting involved in the making of the plan. Using a difference-in-discontinuity design, we find that infrastructure pork-barrel was greatest in swing districts. Within electoral constituencies, politically competitive municipalities benefited from greater railroad investments, as they contained more swayable voters. Finally, our results suggest distributive politics was more pronounced in regions where the government directly owned railroads."
 ---
@@ -9059,9 +9228,10 @@ abstract: "Infrastructure programs are eminently political projects whose alloca
 **Authors:** Louis Rouanet, Ronan Tallec, Anne Alonzo  
 **Year:** 2024  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2025/03/RTA_The_Politics_of_Railroads_3-14-2025.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/the-politics-of-railroads/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -16091,6 +16261,18 @@ Pjθ−1 = 0
 
 Note that as long as p(VR ) declines rapidly when a district moves away from being swing, then districts close to the 50/50 electoral threshold will get more pork even though the condition above does not hold. 93
 
+## BibTeX
+
+```bibtex
+@unpublished{rouanet2024politics,
+  title = {The Politics of Railroads},
+  author = {Louis Rouanet and Ronan Tallec and Anne Alonzo},
+  note = {Working paper},
+  year = {2024},
+  url = {https://louisrouanet-econ.github.io/research/the-politics-of-railroads/}
+}
+```
+
 
 ---
 
@@ -16100,7 +16282,8 @@ authors: "Louis Rouanet"
 type: working paper
 year: 2022
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2022/11/The_Failure_of_French_Democratic_Socialism-16.pdf
-text: https://louisrouanet-econ.github.io/papers/the-failure-of-french-democratic-socialism.md
+page: https://louisrouanet-econ.github.io/research/the-failure-of-french-democratic-socialism/
+markdown: https://louisrouanet-econ.github.io/research/the-failure-of-french-democratic-socialism.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "The attempt to implement democratic socialism in France following Francois Mitterrand’s election in 1981 is directly responsible for France’s economic underperformance since. This paper uses the synthetic control method to assess the causal effects of Mitterrand’s election. By 1996 France would have been around 26% richer than if Mitterrand had not been elected. Investment and the labor supply fell substantially while government consumption increased relative to our synthetic counterfactual. These effects are persistent. On the other hand, there is little evidence that Mitterrand’s election caused an increase in the average tax rate or inflation. We speculate that the persistence of the negative effects of democratic socialist policies is due to the industrial organization of rent-seeking in France. Rent-seeking in France is centralized and relatively anti-competitive. This implies that the interests of the administrative State take precedence over that of private actors, that incumbents rentseekers face less competition, and that bad policies tend to persist for longer."
 ---
@@ -16110,9 +16293,10 @@ abstract: "The attempt to implement democratic socialism in France following Fra
 **Authors:** Louis Rouanet  
 **Year:** 2022  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2022/11/The_Failure_of_French_Democratic_Socialism-16.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/the-failure-of-french-democratic-socialism/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -16358,6 +16542,18 @@ Note: The graphs below represent the results with different indicator variables 
 
 28
 
+## BibTeX
+
+```bibtex
+@unpublished{rouanet2022failure,
+  title = {The Failure of French Democratic Socialism},
+  author = {Louis Rouanet},
+  note = {Working paper},
+  year = {2022},
+  url = {https://louisrouanet-econ.github.io/research/the-failure-of-french-democratic-socialism/}
+}
+```
+
 
 ---
 
@@ -16367,7 +16563,8 @@ authors: "Louis Rouanet, Bryan Cutsinger"
 type: working paper
 year: 2020
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2022/05/Hyperinflation_and_Rent_seeking-16.pdf
-text: https://louisrouanet-econ.github.io/papers/democracy-dictatorship-and-the-monetary-commons.md
+page: https://louisrouanet-econ.github.io/research/democracy-dictatorship-and-the-monetary-commons/
+markdown: https://louisrouanet-econ.github.io/research/democracy-dictatorship-and-the-monetary-commons.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "In this paper, we analyze the effect that alternative decision-making structures have on equilibrium inflation rates. Our analysis considers decision-making structures that could be expected to emerge under dictatorship, political instability, and democracy. Each scenario implies different ownership structures over the real value of the money stock, which we treat as a common pool resource. We find that the equilibrium inflation rate that emerges under dictatorship is consistent with the seigniorage-maximizing rate, but under conditions that could be characterized as politically unstable, the inflation rate exceeds the seignioragemaximizing rate. In the case of democracy, however, we find that under plausible conditions, the inflation rate that emerges will always be below the seigniorage-maximizing rate. In other words, when political property rights over the real value of the money stock are ill-defined, there is a tragedy of the monetary commons. Our analysis explains why inflation rates are lower in more democratic countries and those that experience lower bouts of political instability."
 ---
@@ -16377,9 +16574,10 @@ abstract: "In this paper, we analyze the effect that alternative decision-making
 **Authors:** Louis Rouanet, Bryan Cutsinger  
 **Year:** 2020  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2022/05/Hyperinflation_and_Rent_seeking-16.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/democracy-dictatorship-and-the-monetary-commons/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -16813,6 +17011,18 @@ Aisen, A., & Veiga, F. J. (2006). Does Political Instability Lead to Higher Infl
 
 21
 
+## BibTeX
+
+```bibtex
+@unpublished{rouanet2020democracy,
+  title = {Democracy, Dictatorship, and the Monetary Commons},
+  author = {Louis Rouanet and Bryan Cutsinger},
+  note = {Working paper},
+  year = {2020},
+  url = {https://louisrouanet-econ.github.io/research/democracy-dictatorship-and-the-monetary-commons/}
+}
+```
+
 
 ---
 
@@ -16822,7 +17032,8 @@ authors: "Louis Rouanet"
 type: book chapter
 venue: "Edward Elgar"
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/9781800882263-book-part-9781800882263-6.pdf
-text: https://louisrouanet-econ.github.io/papers/introduction-to-a-research-agenda-for-austrian-economics.md
+page: https://louisrouanet-econ.github.io/research/introduction-to-a-research-agenda-for-austrian-economics/
+markdown: https://louisrouanet-econ.github.io/research/introduction-to-a-research-agenda-for-austrian-economics.md
 homepage: https://louisrouanet-econ.github.io/
 ---
 
@@ -16831,9 +17042,10 @@ homepage: https://louisrouanet-econ.github.io/
 **Authors:** Louis Rouanet  
 **Published in:** Edward Elgar  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/9781800882263-book-part-9781800882263-6.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/introduction-to-a-research-agenda-for-austrian-economics/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Full text
 
@@ -16969,6 +17181,17 @@ Leeson, P. T. & Suarez, P. A. (2015), ‘Superstition and self-governance’. In
 
 Louis Rouanet - 9781800882263 Downloaded from PubFactory at 07/25/2023 04:28:52PM via free access
 
+## BibTeX
+
+```bibtex
+@incollection{rouanetndintroduction,
+  title = {Introduction to A Research Agenda for Austrian Economics},
+  author = {Louis Rouanet},
+  booktitle = {Edward Elgar},
+  url = {https://louisrouanet-econ.github.io/research/introduction-to-a-research-agenda-for-austrian-economics/}
+}
+```
+
 
 ---
 
@@ -16978,7 +17201,8 @@ authors: "Peter T. Leeson, Louis Rouanet"
 type: book chapter
 venue: "Economic Policy and the History of Economic Thought"
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/Chapter_Leeson.pdf
-text: https://louisrouanet-econ.github.io/papers/austrian-economics-and-economic-policy.md
+page: https://louisrouanet-econ.github.io/research/austrian-economics-and-economic-policy/
+markdown: https://louisrouanet-econ.github.io/research/austrian-economics-and-economic-policy.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "In other words, the “main and only concern” of the early Austrian economists “was to contribute to the advancement of economics” (Mises 1969, p. 149). It is therefore surprising that later Austrian economists, in particular Ludwig von Mises and Friedrich Hayek, were actively engaged in debates about economic policy and are perhaps best known for their defense of “free-market” policies. This chapter argues that only after the socialist calculation debate of the 1920s and 1930s did Mises and Hayek progressively develop a more distinctive approach to economic policy. That approach considers policies and institutions in light of their (in)congruity with broad principles, most notably the idea that knowledge is dispersed and incomplete. In the 1960s and 1970s, several insights of the later Austrian School were integrated into other “schools,” such as Public Choice and New Institutional Economics. The integration, however, was not total, and an emphasis on “knowledge problems” in the context of economic policies and institutions remains a distinctive feature of the contemporary Austrian School."
 ---
@@ -16988,9 +17212,10 @@ abstract: "In other words, the “main and only concern” of the early Austrian
 **Authors:** Peter T. Leeson, Louis Rouanet  
 **Published in:** Economic Policy and the History of Economic Thought  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/Chapter_Leeson.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/austrian-economics-and-economic-policy/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -17289,3 +17514,14 @@ Sobel, R. S., & Leeson, P. T. (2007). The use of knowledge in natural-disaster r
 Sowell, T. (1980). Knowledge and Decisions. New York: Basic Books.
 
 Wieser, F. von. (1914) [1927]. Social Economics. New York: Adelphi Company.
+
+## BibTeX
+
+```bibtex
+@incollection{rouanetndaustrian,
+  title = {Austrian Economics and Economic Policy},
+  author = {Peter T. Leeson and Louis Rouanet},
+  booktitle = {Economic Policy and the History of Economic Thought},
+  url = {https://louisrouanet-econ.github.io/research/austrian-economics-and-economic-policy/}
+}
+```

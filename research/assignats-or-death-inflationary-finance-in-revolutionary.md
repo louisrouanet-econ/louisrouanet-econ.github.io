@@ -4,8 +4,10 @@ authors: "Louis Rouanet, Bryan Cutsinger, Josh Ingber"
 type: journal article
 venue: "European Economic Review"
 year: 2023
+doi: 10.1016/j.euroecorev.2023.104510
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/Assignats-EER.pdf
-text: https://louisrouanet-econ.github.io/papers/assignats-or-death-inflationary-finance-in-revolutionary.md
+page: https://louisrouanet-econ.github.io/research/assignats-or-death-inflationary-finance-in-revolutionary/
+markdown: https://louisrouanet-econ.github.io/research/assignats-or-death-inflationary-finance-in-revolutionary.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "Following a revolution precipitated by unsustainable government deficits, an explosion of paper money called the assignat caused a rapid increase in prices not seen in Europe again until the widespread adoption of discretionary fiat standards in the 20th century. The value of the assignat depended on the property the revolutionary government had expropriated to back it. The decision to retire the assignats from circulation using the revenue collected from the sale of the expropriated property was ultimately a political one. We examine how shifts in the political equilibrium affected the demand for the assignat and find evidence of two money demand shocks that correspond to the collapse of the political support for the assignats. Our estimates of the demand for the assignat indicate that the first shock reduced the demand for real balances by up to 70%. The second shock caused the negative relationship between real balances and inflation to break down entirely. Our results point to politics’ critical role in determining a currency’s fiscal backing and, thus, the demand for money."
 ---
@@ -15,10 +17,12 @@ abstract: "Following a revolution precipitated by unsustainable government defic
 **Authors:** Louis Rouanet, Bryan Cutsinger, Josh Ingber  
 **Published in:** European Economic Review  
 **Year:** 2023  
+**DOI:** https://doi.org/10.1016/j.euroecorev.2023.104510  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/Assignats-EER.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/assignats-or-death-inflationary-finance-in-revolutionary/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -551,3 +555,16 @@ B.P. Cutsinger et al.
 Sargent, T.J., Smith, B.D., 1987. Irrelevance of open market operations in some economies with government currency being dominated in rate of return. Am. Econ. Rev. 78–92. Sargent, T.J., Velde, F.R., 1995. Macroeconomic Features of the French Revolution. J. Polit. Econ. 103 (3), 474–518. Say, J.-B., 1803. TraitÉ D’Économie Politique. Ludwig von Mises Institute. Selgin, G., 1994. On Ensuring the Acceptability of a New Fiat Money. J. Money Credit Bank. 26 (4), 808–826. Senior, N., 1830. The Cost of Obtaining Money: and on Some Eeffects of Private and Government Paper Money. John Murray, Albemarle-Street, London, UK. Smith, A., 1776. An Inquiry Into the Nature and Causes of the Wealth of Nations: Volume One. printed for W. Strahan; and T. Cadell, 1776., London. Smith, B.D., 1985a. American Colonial Monetary Regimes: The Failure of the Quantity Theory and Some Evidence in Favour of an Alternate View. Can. J. Econ. 18 (3), 531–565. Smith, B.D., 1985b. Some Colonial Evidence on Two Theories of Money: Maryland and the Carolinas. J. Polit. Econ. 93 (6), 1178–1211. Steinberg, R., 2019. The Afterlives of the Terror: Facing the Legacies of Mass Violence in Postrevolutionary France. Cornell University Press. Stock, J.H., 1987. Asymptotic properties of least squares estimators of cointegrating vectors. Econometrica 55 (5), 1035–1056. Stock, J.H., Watson, M.W., 1993. A Simple Estimator of Cointegrating Vectors in Higher Order Integrated Systems. Econometrica 61 (4), 783–820. Sumner, S., 1993. Colonial currency and the quantity theory of money: a critique of Smith’s interpretation. J. Econ. History 53 (1), 139–145. Taylor, M.P., 1991. The Hyperinflation Model of Money Demand Revisited. J. Money Credit Bank. 23 (3), 327–351. Thiers, L.A., 1845. History of the French Revolution, Translated By J. Dixon. G. Vickers. Thornton, H., 1802. An Enquiry Into the Nature and Effects of the Paper Credit of Great Britain. George Allen and Unwin. Toutain, J.-C., 1987. Le Produit IntÉRieur Brut de la France de 1789 à 1982. Cahiers de l’I.S.M.E.A.. Wallace, N., 1981. A Modigliani-Miller theorem for open-market operations. Am. Econ. Rev. 71 (3), 267–274. Weidenmier, M.D., 2002. Turning Points in the u. s. Civil War: Views from the Grayback Market. Southern Econ. J. 68 (4), 875–890. West, R.C., 1978. Money in the Colonial American Economy. Econ. Inq. 16 (1), 1–15. White, E.N., 1987. The Stock of Paper Money During the French Revolution. White, E.N., 1991. Measuring the French Revolution’s inflation: the Tableaux de dépréciation. Histoire Mesure 245–274. White, E.N., 1995. The French Revolution and the Politics of Government Finance, 1770-1815. J. Econ. History 55 (2), 227–255. Wicker, E., 1985. Colonial Monetary Standards Contrasted: Evidence from the Seven Years’ War. J. Econ. History 45 (4), 869–884. Wicksell, K., 1968. Lectures on political economy. Volume II: Money. Willard, K.L., Guinnane, T.W., Rosen, H.S., 1996. Turning Points in the Civil War: Views from the Greenback Market. Amer. Econ. Rev. 86 (4), 1001–1018.
 
 21
+
+## BibTeX
+
+```bibtex
+@article{rouanet2023assignats,
+  title = {Assignats or Death : Inflationary Finance in Revolutionary France},
+  author = {Louis Rouanet and Bryan Cutsinger and Josh Ingber},
+  journal = {European Economic Review},
+  year = {2023},
+  doi = {10.1016/j.euroecorev.2023.104510},
+  url = {https://louisrouanet-econ.github.io/research/assignats-or-death-inflationary-finance-in-revolutionary/}
+}
+```

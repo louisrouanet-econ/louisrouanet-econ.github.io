@@ -5,7 +5,8 @@ type: journal article
 venue: "Public Choice"
 year: 2022
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Native_American_Constitutions-9.pdf
-text: https://louisrouanet-econ.github.io/papers/the-calculus-of-american-indian-consent-the-law.md
+page: https://louisrouanet-econ.github.io/research/the-calculus-of-american-indian-consent-the-law/
+markdown: https://louisrouanet-econ.github.io/research/the-calculus-of-american-indian-consent-the-law.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "American Indians living on reservation are the poorest demographic in the United States. A growing literature suggests that tribal political institutions are at least in part to blame for such poor economic performance. This paper develops and then tests a framework to study one central political institution influencing life on the reservation: Tribal constitutions. Building on previous work on constitutional choice, we articulate several hypotheses on the content of these documents. We focus especially on the strictness of ethnic requirements (or blood quantums), the adoption of direct democracy, the imposition of restrictions on elected officials, and the protection of private property against expropriation by the tribal government. We test our hypotheses against information from 117 American Indian constitutions, the majority of which were written in the aftermath of the Indian Reorganization Act of 1934. The results provide evidence of the validity of our hypotheses."
 ---
@@ -16,9 +17,10 @@ abstract: "American Indians living on reservation are the poorest demographic in
 **Published in:** Public Choice  
 **Year:** 2022  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Native_American_Constitutions-9.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/the-calculus-of-american-indian-consent-the-law/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -885,3 +887,15 @@ Figure 5: Council age requirement —Leave-one-out observation confirmation rout
 Figure 6: Council Term Length —Leave-one-out observation confirmation routine for each threshold end date from 1941 to 1951. Note: These two graphs show the distribution of the regression coefficient of tribal land value share on tribal council term length for 405 regressions.
 
 53
+
+## BibTeX
+
+```bibtex
+@article{rouanet2022calculus,
+  title = {The Calculus of American Indian Consent: The law and economics of tribal constitutions},
+  author = {Louis Rouanet and Ennio Piano},
+  journal = {Public Choice},
+  year = {2022},
+  url = {https://louisrouanet-econ.github.io/research/the-calculus-of-american-indian-consent-the-law/}
+}
+```

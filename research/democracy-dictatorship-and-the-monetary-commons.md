@@ -4,7 +4,8 @@ authors: "Louis Rouanet, Bryan Cutsinger"
 type: working paper
 year: 2020
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2022/05/Hyperinflation_and_Rent_seeking-16.pdf
-text: https://louisrouanet-econ.github.io/papers/democracy-dictatorship-and-the-monetary-commons.md
+page: https://louisrouanet-econ.github.io/research/democracy-dictatorship-and-the-monetary-commons/
+markdown: https://louisrouanet-econ.github.io/research/democracy-dictatorship-and-the-monetary-commons.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "In this paper, we analyze the effect that alternative decision-making structures have on equilibrium inflation rates. Our analysis considers decision-making structures that could be expected to emerge under dictatorship, political instability, and democracy. Each scenario implies different ownership structures over the real value of the money stock, which we treat as a common pool resource. We find that the equilibrium inflation rate that emerges under dictatorship is consistent with the seigniorage-maximizing rate, but under conditions that could be characterized as politically unstable, the inflation rate exceeds the seignioragemaximizing rate. In the case of democracy, however, we find that under plausible conditions, the inflation rate that emerges will always be below the seigniorage-maximizing rate. In other words, when political property rights over the real value of the money stock are ill-defined, there is a tragedy of the monetary commons. Our analysis explains why inflation rates are lower in more democratic countries and those that experience lower bouts of political instability."
 ---
@@ -14,9 +15,10 @@ abstract: "In this paper, we analyze the effect that alternative decision-making
 **Authors:** Louis Rouanet, Bryan Cutsinger  
 **Year:** 2020  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2022/05/Hyperinflation_and_Rent_seeking-16.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/democracy-dictatorship-and-the-monetary-commons/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -449,3 +451,15 @@ relatively mild. While monetary policy is not subject to a vote by all members o
 Aisen, A., & Veiga, F. J. (2006). Does Political Instability Lead to Higher Inflation? A Panel Data Analysis. Journal of Money, Credit and Banking, 38(5), 1379–1389. Aisen, A., & Veiga, F. J. (2008a). The political economy of seigniorage. Journal of Development Economics, 87 (1), 29–50. Aisen, A., & Veiga, F. J. (2008b). Political Instability and Inflation Volatility. Public Choice, 135 (3/4), 207–223. Aizenman, J. (1992). Competitive Externalities and the Optimal Seigniorage. Journal of Money, Credit and Banking, 24(1), 61–71. Berkowitz, D., & Li, W. (2000). Tax rights in transition economies: a tragedy of the commons? Journal of Public Economics, 76 (3), 369–397. Buchanan, J. M., & Yoon, Y. J. (2001). Majoritarian Management of the Commons. Economic Inquiry, 39(3), 396–405. Buchanan, J. M., & Yoon, Y. J. (2004). Majoritarian exploitation of the fiscal commons: general taxes–differential transfers. European Journal of Political Economy, 20(1), 73–90. Cukierman, A., Edwards, S., & Tabellini, G. (1992). Seigniorage and Political Instability. The American Economic Review, 82(3), 537–555. Fischer, S., Sahay, R., & Végh, C. A. (2002). Modern Hyper- and High Inflations. Journal of Economic Literature, 40(3), 837–880. (Publisher: American Economic Association) Mulligan, C. B., Gil, R., & Sala-i Martin, X. (2004). Do Democracies Have Different Public Policies than Nondemocracies? The Journal of Economic Perspectives, 18(1), 51–74. Velasco, A. (2000). Debts and deficits with fragmented fiscal policymaking. Journal of Public Economics, 76 (1), 105–125. Wrede, M. (1999). Tragedy of the Fiscal Common?: Fiscal Stock Externalities in a Leviathan Model of Federalism. Public Choice, 101 (3), 177–193.
 
 21
+
+## BibTeX
+
+```bibtex
+@unpublished{rouanet2020democracy,
+  title = {Democracy, Dictatorship, and the Monetary Commons},
+  author = {Louis Rouanet and Bryan Cutsinger},
+  note = {Working paper},
+  year = {2020},
+  url = {https://louisrouanet-econ.github.io/research/democracy-dictatorship-and-the-monetary-commons/}
+}
+```

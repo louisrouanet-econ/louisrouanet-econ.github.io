@@ -5,7 +5,8 @@ type: journal article
 venue: "Southern Economic Journal"
 year: 2021
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Leeson_Rouanet_Externality-and-Covid-19.pdf
-text: https://louisrouanet-econ.github.io/papers/externalities-and-covid-19.md
+page: https://louisrouanet-econ.github.io/research/externalities-and-covid-19/
+markdown: https://louisrouanet-econ.github.io/research/externalities-and-covid-19.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "Negative infectious-disease externalities are less prevalent in the absence of government intervention and less costly to society than is often supposed. That is so for three reasons. (1) Unlike externality creating behaviors in many classical externality contexts, such behaviors are often self-limiting in the context of infectious disease. (2) In market economies, behaviors that may create infectious disease externalities typically occur at sites that are owned privately and visited voluntarily. Owners have powerful incentives to regulate such behaviors at their sites, and visitors face residual infection risk contractually. (3) The social cost of infectious disease externalities is limited by the cheapest method of avoiding externalized infection risk. That cost is modest compared to the one usually imagined: the value of life (or health) lost to the disease if government does not intervene. We elaborate these arguments in the context of the Covid-19 pandemic."
 ---
@@ -16,9 +17,10 @@ abstract: "Negative infectious-disease externalities are less prevalent in the a
 **Published in:** Southern Economic Journal  
 **Year:** 2021  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Leeson_Rouanet_Externality-and-Covid-19.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/externalities-and-covid-19/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -185,3 +187,15 @@ For examples of Covid research whose cost-benefit analyses use the value of a st
 see: Alvarez et al. (2020); Bairoliya and Imrohoroğlu (2020); Barnett-Howell and Mobarak (2020); Béland et al. (2020); Bethune and Korinek (2020); Greenstone and Visham (2020); Gros et al. (2020); Hall et al. (2020); Robinson et al. (2020); Scherbina (2020); Thunström et al. (2020); Ugarov (2020); Wilson (2020). 17
 
 Philipson and Posner (1993) make an analogous point in the context of the AIDS epidemic.
+
+## BibTeX
+
+```bibtex
+@article{rouanet2021externalities,
+  title = {Externalities and COVID-19},
+  author = {Louis Rouanet and Peter Leeson},
+  journal = {Southern Economic Journal},
+  year = {2021},
+  url = {https://louisrouanet-econ.github.io/research/externalities-and-covid-19/}
+}
+```

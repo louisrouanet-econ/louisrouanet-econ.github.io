@@ -4,7 +4,8 @@ authors: "Louis Rouanet"
 type: book chapter
 venue: "Edward Elgar"
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/9781800882263-book-part-9781800882263-6.pdf
-text: https://louisrouanet-econ.github.io/papers/introduction-to-a-research-agenda-for-austrian-economics.md
+page: https://louisrouanet-econ.github.io/research/introduction-to-a-research-agenda-for-austrian-economics/
+markdown: https://louisrouanet-econ.github.io/research/introduction-to-a-research-agenda-for-austrian-economics.md
 homepage: https://louisrouanet-econ.github.io/
 ---
 
@@ -13,9 +14,10 @@ homepage: https://louisrouanet-econ.github.io/
 **Authors:** Louis Rouanet  
 **Published in:** Edward Elgar  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/9781800882263-book-part-9781800882263-6.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/introduction-to-a-research-agenda-for-austrian-economics/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Full text
 
@@ -150,3 +152,14 @@ xxiv A RESEARCH AGENDA FOR AUSTRIAN ECONOMICS
 Leeson, P. T. & Suarez, P. A. (2015), ‘Superstition and self-governance’. In New thinking in Austrian political economy, Emerald Group Publishing Limited. Lemke, J. & Kroencke, J. (2020), ‘Methodological confusions and the science wars in economics’, The Review of Austrian Economics 33(1), 87–106. Lewin, P. & Cachanosky, N. (2020), Capital and finance: theory and history, Routledge. Lucas, R. E. (1995), ‘Understanding business cycles’, Essential Readings in Economics, pp. 306–327. Luther, W. J. & McElyea, J. P. (2018), ‘Austrian macroeconomics in search of its uniqueness’, AIER Sound Money Project Working Paper (2018-05). Makowski, L. & Ostroy, J. M. (2001), ‘Perfect competition and the creativity of the market’, Journal of Economic Literature 39(2), 479–535. McCandless, G. T., Wallace, N. et al. (1991), Introduction to dynamic macroeconomic theory: an overlapping generations approach, Harvard University Press. McCulloch, J. H. (1977), ‘The Austrian theory of the marginal use and of ordinal marginal utility’, Zeitschrift für nationalökonomie 37(3), 249–280. Mises, L. v. (1949), Human action, Ludwig von Mises Institute. Mises, L. v. (1985), Theory and history, Ludwig von Mises Institute. Mises, L. v. (2012), The ultimate foundation of economic science, Liberty Fund. Nosal, E. & Rocheteau, G. (2011), Money, payments, and liquidity, MIT press. O’Driscoll, G. P. & Rizzo, M. (1996), The economics of time and ignorance, Psychology Press. Piano, E. E. (2017), ‘Free riders: the economics and organization of outlaw motorcycle gangs’, Public Choice 171(3), 283–301. Piano, E. E. (2021), ‘Specialization and the firm in renaissance Italian art’, Journal of Cultural Economics pp. 1–39. Powell, B. (2014), Out of poverty: sweatshops in the global economy, Cambridge University Press. Robbins, L. (1933), Introduction to: Common Sense of Political Economy. 2 vols. By Philip Wicksteed, London: Routledge and Kegan Paul. Rouanet, L. (2021), ‘The interest group origins of the Bank of France’, Public Choice 186(1), 119–140. Rouanet, L. (2022), ‘Foutu maximum the political economy of price controls and national defense in revolutionary France’, Available at SSRN 4066998. Rouanet, L. & Piano, E. E. (2020), ‘Filling the ranks: The remplacement militaire in postrevolutionary France’, European Review of Economic History 24(4), 696–715. Rouanet, L. & Piano, E. E. (2022), ‘Drafting the great army: the political economy of conscription in Napoleonic France’, The Journal of Economic History (forthcoming). Shleifer, A. (1998), ‘State versus private ownership’, Journal of Economic Perspectives 12(4), 133–150. Stein, S. & Storr, V. H. (2013), ‘The difficulty of applying the economics of time and ignorance’, The Review of Austrian Economics 26(1), 27–37. Storr, V. H. (2019), ‘On the status of Austrian economics’. In Assessing Austrian Economics, Vol. 24, Emerald Publishing Limited, pp. 81–87. Stringham, E. (2015), Private governance: creating order in economic and social life, Oxford University Press, USA. Vaughn, K. I. (1998), Austrian economics in America: the migration of a tradition, Cambridge University Press. Williamson, C. R. (2020), ‘Are we Austrian economists?’, The Review of Austrian Economics 33(4), 407–413.
 
 Louis Rouanet - 9781800882263 Downloaded from PubFactory at 07/25/2023 04:28:52PM via free access
+
+## BibTeX
+
+```bibtex
+@incollection{rouanetndintroduction,
+  title = {Introduction to A Research Agenda for Austrian Economics},
+  author = {Louis Rouanet},
+  booktitle = {Edward Elgar},
+  url = {https://louisrouanet-econ.github.io/research/introduction-to-a-research-agenda-for-austrian-economics/}
+}
+```

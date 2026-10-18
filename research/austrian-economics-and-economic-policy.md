@@ -4,7 +4,8 @@ authors: "Peter T. Leeson, Louis Rouanet"
 type: book chapter
 venue: "Economic Policy and the History of Economic Thought"
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/Chapter_Leeson.pdf
-text: https://louisrouanet-econ.github.io/papers/austrian-economics-and-economic-policy.md
+page: https://louisrouanet-econ.github.io/research/austrian-economics-and-economic-policy/
+markdown: https://louisrouanet-econ.github.io/research/austrian-economics-and-economic-policy.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "In other words, the “main and only concern” of the early Austrian economists “was to contribute to the advancement of economics” (Mises 1969, p. 149). It is therefore surprising that later Austrian economists, in particular Ludwig von Mises and Friedrich Hayek, were actively engaged in debates about economic policy and are perhaps best known for their defense of “free-market” policies. This chapter argues that only after the socialist calculation debate of the 1920s and 1930s did Mises and Hayek progressively develop a more distinctive approach to economic policy. That approach considers policies and institutions in light of their (in)congruity with broad principles, most notably the idea that knowledge is dispersed and incomplete. In the 1960s and 1970s, several insights of the later Austrian School were integrated into other “schools,” such as Public Choice and New Institutional Economics. The integration, however, was not total, and an emphasis on “knowledge problems” in the context of economic policies and institutions remains a distinctive feature of the contemporary Austrian School."
 ---
@@ -14,9 +15,10 @@ abstract: "In other words, the “main and only concern” of the early Austrian
 **Authors:** Peter T. Leeson, Louis Rouanet  
 **Published in:** Economic Policy and the History of Economic Thought  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2023/07/Chapter_Leeson.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/austrian-economics-and-economic-policy/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -315,3 +317,14 @@ Sobel, R. S., & Leeson, P. T. (2007). The use of knowledge in natural-disaster r
 Sowell, T. (1980). Knowledge and Decisions. New York: Basic Books.
 
 Wieser, F. von. (1914) [1927]. Social Economics. New York: Adelphi Company.
+
+## BibTeX
+
+```bibtex
+@incollection{rouanetndaustrian,
+  title = {Austrian Economics and Economic Policy},
+  author = {Peter T. Leeson and Louis Rouanet},
+  booktitle = {Economic Policy and the History of Economic Thought},
+  url = {https://louisrouanet-econ.github.io/research/austrian-economics-and-economic-policy/}
+}
+```

@@ -4,8 +4,10 @@ authors: "Louis Rouanet, Ennio Piano"
 type: journal article
 venue: "European Review of Economic History"
 year: 2019
+doi: 10.1093/ereh/hez014
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/JMP_Rouanet.pdf
-text: https://louisrouanet-econ.github.io/papers/filling-the-ranks-military-replacement-in-post-revolutionary.md
+page: https://louisrouanet-econ.github.io/research/filling-the-ranks-military-replacement-in-post-revolutionary/
+markdown: https://louisrouanet-econ.github.io/research/filling-the-ranks-military-replacement-in-post-revolutionary.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "Many economists have analyzed the efficiency of a volunteered army relative to a conscripted army. However, they have rarely studied the working of real-world alternative, market-based, military institutions where exemptions from military service are traded among the citizens. This paper fills this gap by studying the rise and fall of the Remplacement Militaire in the eighteenth and the nineteenth century France. This system endured for more than three quarters of a century until the French government progressively moved toward universal conscription after 1872. At times of military expansion, the State regulated the replacement market. We argue that the goal of such regulations was to limit the increase in fraud and avoid a deterioration in the quality of the soldiery associated with increases in the price of replacements."
 ---
@@ -15,10 +17,12 @@ abstract: "Many economists have analyzed the efficiency of a volunteered army re
 **Authors:** Louis Rouanet, Ennio Piano  
 **Published in:** European Review of Economic History  
 **Year:** 2019  
+**DOI:** https://doi.org/10.1093/ereh/hez014  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/JMP_Rouanet.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/filling-the-ranks-military-replacement-in-post-revolutionary/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -349,3 +353,16 @@ European Review of Economic History
 Downloaded from https://academic.oup.com/ereh/advance-article/doi/10.1093/ereh/hez014/5625880 by University College London user on 13 October 2020
 
 Levi, M. (1998). Conscription. In: Bates, R.H. Analytic narratives. Princeton: Princeton University Press, pp. 109–147. Lucas, D.S., Fuller, C.S. and Piano, E.E. (2018). Rooking the state. International Review of Law and Economics 55, pp. 12–20. Maillot, F.C. and Puel, J.A. (1842). Aide-Mémoire medico-légale de l’Officier de Santé de l’Armée de Terre. Paris, Librairie de l’Académie royale de Médecine. Mention, L. (1900). L’armée de l’ancien Régime de Louis XIV à la Révolution. Paris: Société française d’éditions d’art. Molis, R. (1971). L’armée de l’ancien régime: la milice provinciale dans la subdélégation de SaintGaudens en 1780, 1781, 1782 et 1787. Revue d’Histoire Économique et Sociale 49, pp. 44–54. Mulligan, C.B. and Shleifer, A. (2005). Conscription as regulation. American Law and Economics Review 7, pp. 85–111. Percy, P. F. , Laurent, C. (1819). Dictionnaire des sciences médicales. Paris, Panckoucke. Peau-Saint-Martin, M. (1861). Les pères de Famille et la Conscription Militaire. Guide du Tirage au sort et de la Révision. Paris: Hachette. Piano, E.E. and Rouanet, L. (2019). Desertion as theft. Journal of Institutional Economics forthcoming, 1–15. Rey (1839). Des Compagnies d’assurances pour le Remplacement Militaire. Paris: Librairie Anselin et Gaultier-Laguione. Ross, T.W. (1994). Raising an army: a positive theory of military recruitment. The Journal of Law and Economics 37, pp. 109–131. Rovinello, M. (2013). The draft and draftees in Italy, 1861–1914. In E.J. Zürcher (ed), Fighting for a Living. Amsterdam: Amsterdam University Press. Schnapper, B. (1968). Le Remplacement Militaire en France. Paris: SEVPEN. Seignan, K. (1998). La conscription dans le Département de la Seine-inferieure (an vi-1815). Mimeo, Université Paris 1 Panthéon-Sorbonne. Vallée, G. (1928). Le remplacement militaire en Charente, 1798–1814. La Revolution Française 40, pp. 224–235. Villemin, M. (1987). Les assurances contre le recrutement et pour les remplacements en Moselle avant 1870. Les Cahiers Lorrains 3, pp. 309–339.
+
+## BibTeX
+
+```bibtex
+@article{rouanet2019filling,
+  title = {Filling the ranks : Military replacement in post-revolutionary France},
+  author = {Louis Rouanet and Ennio Piano},
+  journal = {European Review of Economic History},
+  year = {2019},
+  doi = {10.1093/ereh/hez014},
+  url = {https://louisrouanet-econ.github.io/research/filling-the-ranks-military-replacement-in-post-revolutionary/}
+}
+```

@@ -4,7 +4,8 @@ authors: "Louis Rouanet, Ronan Tallec, Anne Alonzo"
 type: working paper
 year: 2024
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2025/03/RTA_The_Politics_of_Railroads_3-14-2025.pdf
-text: https://louisrouanet-econ.github.io/papers/the-politics-of-railroads.md
+page: https://louisrouanet-econ.github.io/research/the-politics-of-railroads/
+markdown: https://louisrouanet-econ.github.io/research/the-politics-of-railroads.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "Infrastructure programs are eminently political projects whose allocation is not simply the result of concerns about economic efficiency. We show how representative politics influenced the allocation of railroads in France following the 1879 Freycinet plan, which projected a 40% increase in the size of the French network. Towns in Republican majority electoral districts were more likely to get train stations. This electoral effect emerged only after the parliament started getting involved in the making of the plan. Using a difference-in-discontinuity design, we find that infrastructure pork-barrel was greatest in swing districts. Within electoral constituencies, politically competitive municipalities benefited from greater railroad investments, as they contained more swayable voters. Finally, our results suggest distributive politics was more pronounced in regions where the government directly owned railroads."
 ---
@@ -14,9 +15,10 @@ abstract: "Infrastructure programs are eminently political projects whose alloca
 **Authors:** Louis Rouanet, Ronan Tallec, Anne Alonzo  
 **Year:** 2024  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2025/03/RTA_The_Politics_of_Railroads_3-14-2025.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/the-politics-of-railroads/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -7045,3 +7047,15 @@ Pjθ−1 = 0
 (31)
 
 Note that as long as p(VR ) declines rapidly when a district moves away from being swing, then districts close to the 50/50 electoral threshold will get more pork even though the condition above does not hold. 93
+
+## BibTeX
+
+```bibtex
+@unpublished{rouanet2024politics,
+  title = {The Politics of Railroads},
+  author = {Louis Rouanet and Ronan Tallec and Anne Alonzo},
+  note = {Working paper},
+  year = {2024},
+  url = {https://louisrouanet-econ.github.io/research/the-politics-of-railroads/}
+}
+```

@@ -4,7 +4,8 @@ authors: "Louis Rouanet"
 type: working paper
 year: 2022
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2022/11/The_Failure_of_French_Democratic_Socialism-16.pdf
-text: https://louisrouanet-econ.github.io/papers/the-failure-of-french-democratic-socialism.md
+page: https://louisrouanet-econ.github.io/research/the-failure-of-french-democratic-socialism/
+markdown: https://louisrouanet-econ.github.io/research/the-failure-of-french-democratic-socialism.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "The attempt to implement democratic socialism in France following Francois Mitterrand’s election in 1981 is directly responsible for France’s economic underperformance since. This paper uses the synthetic control method to assess the causal effects of Mitterrand’s election. By 1996 France would have been around 26% richer than if Mitterrand had not been elected. Investment and the labor supply fell substantially while government consumption increased relative to our synthetic counterfactual. These effects are persistent. On the other hand, there is little evidence that Mitterrand’s election caused an increase in the average tax rate or inflation. We speculate that the persistence of the negative effects of democratic socialist policies is due to the industrial organization of rent-seeking in France. Rent-seeking in France is centralized and relatively anti-competitive. This implies that the interests of the administrative State take precedence over that of private actors, that incumbents rentseekers face less competition, and that bad policies tend to persist for longer."
 ---
@@ -14,9 +15,10 @@ abstract: "The attempt to implement democratic socialism in France following Fra
 **Authors:** Louis Rouanet  
 **Year:** 2022  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2022/11/The_Failure_of_French_Democratic_Socialism-16.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/the-failure-of-french-democratic-socialism/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -261,3 +263,15 @@ Changing the indicator variables Figure 10: Results with different indicator var
 Note: The graphs below represent the results with different indicator variables for the pre-treatment fit. The indicator variables used for each dependant variable x are: x(1960), x(1970), x(1975), x(1979), x(1980), Human capital, Gross capital formation, Hours worked per worker, Trade openness, and Government expenditures. For inflation and taxes, year 1965 is used instead of 1960.
 
 28
+
+## BibTeX
+
+```bibtex
+@unpublished{rouanet2022failure,
+  title = {The Failure of French Democratic Socialism},
+  author = {Louis Rouanet},
+  note = {Working paper},
+  year = {2022},
+  url = {https://louisrouanet-econ.github.io/research/the-failure-of-french-democratic-socialism/}
+}
+```

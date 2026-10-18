@@ -4,8 +4,10 @@ authors: "Louis Rouanet"
 type: journal article
 venue: "Public Choice"
 year: 2021
+doi: 10.1007/s11127-019-00765-6
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Rouanet2019_Article_TheInterestGroupOriginsOfTheBa.pdf
-text: https://louisrouanet-econ.github.io/papers/the-interest-group-origins-of-the-bank-of-france.md
+page: https://louisrouanet-econ.github.io/research/the-interest-group-origins-of-the-bank-of-france/
+markdown: https://louisrouanet-econ.github.io/research/the-interest-group-origins-of-the-bank-of-france.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "This paper contrasts different interpretations of the creation of the Bank of France. I argue that the Bank of France was the product of rent-seeking behavior rather than the pursuit of public interest, as is commonly supposed. I explain how the changing institutional constraints faced by both politicians and bankers can account for changes in France’s monetary constitution. The creation of the Bank in 1800 followed the fall of the Directory and the establishment of Napoléon’s autocratic regime. I argue that as parliamentarism and the separation of powers were weakened by Napoléon, the cost of establishing and maintaining a monopoly privilege in banking evaporated and the creation of the Bank of France became more likely."
 ---
@@ -15,10 +17,12 @@ abstract: "This paper contrasts different interpretations of the creation of the
 **Authors:** Louis Rouanet  
 **Published in:** Public Choice  
 **Year:** 2021  
+**DOI:** https://doi.org/10.1007/s11127-019-00765-6  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Rouanet2019_Article_TheInterestGroupOriginsOfTheBa.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/the-interest-group-origins-of-the-bank-of-france/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -329,3 +333,16 @@ Public Choice Barzel, Y. (2002). A theory of the state: Economic rights, legal r
 Public Choice Marion, M. (1914a). Histoire financière de la France depuis 1715 (Vol. 3). B. Franklin. Marion, M. (1914b). Histoire financière de la France depuis 1715 (Vol. 4). B. Franklin. Mathiez, A. (1919). LA RÉVOLUTION ET LES ÉTRANGERS. Le banquier Perregaux. Annales révolutionnaires, 11(2), 242–252. Mathiez, A. (1920). Encore le banquier Perregaux. Annales révolutionnaires, 12(3), 237–243. McChesney, Fred S. (1991). Rent extraction and interest-group organization in a Coasean model of regulation. The Journal of Legal Studies, 20(1), 73–90. McCormick, R. E., & Tollison, R. D. (1981). Politicians, legislators and the economy. Boston: Martinus Nijhoff. Mitchell, B. (Ed.). (1998). International historical statistics: Europe 1750–1993. Berlin: Springer. Nataf, P. (2002). Free banking in France (1796–1803). In: Experience of free banking (pp. 135–148). Routledge. Peltzman, S. (1976). Toward a more general theory of regulation. The Journal of Law and Economics, 19(2), 211–240. Prate, A. (1987). La France et sa monnaie: essai sur les relations entre la Banque de France et les gouvernements. Paris: Julliard. Pressnell, L. S. (1956). Country banking in the industrial revolution. Oxford: Clarendon Press. Prunaux, E. (2009). Les comptoirs d’escompte de la Banque de France. Napoleonica. La Revue, 2, 14–146. Ramon, G. G. (1929). Histoire de la Banque de France: d’après les sources originales. Paris: B. Grasset. Robert, A. (1890). Dictionnaire des parlementaires français. Paris: Bourloton. Saint-Aubin, C. (1795). Des banques particulières. Institut Coppet. Sargent, T. J., & Velde, F. R. (1995). Macroeconomic features of the French Revolution. Journal of Political Economy, 103(3), 474–518. Say, J.-B. (1847). Lettre inédite de J.-B. Say sur la banque de France. Journal des économistes, Tome 16, 1847, 374–377. Selgin, G. (2015). New York’s bank: The National Monetary Commission and the founding of the Fed. https​ ://ssrn.com/abstr​act=27108​68. Accessed 6 Dec 2019. Selgin, G., & White, L. H. (1999). A fiscal theory of government’s role in money. Economic Inquiry, 37(1), 154–165. Shughart, W. F. II. (1988). A public choice perspective of the Banking Act of 1933. In The financial services revolution (pp. 87–105). Dordrecht: Springer. Smith, V. C. (1936). The rationale of central banking. London: PS King. Stasavage, D. (2007). Partisan politics and public debt: The importance of the ‘Whig Supremacy’ for Britain’s financial revolution. European Review of Economic History, 11(1), 123–153. Stigler, G. J. (1971). The theory of economic regulation. The Bell Journal of Economics and Management Science, 2(1), 3–21. Stigler, G. J. (1982). The economist as preacher, and other essays. Chicago: University of Chicago Press. Szramkiewicz, R. (1974). Les régents et censeurs de la Banque de France nommés sous le Consulat et l’Empire. Geneva: Librairie Droz. Tollison, R. D. (1982). Rent seeking: A survey. Kyklos, 35(4), 575–602. Toma, M. (2005). Competition and monopoly in the Federal Reserve System, 1914–1951: A microeconomic approach to monetary history. Cambridge: Cambridge University Press. Tulard, J. (1983). Napoléon: ou le mythe du sauveur. Paris: Fayard. Tullock, G. (1971). The paradox of revolution. Public Choice, 11(1), 89–99. Ugolini, S. (2017). The evolution of central banking: Theory and history. London: Palgrave Macmillan. Wagner, R. E. (1986). Central banking and the Fed: A public choice perspective. Cato Journal, 6, 519. White, E. N. (1982). The political economy of banking regulation, 1864–1933. The Journal of Economic History, 42(1), 33–40. White, E. N. (1990). Free banking during the French Revolution. Explorations in Economic History, 27(3), 251–276. White, E. N. (1991). Experiments with banking during the French Revolution. In F. Capie & G. E. Wood (Eds.), Unregulated banking: Chaos or order?. Berlin: Springer. White, L. H. (1992). Competition and currency: Essays on free banking and money. New York: NYU Press. Wolff, J. (2007). Napoléon et l’économie. L’impuissance du politique. Paris: Jas. Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
 
 13
+
+## BibTeX
+
+```bibtex
+@article{rouanet2021interest,
+  title = {The Interest group origins of the Bank of France},
+  author = {Louis Rouanet},
+  journal = {Public Choice},
+  year = {2021},
+  doi = {10.1007/s11127-019-00765-6},
+  url = {https://louisrouanet-econ.github.io/research/the-interest-group-origins-of-the-bank-of-france/}
+}
+```

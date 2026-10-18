@@ -4,8 +4,10 @@ authors: "Louis Rouanet, Ennio Piano"
 type: journal article
 venue: "Journal of Institutional Economics"
 year: 2019
+doi: 10.1017/S1744137419000250
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/desertion_as_theft.pdf
-text: https://louisrouanet-econ.github.io/papers/desertion-as-theft.md
+page: https://louisrouanet-econ.github.io/research/desertion-as-theft/
+markdown: https://louisrouanet-econ.github.io/research/desertion-as-theft.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "To be effective, an army must contain the extent of desertion among its ranks. This phenomenon rose to particular prominence in Europe during the 18th and 19th centuries, with the appearance of the figure of the “citizen-soldier” on the battlefield. This paper offers the first theoretical treatment of the issue of desertion from an economic perspective. Building on the work of Yoram Barzel on the “economic analysis of property rights,” we develop a “desertion as theft” framework. We then test the empirical implications of the framework against qualitative and quantitative evidence from Napoleonic France."
 ---
@@ -15,10 +17,12 @@ abstract: "To be effective, an army must contain the extent of desertion among i
 **Authors:** Louis Rouanet, Ennio Piano  
 **Published in:** Journal of Institutional Economics  
 **Year:** 2019  
+**DOI:** https://doi.org/10.1017/S1744137419000250  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/desertion_as_theft.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/desertion-as-theft/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -571,3 +575,16 @@ Journal of Institutional Economics
 Halle, P. de la (1803), Statistique Générale et Particulière de la France et de Ses Colonies, Paris, France: Buisson. Hodgson, G. M. (2015), ‘Much of the “Economics of Property Rights” Devalues Property and Legal Rights’, Journal of Institutional Economics, 11(4): 683–709. Johnson, R. N. and G. D. Libecap (1982), ‘Contracting Problems and Regulation: The Case of the Fishery’, American Economic Review, 72(5): 1005–1022. Lee, D. R. and R. B. McKenzie (1992), ‘Reexamination of the Relative Efficiency of the Draft and the All-volunteer Army’, Southern Economic Journal, 58(3): 644–654. Leeson, P. T. (2007), ‘An-arrgh-chy: The Law and Economics of Pirate Organization’, Journal of Political Economy, 115(6): 1049–1094. Leeson, P. T. (2009), ‘The Invisible Hook: The Law and Economics of Pirate Tolerance’, New York University Journal of Law and Liberty, 4, 139. Leeson, P. T. (2010), ‘Pirational Choice: The Economics of Infamous Pirate Practices’, Journal of Economic Behavior & Organization, 76(3): 497–510. Leeson, P. T. (2012a), ‘Ordeals’, Journal of Law and Economics, 55(3): 691–714. Leeson, P. T. (2012b), ‘“God Damn”: The Law and Economics of Monastic Malediction’, Journal of Law, Economics, & Organization, 30(1): 193–216. Le Mée, R. (1971), ‘Population Agglomérée, Population Eparse au Début du XIXe Siècle’, in Annales de démographie historique, Paris, France: Société de Démographie Historique, pp. 455–510. Linch, K. (2016), ‘Desertion from the British Army during the Napoleonic Wars’, Journal of Social History, 49(4): 808–828. Military Dictionary (1780), A military dictionary, explaining and describing the technical terms, works and machines used in the science of war. Dublin: Office of C. Jackson. Napoléon, I (1858–1870), Correspondance de Napoléon Ier, 30 volumes. Paris, France: Plon. Nüssli, C. and M. A. Nüssli (2008), Georeferenced Historical Vector Data, Paris, France: Euratlas. Piano, E. E. (2017), ‘Free Riders: The Economics and Organization of Outlaw Motorcycle Gangs’, Public Choice, 171(3–4): 283–301. Piano, E. E. (2018), ‘Outlaw and Economics: Biker Gangs and Club Goods’, Rationality and Society, 30(3): 350–376. Prudhomme, L. M. (1804), Dictionnaire Universel, Géographique, Statistique, Historique et Politique de la France. Paris, France: Baudouin. Ross, T. W. (1994), ‘Raising an Army: A Positive Theory of Military Recruitment’, Journal of Law and Economics, 37(1), 109–131. Rouanet, L. and E. E. Piano (2019), ‘Filling the Ranks: The Remplacement Militaire in Post-Revolutionary France’, Mimeo, available at https://ssrn.com/abstract=3294 (accessed 10 May 2019). Tullock, G. (1967), ‘The Welfare Costs of Tariffs, Monopolies, and Theft’, Economic Inquiry, 5(3): 224–232. Vallée, G. (1937), Compte Général de la Conscription de A. A. Hargenvilliers, publié d’après le manuscrit original avec une introduction et des notes, Paris, France: Librairie du Recueil Sirey. Viard, P. (1926), ‘Études Sur la Conscription Militaire Napoléonienne’, Revue du Nord, 12(48): 273–301. Vosgien (1809), Dictionnaire Géographique Portatif, Paris, France: Leroy. Waquet, J. (1968), ‘La société civile devant l’insoumission et la désertion: à l’époque de la conscription militaire (1798–1814) d’après la correspondance du ministre de l’intérieur’, Bibliothèque de l’École des chartes, 187–222. Woodbury, E. N. (1921), ‘Causes for Military Desertion: A Study in Criminal Motives’, Journal of Criminal Law and Criminology, 12(2): 213–222.
 
 Cite this article: Piano EE, Rouanet L (2019). Desertion as theft. Journal of Institutional Economics 1–15. https://doi.org/ 10.1017/S1744137419000250 Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+## BibTeX
+
+```bibtex
+@article{rouanet2019desertion,
+  title = {Desertion as Theft},
+  author = {Louis Rouanet and Ennio Piano},
+  journal = {Journal of Institutional Economics},
+  year = {2019},
+  doi = {10.1017/S1744137419000250},
+  url = {https://louisrouanet-econ.github.io/research/desertion-as-theft/}
+}
+```

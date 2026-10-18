@@ -5,7 +5,8 @@ type: journal article
 venue: "Explorations in Economic History"
 year: 2022
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2022/08/The_political_Economy_of_Price_controls_in_revolutionary_france-27.pdf
-text: https://louisrouanet-econ.github.io/papers/foutu-maximum-the-political-economy-of-price-controls.md
+page: https://louisrouanet-econ.github.io/research/foutu-maximum-the-political-economy-of-price-controls/
+markdown: https://louisrouanet-econ.github.io/research/foutu-maximum-the-political-economy-of-price-controls.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "War necessitates both allocating real resources to defense and certain interest groups being in favor of the government raising resources to wage war. Price controls can be a tool for governments to mobilize additional resources while buying the support of certain key interest groups, hence making war politically viable. France during the revolutionary Terror, the first instance of widespread price controls used in times of war, is used to illustrate this hypothesis. Urban capitalists benefited from price controls on agricultural output combined with forced sales. At the same time, I estimate that in the six months preceding the abolition of price controls, the government saved, by using them (and in real terms), the equivalent of roughly 40% of the annual 1790 central government budget. Consistent with my theory, once the exigencies of the war attenuated and as collective action became more costly for the urban population, price controls were abandoned."
 ---
@@ -16,9 +17,10 @@ abstract: "War necessitates both allocating real resources to defense and certai
 **Published in:** Explorations in Economic History  
 **Year:** 2022  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2022/08/The_political_Economy_of_Price_controls_in_revolutionary_france-27.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/foutu-maximum-the-political-economy-of-price-controls/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -647,3 +649,15 @@ Schmidt, W. A. (1869), Tableaux de la Révolution française, Vol. 2, Veit. Siba
 White, E. N. (1995), ‘The French Revolution and the politics of government finance, 1770– 1815’, The Journal of Economic History 55(2), 227–255.
 
 44
+
+## BibTeX
+
+```bibtex
+@article{rouanet2022foutu,
+  title = {Foutu Maximum : The political economy of price controls and national defense in revolutionary France.},
+  author = {Louis Rouanet},
+  journal = {Explorations in Economic History},
+  year = {2022},
+  url = {https://louisrouanet-econ.github.io/research/foutu-maximum-the-political-economy-of-price-controls/}
+}
+```

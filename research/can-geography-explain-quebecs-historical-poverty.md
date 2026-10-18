@@ -4,7 +4,8 @@ authors: "Louis Rouanet, Vincent Geloso"
 type: journal article
 venue: "Southern Economic Journal"
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Geography_and_wages_in_colonial_Canada-12.pdf
-text: https://louisrouanet-econ.github.io/papers/can-geography-explain-quebecs-historical-poverty.md
+page: https://louisrouanet-econ.github.io/research/can-geography-explain-quebecs-historical-poverty/
+markdown: https://louisrouanet-econ.github.io/research/can-geography-explain-quebecs-historical-poverty.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "From the 19th century to the 1940’s, Quebec remained poorer and less economically developed than the rest of Canada in general and poorer than Ontario in particular. This placed Quebec at the bottom of North American rankings of living standards. One prominent hypothesis for the initiation of this gap is tied to disparities in agricultural land quality. Using newly available data for the mid-19th century, we formally test this hypothesis and find it holds little explanatory power. We further argue that poor institutions in Quebec (i.e. notably seigneurial tenure) are at the root of the development gap and that the effect of land quality on living standards is institutionally contingent."
 ---
@@ -14,9 +15,10 @@ abstract: "From the 19th century to the 1940’s, Quebec remained poorer and les
 **Authors:** Louis Rouanet, Vincent Geloso  
 **Published in:** Southern Economic Journal  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Geography_and_wages_in_colonial_Canada-12.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/can-geography-explain-quebecs-historical-poverty/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -643,3 +645,14 @@ Alternative measures for wage dispersion measure
 Figure 9: Rerunning specification (7) from table 5 using different thresholds for measuring wage dispersion. Note: This figure displays the results of 351 regressions of “Wage dispersion” on “Seigneurial” where the threshold used to measure wage dispersion changes by 1km intervals between 50km and 400km. The black lines represent the 5% and 1% significance thresholds and a coefficient size of zero respectively. t-statistics are computed using Conley standard errors as in Table 5.
 
 33
+
+## BibTeX
+
+```bibtex
+@article{rouanetndcan,
+  title = {Can Geography Explain Quebec's Historical Poverty ?},
+  author = {Louis Rouanet and Vincent Geloso},
+  journal = {Southern Economic Journal},
+  url = {https://louisrouanet-econ.github.io/research/can-geography-explain-quebecs-historical-poverty/}
+}
+```

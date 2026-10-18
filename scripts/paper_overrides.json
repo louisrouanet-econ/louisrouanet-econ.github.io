@@ -1,7 +1,22 @@
 {
-  "_comment": "Hand corrections used by scripts/build_llm_text.py, keyed by the local PDF path. Fields: abstract, description, authors (full list, first author first).",
+  "_comment": "Hand corrections used by scripts/build_llm_text.py, keyed by the local PDF path (or the external URL). Fields: abstract, description, authors (full list, first author first), doi, published_url, year.",
+  "wp-content/uploads/2023/07/Assignats-EER.pdf": {
+    "doi": "10.1016/j.euroecorev.2023.104510"
+  },
   "wp-content/uploads/2023/09/Rouanet_JEH.pdf": {
     "abstract": "Napoléon Bonaparte revolutionized the practice of war with his reliance on a mass national army and large-scale conscription. This system faced one major obstacle: draft evasion. This article discusses Napoléon's response to widespread draft evasion. First, we show that draft dodging rates across France varied with geographic characteristics. Second, we provide evidence that the regime adopted a strategy of discriminatory conscription enforcement by setting a lower (higher) conscription rate for those regions where the enforcement of conscription was more (less) costly. Finally, we show that this strategy resulted in a rapid fall in draft dodging rates across France."
+  },
+  "wp-content/uploads/2021/04/Rouanet2019_Article_TheInterestGroupOriginsOfTheBa.pdf": {
+    "doi": "10.1007/s11127-019-00765-6"
+  },
+  "wp-content/uploads/2021/04/JMP_Rouanet.pdf": {
+    "doi": "10.1093/ereh/hez014"
+  },
+  "wp-content/uploads/2021/04/desertion_as_theft.pdf": {
+    "doi": "10.1017/S1744137419000250"
+  },
+  "wp-content/uploads/2021/04/Rouanet_competition_is_still_a_though_weed.pdf": {
+    "doi": "10.1007/s11138-020-00521-w"
   },
   "wp-content/uploads/2023/07/Chapter_Leeson.pdf": {
     "authors": ["Peter T. Leeson", "Louis Rouanet"],

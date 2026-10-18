@@ -5,7 +5,8 @@ type: working paper
 venue: "R&R at Journal of political economy"
 year: 2024
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2025/11/Rouanet_Tallec_Long_Live_Republic_site.pdf
-text: https://louisrouanet-econ.github.io/papers/long-live-the-republic-the-political-consequences.md
+page: https://louisrouanet-econ.github.io/research/long-live-the-republic-the-political-consequences/
+markdown: https://louisrouanet-econ.github.io/research/long-live-the-republic-the-political-consequences.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "To be politically viable, a Revolution needs the support of key interest groups that benefit from the survival of the new regime. The redistribution of clergy property during the French Revolution created a group –the new owners of clergy assets- whose wealth depended on the Revolution’s fate, thus increasing political support for the Revolution. In contrast, it weakened the Church’s influence and further led it to side with anti-Republicans. Using data on elections during the beginning of the Third Republic, we show that the sale of clergy assets during the French Revolution substantially reduced support for anti-Republican candidates 80 years later. We trace this effect back to the dechristianization campaigns during the Revolution. The sale of Church assets reduced both the supply of and demand for Catholic worship, thus limiting the influence of priests. Predictably, it strengthened protestantism. Our results suggest that the liquidation of the Church’s wealth helped Republicans prevail in the 1870s. Overall, interest group politics is key to understanding the political and religious legacy of the Revolution."
 ---
@@ -16,9 +17,10 @@ abstract: "To be politically viable, a Revolution needs the support of key inter
 **Status:** R&R at Journal of political economy  
 **Year:** 2024  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2025/11/Rouanet_Tallec_Long_Live_Republic_site.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/long-live-the-republic-the-political-consequences/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -3373,3 +3375,15 @@ Nunn, N., & Puga, D. (2012). Ruggedness: The blessing of bad geography in africa
 original avec une introduction et des notes. Paris, France: Librairie du Recueil Sirey. Venard, M., & Julia, D. (1977). Le répertoire des visites pastorales. premiers enseignements d’une enquête. Revue d’histoire de l’Eglise de France, 63(171), 213–233. Willaime, J.-P. (2021). Difficultés et enjeux des études quantitatives de la minorité protestante française. Archives de sciences sociales des religions, 221–251.
 
 128
+
+## BibTeX
+
+```bibtex
+@unpublished{rouanet2024long,
+  title = {Long live the Republic: The political consequences of revolutionary land redistribution},
+  author = {Louis Rouanet and Ronan Tallec},
+  note = {Working paper; R&R at Journal of political economy},
+  year = {2024},
+  url = {https://louisrouanet-econ.github.io/research/long-live-the-republic-the-political-consequences/}
+}
+```

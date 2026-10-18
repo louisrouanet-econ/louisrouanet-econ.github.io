@@ -4,8 +4,10 @@ authors: "Louis Rouanet"
 type: journal article
 venue: "The Review of Austrian Economics"
 year: 2020
+doi: 10.1007/s11138-020-00521-w
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Rouanet_competition_is_still_a_though_weed.pdf
-text: https://louisrouanet-econ.github.io/papers/competition-is-still-a-tough-weed-a-review-essay-of-thomas.md
+page: https://louisrouanet-econ.github.io/research/competition-is-still-a-tough-weed-a-review-essay-of-thomas/
+markdown: https://louisrouanet-econ.github.io/research/competition-is-still-a-tough-weed-a-review-essay-of-thomas.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "In The Great Reversal, Philippon makes the case that competition in America has weakened during the past two decades. His book contributes to the rapidly developing literature on the macroeconomic consequences of market power. I argue that Philippon fails to convincingly support his hypothesis because (1) he does not consider competition as a process operating on several margins, with the price being only of them, and (2) the available empirical data does not unambiguously show a rise in market power. Philippon’s work suffers from similar flaws as the “structure-conduct-performance” paradigm. I also incorporate recent attempts to estimate aggregate market power and explain why the methods used for such estimations are calculated by making assumptions over which margins entrepreneurs compete and suffers from serious knowledge problems. Finally, I offer an alternative view of competition, which focuses on how and at what speed rents are being dissipated instead of the markup of price over marginal cost."
 ---
@@ -15,10 +17,12 @@ abstract: "In The Great Reversal, Philippon makes the case that competition in A
 **Authors:** Louis Rouanet  
 **Published in:** The Review of Austrian Economics  
 **Year:** 2020  
+**DOI:** https://doi.org/10.1007/s11138-020-00521-w  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/Rouanet_competition_is_still_a_though_weed.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/competition-is-still-a-tough-weed-a-review-essay-of-thomas/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -133,3 +137,16 @@ Armentano, D. T. (1990). Antitrust and monopoly: Anatomy of a policy failure (2n
 ## L. Rouanet
 
 Hayek, F. A. (1945). The use of knowledge in society. The American Economic Review, 35(4), 519–530. Hayek, F. A. (1948). Individualism and economic order. Chicago: University of Chicago Press. Henrekson, M., & Stenkula, M. (2017). The entrepreneurial rent: The value of and compensation for entrepreneurship. Journal of Entrepreneurship and Public Policy, 6(1), 11–25. Kirzner, I. M. (1973). Competition and entrepreneurship. Chicago: University of Chicago press. Lamoreaux, N. R. (2019). The problem of bigness: From standard oil to Google. Journal of Economic Perspectives, 33(3), 94–117. Leeson, P. T. (2020). Economics is not statistics (and vice versa). Journal of Institutional Economics. https://doi.org/10.1017/S174413742000003X Leeson, P. T., & Subrick, J. R. (2006). Robust political economy. The Review of Austrian Economics, 19(2–3), 107–111. Lindenberg, E. B., & Ross, S. A. (1981). Tobin’s q ratio and industrial organization. Journal of Business, 54(1), 1–32. Manne, H. G. (2014). Resurrecting the ghostly entrepreneur. The Review of Austrian Economics, 27(3), 249– 258. McChesney, F. S. (1987). Rent extraction and rent creation in the economic theory of regulation. The Journal of Legal Studies, 16(1), 101–118. Mises, L. V. (1920 [1935]). Economic calculation in the socialist commonwealth. In F. A. Hayek (Ed.), Collectivist economic planning (pp. 87–130). Londong: Routledge & Kegan Paul. Mises, L. V. (1949). Human action: A treatise on economics. New Haven: Yale University Press. Morck, R., Shleifer, A., & Vishny, R. W. (1988). Management ownership and market valuation: An empirical analysis. Journal of Financial Economics, 20, 293–315. Peltzman, S. (1991). The handbook of industrial organization: A review article. Journal of Political Economy, 99(1), 201–217. Philippon, T. (2019). The great reversal: How America gave up on free markets. Cambridge: Harvard University Press. Piano, E. E., & Rouanet, L. (2018). Economic calculation and the organization of markets. The Review of Austrian Economics. https://doi.org/10.1007/s11138-018-0425-4 Posner, R. A. (1979). The Chicago school of antitrust analysis. University of Pennsylvania Law Review, 127(4), 925–948. Raval, D. (2019a). Testing the production approach to markup estimation. Available at SSRN: https://papers. ssrn.com/sol3/papers.cfm?abstract_id=3324849. Accessed 5 June 2020. Raval, D. R. (2019b). The micro elasticity of substitution and non-neutral technology. The Rand Journal of Economics, 50(1), 147–167. Rossi-Hansberg, E., Sarte, P., & Trachter, N. (2018). Diverging trends in national and local concentration. NBER Working Paper No. 25066. Available at: https://www.nber.org/papers/w25066.pdf. Accessed 5 June 2020. Rothbard, M. N. (1962). Man, economy, and state: A treatise on economic principles. D. Van Nostrand: Princeton. Stigler, G. J. (1983). The organization of industry. Chicago: University of Chicago Press. Telser, L. G. (1960). Why should manufacturers want fair trade? The Journal of Law & Economics, 3, 86–105. Tollison, R. D. (1982). Rent seeking: A survey. Kyklos, 35(4), 575–602. Traina, J. (2018). Is aggregate market power increasing? Production trends using financial statements. Stigler Center New Working Paper Series, 17, 1–21. Tullock, G. (1967). The welfare costs of tariffs, monopolies, and theft. Western Economic Journal, 5(3), 224– 232. van Ark, B., O’Mahoney, M., & Timmer, M. P. (2008). The productivity gap between Europe and the United States: Trends and causes. Journal of Economic Perspectives, 22(1), 25–44. Williamson, O. E. (1968). Economies as an antitrust defense: The welfare tradeoffs. The American Economic Review, 58(1), 18–36. Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+## BibTeX
+
+```bibtex
+@article{rouanet2020competition,
+  title = {Competition is (still) a tough weed : a review essay of Thomas Philippon's The Great Reversal},
+  author = {Louis Rouanet},
+  journal = {The Review of Austrian Economics},
+  year = {2020},
+  doi = {10.1007/s11138-020-00521-w},
+  url = {https://louisrouanet-econ.github.io/research/competition-is-still-a-tough-weed-a-review-essay-of-thomas/}
+}
+```

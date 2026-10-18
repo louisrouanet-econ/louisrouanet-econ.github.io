@@ -49,7 +49,7 @@ jobs:
           cp -R wp-content _site/
           # Machine-readable layer (see scripts/build_llm_text.py)
           cp llms.txt llms-full.txt cv.md sitemap.xml robots.txt _site/
-          cp -R papers _site/
+          cp -R research _site/
           [ -f CNAME ] && cp CNAME _site/ || true
       - uses: actions/upload-pages-artifact@v3
         with:

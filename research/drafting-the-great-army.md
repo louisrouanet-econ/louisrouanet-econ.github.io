@@ -5,7 +5,8 @@ type: journal article
 venue: "Journal of Economic History"
 year: 2022
 pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2023/09/Rouanet_JEH.pdf
-text: https://louisrouanet-econ.github.io/papers/drafting-the-great-army.md
+page: https://louisrouanet-econ.github.io/research/drafting-the-great-army/
+markdown: https://louisrouanet-econ.github.io/research/drafting-the-great-army.md
 homepage: https://louisrouanet-econ.github.io/
 abstract: "Napoléon Bonaparte revolutionized the practice of war with his reliance on a mass national army and large-scale conscription. This system faced one major obstacle: draft evasion. This article discusses Napoléon's response to widespread draft evasion. First, we show that draft dodging rates across France varied with geographic characteristics. Second, we provide evidence that the regime adopted a strategy of discriminatory conscription enforcement by setting a lower (higher) conscription rate for those regions where the enforcement of conscription was more (less) costly. Finally, we show that this strategy resulted in a rapid fall in draft dodging rates across France."
 ---
@@ -16,9 +17,10 @@ abstract: "Napoléon Bonaparte revolutionized the practice of war with his relia
 **Published in:** Journal of Economic History  
 **Year:** 2022  
 **PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2023/09/Rouanet_JEH.pdf  
+**HTML version:** https://louisrouanet-econ.github.io/research/drafting-the-great-army/  
 **More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
 
-> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+> Plain-text version extracted automatically from the PDF so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
 
 ## Abstract
 
@@ -1265,3 +1267,15 @@ Figure 2 DRAFT DODGING RATE FROM 1806 TO 1810 BY DEPARTMENT AND THE LOG OF RUGGE
 FIGURES FOR PRINT
 
 Figure 3 RUGGEDNESS IN HAUTE-VIENNE Source: Nunn and Puga (2012).
+
+## BibTeX
+
+```bibtex
+@article{rouanet2022drafting,
+  title = {Drafting the Great Army},
+  author = {Louis Rouanet and Ennio Piano},
+  journal = {Journal of Economic History},
+  year = {2022},
+  url = {https://louisrouanet-econ.github.io/research/drafting-the-great-army/}
+}
+```
