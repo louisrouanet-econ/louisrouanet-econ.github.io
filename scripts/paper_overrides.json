@@ -1,0 +1,13 @@
+{
+  "_comment": "Hand corrections used by scripts/build_llm_text.py, keyed by the local PDF path. Fields: abstract, description, authors (full list, first author first).",
+  "wp-content/uploads/2023/09/Rouanet_JEH.pdf": {
+    "abstract": "Napoléon Bonaparte revolutionized the practice of war with his reliance on a mass national army and large-scale conscription. This system faced one major obstacle: draft evasion. This article discusses Napoléon's response to widespread draft evasion. First, we show that draft dodging rates across France varied with geographic characteristics. Second, we provide evidence that the regime adopted a strategy of discriminatory conscription enforcement by setting a lower (higher) conscription rate for those regions where the enforcement of conscription was more (less) costly. Finally, we show that this strategy resulted in a rapid fall in draft dodging rates across France."
+  },
+  "wp-content/uploads/2023/07/Chapter_Leeson.pdf": {
+    "authors": ["Peter T. Leeson", "Louis Rouanet"],
+    "description": "Surveys the Austrian school's approach to economic policy, from Menger, Böhm-Bawerk and Wieser through Mises and Hayek to contemporary work."
+  },
+  "wp-content/uploads/2023/07/9781800882263-book-part-9781800882263-6.pdf": {
+    "description": "Introductory chapter of A Research Agenda for Austrian Economics (Edward Elgar): what the Austrian tradition brings to applied economics and where its research program should go."
+  }
+}

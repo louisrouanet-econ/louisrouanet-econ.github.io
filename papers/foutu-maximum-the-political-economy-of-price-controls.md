@@ -1,0 +1,649 @@
+---
+title: "Foutu Maximum : The political economy of price controls and national defense in revolutionary France."
+authors: "Louis Rouanet"
+type: journal article
+venue: "Explorations in Economic History"
+year: 2022
+pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2022/08/The_political_Economy_of_Price_controls_in_revolutionary_france-27.pdf
+text: https://louisrouanet-econ.github.io/papers/foutu-maximum-the-political-economy-of-price-controls.md
+homepage: https://louisrouanet-econ.github.io/
+abstract: "War necessitates both allocating real resources to defense and certain interest groups being in favor of the government raising resources to wage war. Price controls can be a tool for governments to mobilize additional resources while buying the support of certain key interest groups, hence making war politically viable. France during the revolutionary Terror, the first instance of widespread price controls used in times of war, is used to illustrate this hypothesis. Urban capitalists benefited from price controls on agricultural output combined with forced sales. At the same time, I estimate that in the six months preceding the abolition of price controls, the government saved, by using them (and in real terms), the equivalent of roughly 40% of the annual 1790 central government budget. Consistent with my theory, once the exigencies of the war attenuated and as collective action became more costly for the urban population, price controls were abandoned."
+---
+
+# Foutu Maximum : The political economy of price controls and national defense in revolutionary France.
+
+**Authors:** Louis Rouanet  
+**Published in:** Explorations in Economic History  
+**Year:** 2022  
+**PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2022/08/The_political_Economy_of_Price_controls_in_revolutionary_france-27.pdf  
+**More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
+
+> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+
+## Abstract
+
+War necessitates both allocating real resources to defense and certain interest groups being in favor of the government raising resources to wage war. Price controls can be a tool for governments to mobilize additional resources while buying the support of certain key interest groups, hence making war politically viable. France during the revolutionary Terror, the first instance of widespread price controls used in times of war, is used to illustrate this hypothesis. Urban capitalists benefited from price controls on agricultural output combined with forced sales. At the same time, I estimate that in the six months preceding the abolition of price controls, the government saved, by using them (and in real terms), the equivalent of roughly 40% of the annual 1790 central government budget. Consistent with my theory, once the exigencies of the war attenuated and as collective action became more costly for the urban population, price controls were abandoned.
+
+## Full text
+
+Foutu Maximum: The political economy of price controls and national defense in revolutionary France Louis Rouanet∗ August 16, 2022
+
+## Abstract
+
+War necessitates both allocating real resources to defense and certain interest groups being in favor of the government raising resources to wage war. Price controls can be a tool for governments to mobilize additional resources while buying the support of certain key interest groups, hence making war politically viable. France during the revolutionary Terror, the first instance of widespread price controls used in times of war, is used to illustrate this hypothesis. Urban capitalists benefited from price controls on agricultural output combined with forced sales. At the same time, I estimate that in the six months preceding the abolition of price controls, the government saved, by using them (and in real terms), the equivalent of roughly 40% of the annual 1790 central government budget. Consistent with my theory, once the exigencies of the war attenuated and as collective action became more costly for the urban population, price controls were abandoned. Keywords: Price controls, War, public choice, economic history JEL Codes: E02, E41, E65, N1
+
+∗ Email: louis.rouanet@wku.edu. Address: Department of Economics, Gordon Ford College of Business. Western Kentucky University.
+
+The government of towns corporate was altogether in the hands of traders and artificers; [...] Whatever regulations [...] tend to increase those wages and profits beyond what they would otherwise be, tend to enable the town to purchase, with a smaller quantity of its labour, the produce of a greater quantity of the labour of the country. They give the traders and artificers of the town an advantage over the landlords, farmers, and labourers in the country, and break down the natural equality which would otherwise take place in the commerce which is carried on between them. Adam Smith, The Wealth of Nations, (Bk. I, Ch. X, Pt. II).
+
+Foutu Maximum!1 The crowd during Robespierre’s execution.
+
+1
+
+## Introduction
+
+Price controls are generally seen as unsuited to achieve their intended goals, while their implementation is often seen as a combination of ideologically guided policy-making, unintended consequences, and blunders. Although price controls could result from erroneous economic ideas held by the elite or the population at large, another explanation is that politicians respond rationally to the constraints they face. Price controls, far from being an irrational policy or a mistake, may be an intentional and effective policy given the circumstances and goals sought by political and economic agents. Price controls have been widely used in times of war (Rockoff 2004) and, with respect to agricultural goods, by urban centers. It seems implausible that individuals supporting and enacting price controls would act consistently against their self-interest. Revolutionary France gives the first large-scale example of widespread economic dirigism during war times. As predicted by standard economic theory, price controls during the French Revolution led to some shortages and a deterioration of the quality of goods and services. But despite these costs, price controls were 1) an effective way to benefit the urban population, 2) an effective way to finance the war effort. I argue that price controls were preferred to more standard ways to raise revenue, such as direct and indirect taxes, because war, to be politically feasible, needed the support of key interest groups. In the case of the French Revolution, this key interest group was the urban —and especially the Parisian— bourgeoisie. In an economy divided between two sectors, such as a urban and rural sector, the urban population can use price controls on agricultural products to turn the terms of 1
+
+This translate roughly as "f—–g maximum."
+
+1
+
+trade in its favor. The benefits of price controls to the urban population can be further increased by forcing peasants by law to sell their output. Because price controls during the French Revolution were combined with a system of réquisitions (i.e. forced sales), they led to a massive redistribution of resources between the countryside on the one hand and cities and the army on the other. This paper develops a straightforward theory showing how price controls can be a tool to gain support from key interest groups and contribute to financing the war effort. The theory further explains why in the presence of price controls, prices are no longer sufficient to ensure a “right to purchase,” and this right can be redistributed through political means — for instance, by introducing forced sales or rationing— to favor the most influential political groups. Auxiliary implications are derived: with effective price controls reducing the relative price of agricultural output, we should expect a rise in the urban population and a rise in the price of urban goods relative to wages. Although price controls can benefit wage-earners, and although there is good reason to believe urban workers in Paris initially gained from price controls, the effect of price controls on wage-earners’ welfare is theoretically ambiguous. On the other hand, the owners of firms producing urban goods —whom we may refer to as bourgeois or capitalists— can, and many did, gain from price controls. The paper contrasts the theory to an historical account and offers an alternative view to the imposition, and later removal, of price controls in revolutionary France. The historical evidence is consistent with the view that the logic of interest groups, not ideology, explains why revolutionaries used price controls to finance the war effort. Following reforms of Paris’ municipal government in 1790 and 1792, collective action costs faced by the Parisian lower bourgeoisie fell dramatically. As a result, it became easier for the Parisian population to lobby for their preferred policies. The way the war against the coalized European powers was financed reflected Parisian interests. Consistent with the theory expounded in this paper, as the military situation stabilized in 1794 and as Parisian political institutions weakened, price controls were progressively abandoned. French historians have been debating the Terror for more than a century. Some, generally in the Marxist tradition, have argued that government involvement in the price system and trade, the so-called “economic Terror,” was the result of class conflict where the proto-socialist sans-culottes imposed their will on the government as a way to alleviate the suffering of the poorest in society (Mazauric 1962, Rose 1956, Soboul 1958). Others, both historians (Taine 1885) and economists, have emphasized the economic costs of price controls and argued that “The general Maximum was not only ineffective; it was harmful and useless” (Crouzet 1993, 268). I argue, contrary to Crouzet (1993), that the maximum was far from “useless” but fulfilled its function, i.e. financing the war economy and redistributing grain from the 2
+
+countryside to the cities. Yet price controls reduced overall supply and led to miserable living conditions in the countryside. In addition, the benefits of price controls for the urban population tended to dissipate as economic agents adapted. Not only did price controls become increasingly expansive to enforce, but the redistribution of resources in favor of cities also led to an increase in the urban population. This increase in the population was welcomed when manpower was in high demand for war-related industries. It meant that urban —and especially Parisian— firm owners had access to a greater supply of labor. Yet it also meant that more bread was needed to feed the urban population precisely as price controls and forced sales became increasingly costly to enforce, and as impoverishing further the countryside raised the risk of revolts. A growing literature in economic history recognizes the impact of military competition on the tax system and state-building. With the military revolution, sovereigns stopped relying on exploiting the ruler’s private assets to adopt more direct taxation (Bonney 1999). For instance, Dincecco & Prado (2012) find a tight link between war, investments in fiscal capacity, and economic development, while Gennaioli & Voth (2015) show theoretically and empirically that cohesive states invested more in state-building than divided states following the military revolution. War, however, does not simply impact the amount of taxes collected but also has implications for what kind of taxes and regulations will be optimal. Thompson (1974, 1979) was among the first to argue that the American tax system was designed in a way that solved important externalities related to national defense.2 Following this line of argumentation, Hendrickson (2020) argues that usury laws during the Middle-Ages mitigate an externality generated by private wealth accumulation as it raises the cost of national defense. While the theory of interest group formation (Olson 1965) and rent-seeking (Tullock 1967) has been further refined and applied to many historical episodes (Ekelund & Tollison 1981, Johnson & Koyama 2014, Koyama 2010, Piano & Hardy 2022) including the era both immediately preceding and following the French Revolution (Ekelund & Thornton 2019, Rouanet 2021, White 1995), it has seldom been applied to the study of war finance. Certainly, there have been exceptions. For instance, Cutsinger & Ingber (2019) show how interest group politics shaped inflationary finance in the American civil war South. Yet despite being often used in war times (Rockoff 2004), the role of interest group politics in the adoption of 2 Thompson (1979) argues that optimal defense policy can be achieved by subsidizing investment in the production of defense related good during peacetime and subject them to price controls during wartime. There is no evidence of prior subsidies as described by Thompson on goods subject to price controls during the French Revolution. On the other hand Thompson’s (1979) argument that price controls make commitment to continuing the war possible is closely related to the argument made in this paper.
+
+3
+
+price controls is rarely considered.3 On the other hand, the use of commodity boards, price controls and other regulations to favor the urban population at the expanse of peasants is still pervasive in many developing countries, leading some scholars to study the importance of interest groups in those contexts (Bates 2014, Olson 1985). The distribution of income between urban and rural sectors is, historically, a recurring problem (Sah & Stiglitz 2002) which is not exclusive to the French Revolution. It was at the heart of the debates between physiocrats and mercantilists, between Malthus and Ricardo, and at the heart of the Soviet industrialization debate (Sah & Stiglitz 1984). This paper distinguishes itself from existing work by providing a public choice theory of the first widespread use of price controls in times of war: the adoption of the maximum in 1793 France.
+
+2
+
+Revolutionary politics before 1793
+
+The French Revolution was the result of a financial crisis. For at least since Colbert, under the reign of Louis XIV, the French Crown attempted to rationalize the tax system against the wishes of the nobility, venal officers, and other entrenched interests whose influence remained strong within France’s 13 regional parliaments. While Louis XV finally managed to eliminate parliaments in 1770, Louis XVI re-established them at the beginning of his reign in 1774. This decision proved consequential. By doing so, King Louis XVI provided the nobility a way to oppose any reform and contest the legislative authority of the King. While since Louis XV’s reign, a few progressive ministers such as Silhouette, Machault, and Turgot tried, in vain, to reform French State, those attempts faced the opposition of predominant interest groups. By the 1780s, several reactionary finance ministers, such as Calonne, increased the public deficit and put public debt on an unsustainable path (White 1989). On January 16, 1787, the Parliament of Paris declared that only the Estates General had the right to create new taxes indefinitely. The Parliament of Paris further requested that the king communicates the state of public finances. The king refused, and a parliamentary quasi-revolt followed. The institutional gridlock caused by the parliament of Paris’ opposition to reforms forced Louis XVI to call the Estates General, thus following the advice of his finance minister, Jacques Necker. The French Revolution, paradoxically, started as an aristocratic revolt against the Crown’s attempts to raise more revenue. Meanwhile, a debt crisis erupted. In 1788, the government allocated nearly 50% of its spending to paying back the public debt (Braesch 1934). Public debt in 1789 was equal to 4.941 billion pounds (Braesch 1934, 202), a sum 17 times greater than annual revenues.4 3 4
+
+See Buchanan & Tideman (1974) for an exception. Given the difficulty to collect taxes during the beginning of the French revolution, public revenue from
+
+4
+
+In November 1789, Montesquiou (1789) detailed in front of the National Assembly how the debt due amounted to 557 million —more than one entire year of tax revenue. The Estates Generals first met in May 1789, with the Third Estate representing around 50% of the delegates. A conflict between the different groups about voting procedures quickly prevented discussions about finances. The Third Estate soon took advantage of the situation and declared themselves National Assembly on June 17, 1789. Since small and homogeneous groups usually tend to better organize to achieve their preferred political goals (Olson 1965, 1982), it could be puzzling that the Third Estate managed to form a coalition to impose its will. Indeed, in 1788, the First and Second Estates —the Clergy and Nobility— comprised only 540 thousand individuals —1.9% of the population. In addition, the Third Estate, which represented the overwhelming majority of the population, was far from a homogeneous group. Some of its members were wealthy merchants and often could become nobles by buying venal offices. Yet the majority of the Third Estate was composed of more than 15 million day laborers, servants, and small-scale farmers working in the agricultural sector, representing around 55% of the total population in 1788 (Morrisson & Snyder 2000). The political success of the Third Estate during 1789 can be attributed to several factors. First, by the end of the 18th century, the clergy and nobility comprised a disparity of factions often in conflict with each other (Soboul 1983). The clergy was the least cohesive group and was plagued by bitter divisions between the upper and lower clergy, many of whom were willing to ally with the Third Estate. Second, the representatives of the Third Estate in the Estates General were, because of the electoral system, a fairly homogeneous group composed of the urban professional and commercial classes (Tackett 2015). Among the 578 members of that group, 200 were lawyers, 100 were bankers and industrialists, none were peasants (Soboul 1983). Faced with a persistent fiscal crisis, a “war of attrition” between interest groups erupted (White 1995). The clergy, the weakest interest group within the Constituent Assembly, was the first to suffer the cost of fiscal discipline. On November 2, 1789, the Assembly voted to nationalize and then sell the clergy’s assets in auctions. The Constituent Assembly also abolished feudal dues and privileges, abolished corporations, and rationalized the administration. Maybe as a way to avoid the transitional gains trap (Tullock 1975), the Constituent Assembly decided to buy back some feudal institutions at approximately their present value. Compensation was now due for the redemption of tithes alienated in perpetuity and the abolished venal offices.5 Simultaneously, the Assembly completely changed the tax system. May 1789 to May 1790 was equal to 290 million (Bordo & White 1991). 5 On the other hand, non-contractual feudal rights such as rights of seigneurial justice, rights of mortmain
+
+5
+
+Already in November 1789, Cormeré (1789) evaluated the value of suppressed taxes to 174 million pounds per year in a report to the parliament. Old taxes were no longer paid while new taxes were not yet been enacted. These reforms, in the short run, aggravated the fiscal crisis. The emigration of many nobles early in the Revolution, followed by the King’s flight in June 1791, and the disastrous performance of the military after the declaration of war in April 1792, made the King’s political position untenable. After the insurrection of August 10, 1792 and the fall of the monarchy, the nobility lost its political influence within the Legislative Assembly. The demise of the Feuillants —the constitutional monarchists— reduced the benefits of the different groups in the Third Estate maintaining a coalition. Collective action costs tend to rise as the size of the group increases. At the same time, benefits diminish in the size of the coalition as the value of political rents must be divided among more members. Once the aristocracy’s political power vanished, new political factions formed in the new National Convention elected in September 1792. As Barère (1846, 33-34) puts it in his memoirs, “The Paris deputies, who were both feared and hated, all took their places on the left side of the chamber [...]. The deputies of the Gironde, who had all figured in the Legislative Assembly, took their seats on the right side.” The Third Estate now dominated the new Assembly but was divided. The Girondins had close ties to the bourgeois elite in provincial France, especially in the major trading ports. The Montagnards, on the other hand, represented the interests of Paris and large cities. They did not sensibly differ from the Girondins ideologically. However, the Montagnards allied with those controlling Parisian politics to gain ascendance over their political rivals. Parisian politics, in turn, reflected key aspects of the city’s economic structure. Around 3,800 to 4,000 individuals administrated the 48 Parisian sections (or electoral districts) and ruled a city of almost 600,000 inhabitants (Andrews 1985, 74). The Parisian economy, services aside, consisted of small and medium-scale industries, with the largest sectors being general building trades, the textile industry, and other luxury crafts. Braesch (1912) transcribed archival data about the number of workers of more than 3,700 Parisian firms in 1791, hiring almost 63,000 workers in 41 out of 48 districts. Figure 1 reports the distribution of workers with respect to the size of industrial firms using this data. 89% of owners operated a firm with 30 workers or less and hired 56% of industrial workers. The owners of these firms, even the smaller ones, were usually sensibly richer than the common people. Morrisson & Snyder (2000) estimate that in 1788, shopkeepers and artisans earned on average 600 pounds per year and per household. This income was not negligible. It was three times higher than for non-agricultural workers and almost four times higher than the income of agricultural and forced labor were all abolished without compensation (Soboul 1983).
+
+6
+
+day laborers. These numbers, however, mask large disparities within that group. The more successful “artisans” could sometimes hire several dozen workers, were literate, and had time to get involved in the political life of their “section.” As such, shopkeepers and artisans were an essential component of the bourgeoisie and, through their ability to mobilize large numbers of citizen-workers, gained considerable political influence during the Revolution. Figure 1: Distribution of workers by firm size.
+
+Number of workers
+
+12,500 10,000 7,500 5,000 2,500 0 0
+
+100 200 300 400 + Firm size (in number of workers) Source: Braesch (1912).
+
+3
+
+Were price controls the result of misguided economic ideas?
+
+From the enactment of the first maximum on May 4, 1793, to the abolition of the general maximum on December 24, 1794, price controls introduced by the French government were historically unprecedented by their sheer scale and played a major role in the unfolding of revolutionary politics. But why did the French revolutionaries adopt price controls? Two main hypotheses have been formulated. Our hypothesis, which can be called the public choice hypothesis, claims that price controls, despite their economic cost, were the result of interest group politics and shaped by political rent-seeking. The alternative hypothesis, which can be called the ideology hypothesis, argues that many revolutionaries, inspired by Rousseau, 7
+
+had illiberal and even “socialist” tendencies6 or were intimidated by the ignorant masses which naively supported price ceilings.7 Ideology, in this view, was responsible for mistaken economic policies, while the National Assembly, dominated by lawyers, lacked pragmatism and business experience. This ideology hypothesis is part of a long tradition in history, starting with Hippolyte Taine (1885) and Augustin Cochin (1924). Implicitly or explicitly, those scholars built on Edmund Burke’s (1790) idea that the revolutionaries adopted a utopian view of liberty opposed to the “practical liberty” of the English and. By trying to recreate society from top to bottom, they established a tyranny. With respect to economic policy, Hayek (1941) offers a similar interpretation and argues that the liberalism of the French Revolution used a rationalistic understanding of the market system instead of basing this understanding on the works of the Scottish Enlightenment and especially Adam Smith.8 If the ideology hypothesis was true, it is not clear why even the most radical Jacobins, and indeed most of the Assembly, were, before 1793, fiercely against state intervention in the commerce of grains. Some of the most radical Montagnards, including Marat, Robespierre, and Danton, were virulently opposed to price controls advocated by Jacques Roux and the Enragés —the most radical group of revolutionaries— in February 1793.9 Yet, two months later, they publically advocated for the maximum (Mathiez 1919). Those same Jacobins who had participated in the repression against the plunder of groceries in Paris now ranted in front of the Assembly against the cupidity of merchants and the avid speculators starving the common people. References to the American Revolution were also common. Barère, a member of the Committee of Public Safety, reminded the Convention in August 1793 that George Washington used coercive methods such as requisitions of grains to feed his army.10 This same Barère was both familiar and sympathetic toward the works of Adam 6
+
+See for instance Aftalion (1987). French revolutionaries were not ignorant of the effects of price controls has they had been used during the American Revolution (Rockoff 2004, 24-40). The parallels between the French and American revolutions are striking: both used paper money, both confiscated property and both used price controls. French revolutionaries, some of whom had served as officers during the American Revolution, were aware of these ‘revolutionary’ economic policies. See for instance Mirabeau’s speech in front of the National Assembly in September 1790 (Archives Parlementaires, vol.19, p.268). 8 The influence of Adam Smith among revolutionaries was in fact pronounced. We have good evidence that Sieyes, Clavière, Brissot, Condorcet or Dupont de Nemours all engaged Smith’s work in their own writings. Many others revolutionaries read Smith, although his relative influence is hard to assess. One prominent revolutionary, Sieyès read and commented on both The Wealth of Nations and The Theory of Moral Sentiments, the latter of which he called “an astonishingly good book.” (Whatmore 2002). A new French translation of The Wealth of Nations appeared in 1794 and was positively reviewed in the: Annales patriotiques et littétaires de la France, no 718, December 20, 1794. 9 The Montagnards were the far-left of the National Assembly and were the most radical component of the Jacobin’s club. 10 Le Moniteur Universel, no 237, August 25, 1793, p.477. 7
+
+8
+
+Smith and Turgot.11 Far from being “socialists,” most Montagnards had been advocating for radical laissez-faire. If one abstracts from the grandiloquent tirades in front of the Assembly, revolutionaries too behaved to maximize their wealth and power. As one revolutionary politician puts it in retrospect, “The acts of the government are almost always dictated by circumstances” (Faipoult 1795). The ideology hypothesis explains neither the timing of price controls nor why price controls were mostly advocated for by the urban population. More importantly, it does not explain why the same politicians who declared being in favor of private property and internal free trade suddenly favored price controls and the quasi-nationalization of trade. Once the political support for price controls eroded, politicians in the National Convention once again changed their minds. In his speech for the Convention, prepared for the eve of his overthrow, Robespierre shrugged off responsibility for the maximum, arguing that “Conspirators have driven us in spite of ourselves into violent measures which their crimes have made necessary.” (Rose 1959, 444). Tackett (2015) explains how ideology during the French Revolution was far from being set in stone. Instead, many revolutionaries changed their minds, sometimes within weeks, as events rapidly unfolded. Ideas tend to be supplied on the market only if there is a demand for them (Jace 2019, Stigler 1982), and interest group politics is part of that demand. After 1789, both revolutionaries and counter-revolutionaries “would only gradually develop a coherent ideology, an ideology drawn from a variety of eighteenth-century themes and ideas, pieced together after the fact to justify their actions.” (Tackett 2015, 97). This is not to say that ideology played no role. Yet with respect to price controls, it does not explain the variation in decision-making by policy-makers. Historians in the Marxist tradition have analyzed the political debates between economic freedom and control as a class struggle between the propertied class and the sans-culottes. But while Mathiez (1973) and others such as Soboul (1958, 1983) identify divergent political interests, they assumed ex-ante that free trade was detrimental to society and failed to give an economic analysis of the maximum.12 Those authors argued that price controls were a solution to grain scarcity or that they prevented peasants from hoarding grain. Some of their arguments are somewhat puzzling when considering that the surplus of grain sent to the cities by peasants is generally increasing in its price. In addition, by focusing on the 11
+
+For instance Barrère cites Adam Smith in a report on September 21, 1793. See: Archives parlementaires, vol.74, p.600. For his views on Turgot, see: Barère (1846, 311). 12 Soboul (1983) offers a public interest explanation for the Montagnards’ economic policy, arguing that they were “more prepared [than the Girondins] to allow the public interest to take precedence.” (p.268) and that “The Girondins, with their belief that free competition was a panacea for all ills, remained unaffected by the suffering of the popular classes of society.” (p.281).
+
+9
+
+welfare of the urban population, those historians almost wholly ignored the disastrous living conditions brought about by the maximum in the countryside. The ‘Marxist’ interpretation rightfully recognizes the role of foreign invasion in the adoption of price controls. However, the attempt to analyze the maximum as a fight between the propertied and the propertyless leads to misidentifying the key interest groups involved.13 Following Soboul’s (1958) work, many historians consider that Parisian political institutions, controlled by the sans-culottes, defended the interests of a popular movement composed mostly of wage-earners and consumers. Andrews (1985) showed decisively that Soboul’s depiction of the sans-culottes as a popular movement is misleading.14 The sans-culottes controlling Parisian politics were instead “a paternalist and populist oligarchy of the literate, skilled, and propertied.” (Andrews 1985, 76). The same sans-culottes who relentlessly supported price controls on foodstuff “had the power to command labor on a large scale and to create dependencies, allegiances, and constituencies.” (Andrews 1985, 77). Sansculottes revolutionaries were in fact entrepreneurs and small business owners controlling the production of goods typically produced in cities. By turning the terms of trade against the countryside, urban entrepreneurs could improve their own economic position. As foodstuffs represented a large part of wage-earners’ budgets, entrepreneurs had an incentive to lobby for lower grain prices as it would put downward pressure on wages —relative to industrial goods. The ‘bourgeois’ nature of price controls during the French Revolution is best illustrated by attempts to introduce maximum wages. Even during the height of the Terror, the Committee of Public Safety was squarely “on the side of production” and “the labor policies of the revolutionary Republic and of the early industrial capitalists had much in common.” (Palmer 2005, 242). Revolutionaries punished strikes severely and were generally worried about rising labor costs. As Palmer (2005, 242) puts it, “the tempestuous Year Two was no time for humanitarian reform.” Jacobins tried to enforce maximum wages with more vigor in Paris during the first half of 1794. During Robespierre’s execution on July 28, 1794, wage-earners in the crowd protested against the maximum by yelling “foutu maximum!” The logic of interest groups, not ideology, drove policy changes toward price controls. The National Assembly needed the political support of the Parisian shopkeepers and lower bourgeoisie which had been used to topple the monarchy and whose cooperation was necessary to mobilize an army. As Mathiez argues: The opponents of the maximum forget to prove their thesis to show us that the policy of taxation [i.e. the Maximum] and regulation which was imposed on the 13
+
+On the problems with the Marxian theory of class struggle from the point of view of the logic of collective action, see: Olson (1965, chapter 4). 14 See also Sibalis (1986) who shows that collective action by wage-earners during the French Revolution was very limited and seldom had any political significance.
+
+10
+
+Convention and on the Committee of Public Safety could have been avoided given the circumstances. It was the inevitable political and patriotic necessities which imposed this policy on statesmen who were also rabid supporters of economic liberalism. (Mathiez 1920b, 253). Price controls, combined with forced sales, were used as substitutes for taxes by the government —a substitute which was subject to much less political opposition and strong support by the urban population. There is little doubt that war was the main reason why the maximum was not abolished earlier. On September 7, 1794, in a testimony in front of the National Assembly, Villars, the spokesman for the Committee of Commerce, declared that he would like to see the abolition of the maximum. He nonetheless had it prolonged for a year, giving as his reason that peace must be signed before price controls can safely be abolished. Villars, like most revolutionaries, saw price controls as a necessary but unfortunate violation of the principles of 1789. As he puts it, “It is a misfortune, no doubt, to resort to prohibitive laws on such objects. Such is the fate of Revolutions, which often require moving away from principles.” 15
+
+4
+
+The economics and politics of price controls
+
+4.1
+
+Government
+
+To derive further implications, this section develops a simplified model where France is divided in two sectors: urban workers living in cities and peasants living in the countryside. Our focus on the division between the urban and rural economies ignores the important distinction between the propertied and the propertyless —a distinction we will introduce later. The rural population is equal to N r and the urban population is equal to N u . Each rural worker owns a = A/N r amount of land, where A is the total amount of land owned. Each urban worker owns k = K/N u unit of capital. Rural and urban workers supply respectively lr and lu hours of labor. Production technology exhibits constant returns to scale in both the rural and urban sectors, with X = X(a; lr ) being the output of the agricultural good per agricultural worker and Y = Y (k, lu ) being the output of the industrial good per urban worker. 15
+
+Le Moniteur Universel, no 352, Fructidor 21, Year II, p.1442-1443. See also the speech of the free-trader Eschassériaux in front of the National Assembly on August 24, 1794 which also invokes the urgency of protecting the Republic as a justification for controls although, he claims “the system of the economists can be good in ordinary times.” (p.338) and adds —quite euphemistically— that “the revolution had to bend a bit its principles with respect to grain legislation.” (p.347) (Journal des Débats et Décrets, no 716).
+
+11
+
+The government faces a concave defense production function G = G(xg ; y g ), where xg and y g is the government’s consumption of the agricultural and urban goods respectively. It taxes the income of the rural and urban population alike at rate t. The relative price of the rural good in terms of the urban good is equal to p. The government’s budget constraint is as follows: p(xg − tN u X) = tN r Y − y g
+
+(1)
+
+The government’s value function is equal to: VG (p) = G(xg∗ , y g∗ ) + λ∗ [t(pN u X + N r Y ) − pxg∗ − y g∗ ]
+
+(2)
+
+Where λ∗ is the marginal value of government revenue and stars represent already optimized values. By the envelope theorem:    ∂VG ∗ u ∂X u g∗ r ∂Y = λ (tN X − x ) + t N + pN ∂p ∂p ∂p
+
+(3)
+
+Equation 3’s interpretation is straightforward. The government can increase the provision of national defense without raising additional taxes only if it can effectively reduce the price of the good for which it has an excess demand —and vice versa increase the price of the good for which it has an excess supply. For instance, an increase in p, which would be akin to a price ceiling on the urban good, would help the government increase the amount of national defense provided only if tN u X − xg∗ > 0 and if price controls donot reduce the government’s  + pN u ∂X . Turning tax base by too much —i.e. it must be that tN u X − xg∗ > −t N r ∂Y ∂p ∂p
+
+terms of trade against the agricultural sector, on the other hand, involves a fall in p, in which case price controls are effective for national defense only if tN u X − xg∗ < 0. We should therefore expect: (a) that price controls are set on goods for which the government has an excess demand of. (b) That when war financing is done through price controls instead of taxes, the government will consume more of the goods whose prices are set below their equilibrium prices. (c) That price controls are less likely to be used for national defense when the government is a residual claimant over a greater share of total output and when the fall in tax revenue caused by price controls is larger. So far, we have established that the government can raise real revenue without raising additional taxes by interfering in the price system. However, it implicitly assumes that government demand for rural and urban goods is not restrained on non-priced margins. When prices are set below the market-clearing level, price alone can no longer equate quantity supplied and quantity demanded. The resulting “excess demand” implies that paying the
+
+12
+
+price no longer guarantees the “right to purchase” a commodity. When the right to access a market is no longer well defined, individuals will expend resources to acquire that right. Hence the government can benefit from interfering in the price system only if its “right to purchase” the commodity subject to a price control remains cheap enough. This seems to be a reasonable assumption because the State can use its coercive power to impose itself as a preferential buyer. Why would the government use price controls instead of taxes to finance national defense? The key point here is that the government cannot finance extra defense spending without the support of at least one powerful interest group. The government can only increase its ability to defend the nation when the policies adopted to finance additional defense spending provide appropriable benefits to special interests. In other words, financing governmentprovided national defense is itself a public good and can be done only when policies that finance the war are bundled with benefits to specific interest groups. Although different groups wish to benefit from national defense, they also do not wish to pay for it. Waging war requires a minimum winning coalition benefiting from policies associated with waging war. We now explain how price controls can benefit the urban population at the expanse of the agricultural sector.
+
+4.2
+
+Cities vs. countryside
+
+The animosity between cities and the countryside has been common both in historical Europe and still today in some developing countries. Let us have individuals in both the urban (u) and rural (r) groups with a normally nested indifference map and their utilities represented by U i = U i (xi ; y i ; li ), where i ∈ {r, u}. An individual’s consumption of the rural and urban goods is denoted by (xi , y i ). The budget constraint of the rural worker is equal to: pQ = y r
+
+(4)
+
+Where Q = X − xr is the surplus of the agricultural good per rural worker. The rural worker’s indirect utility is as follows: Vr (p) = max U r (xr , y r , lr ) + λr [pX(a, lr ) − pxr − y r ] r r r x ,y ,l
+
+(5)
+
+Using the envelope theorem: ∂V r = λr Q > 0 ∂p 13
+
+(6)
+
+Since λr is the positive marginal utility of income, the rural population is unambiguously hurt by a fall in the relative price of the agricultural good p. The budget constraint for urban workers is equal to: Y = y u + pxu
+
+(7)
+
+Given the urban’s worker utility function, in the laissez-faire competitive equilibrium, the following equimarginal condition holds (subscripts represent partial derivatives): Uxu =p Uyu
+
+(8)
+
+If the government wants to maximize urban population’s welfare, however, then it can act as a monopolist by setting the relative price of agricultural output p below its competitive level. Because we want to focus here on how a price decreed by the government can lead to redistribution between the urban and rural populations, we abstract from government spending. Hence two basic constraints must be met by a government trying to maximize the welfare of the urban population. First, the urban population can’t consume more of the agricultural good than the quantity the rural population is willing to supply (N r Q(p) ≥ N u xu ). Second, the quantity of urban good supplied has to be greater or equal to the quantities demanded by both the urban and rural populations (N u Y ≥ N u y u + N r y r ). Using equation 4 and the above constraints, we have the following maximization problem: max
+
+xu ,y u ,lu ,p
+
+U u (xu , y u , lu )
+
+s.t. N r Q(p) ≥ N u xu N u Y ≥ N u y u + N r pQ(p)
+
+(9)
+
+Because the government acts as a price maker on behalf of the urban population, the welfare of the urban population is maximized when the following equimarginal principle is satisfied:16   1 Uxu =p 1+ Uyu εQp
+
+(10)
+
+Where εQp is the elasticity of the agricultural surplus with respect to price. Equation 10 shows that the government, on behalf of urban workers, will try to set the price so that their marginal rate of substitution is equal to the slope of the peasants’ offer curve. In other u To find this result, partial of the following  r take the  derivatives  Lagrangian with respect to p, x and u u u u u u r y : L = U (·) + η N Q(p) − N x + λ N Y − N y − N pQ(p) . 16
+
+u
+
+14
+
+ 1 words, p 1 + εQp is the marginal revenue of forgoing a unit of rural good in terms of urban u good. At the price maximizing urban welfare, the marginal rate of substitution UUxu , or y marginal benefit of the rural good to urban individuals, will be greater than the price of the rural good (p) —i.e. greater than its marginal cost.17 Since equation 8 and equation 10 are different, and because the utility of the urban population is decreasing in p, we can conclude that the welfare of the urban population can be improved by turning the terms of trade against the rural population. The available evidence does indeed point to a fall in the relative price of agricultural goods following the introduction of price controls in 1793. The maximum was binding on foodstuffs whose prices, despite the depreciation of the assignats —the paper money issued during the Revolution, could not exceed their 1790 prices by more than one third. On the other hand, urban goods such as textile products did not suffer from a stringent maximum which was, in their case, often non-binding. A Parisian merchant, in April 1794, advertised in the Moniteur universel that he sold textile products below the price set by the maximum.18 The price of sheets from Louviers was fixed at 46 pounds by the general maximum (September 1793) but were sold only 38 to 40 pounds just two months earlier.19 In April 1794, 7 months after the enactment of the general maximum, sheets from Louviers still traded below the maximum price between 40 and 43 pounds, while those from Elbeuf, whose maximum price was set to 29 pounds, were sold for 28 pounds.20 While constructing coherent price series for the French Revolution is difficult, Table 1 reports the price of some clothes sold in a store owned by Mme Lisfrand in Paris. Lisfrand published recurring ads in the Journal de Paris both prior and after the introduction of price controls. Each ad publicized the price of her products.21 Table 1 shows that the price of almost all final textile products sold more than doubled between 1790 and 1794. Since the price of foodstuffs legally could not increase by more than one-third during this period, this indicates that the relative price of final textile products —typically manufactured in cities— increased. 17
+
+While the sign of εQp is not theoretically unambiguous because it is the result of both a consumption and production response, the price p maximizing urban welfare will always be set in a range such that εQp > 0. If εQp < 0, the urban population would be able to consume more of both goods by decreasing p. From equation 10, εQp > 0 implies that Uxu /Uyu > p. 18 Le Moniteur Universel, no 219, April 28 1794, p.892. 19 Le Moniteur Universel, no 195, July 14, 1793, p.840. For the prices set by the general maximum, see: Le Républicain français, no 332, October 14, 1793. 20 Le Moniteur Universel, no 219, April 28 1794, p.892. In December 1791, Louviers sheets sold for 21 to 22 pounds and Elbeuf sheets sold for 17. This points to a much sharper increase in prices than that of agricultural goods whose prices were set by the maximum to only a third more than their 1790 level. See: Le Moniteur Universel, no 345, December 11, 1791, p.446. 21 To compare the price of the same exact goods through time, Table 1 reports only the prices of goods whose name was the same both prior and after the introduction of price controls.
+
+15
+
+Table 1: Prices of manufactured clothes sold by Lisfrand in Paris (in pounds). Type of clothing Robes économiques: Pékin & velouté Pékin doublé Taffetas Other articles: Jupe pour transparent en taffetas Corsets en taffetas baleinés
+
+October 5, 1790
+
+March 31, 1791
+
+March 19, 1792
+
+March 16, 1794
+
+September 27, 1794
+
+84 78 -
+
+84 78 78
+
+100 90 90
+
+135 125 120
+
+180 155 -
+
+-
+
+30
+
+36
+
+66
+
+-
+
+30
+
+36
+
+39
+
+45
+
+o
+
+o
+
+45 o
+
+Sources: Journal de Paris, n 278, October 5, 1790; n 90, March 31, 1791; n 79, March 19, 1792; no 440, March 16, 1794; no 6, September 27, 1794.
+
+In August, 1794. a report by the agent of the commission of commerce and supplies in the Villefort district confirms that the relative price of industrial goods increased following the maximum: “The farmers say that the price of grain is too low, and much below [that] of other commodities and foodstuffs.” While the price of foodstuff was fixed to one-third more than their 1790 prices by the maximum, “certain articles, by the policy of certain districts which wanted to favor [their] factories, received an increase of more than half of their 1790 price and others more than double.” As a result, farmers complained about the deterioration of their terms of trade: “[W]hen [farmers] come to the market they find neither canvas to buy, nor oil, nor fabric, nor any object of consumption that they there usually found.” (Dauban 1869, 491).
+
+4.3
+
+Forced sales and price controls
+
+The urban population can gain from a price control on the agricultural good, but only by consuming less of that good as long as the elasticity of agricultural surplus is positive. It is puzzling however, that in times of food shortage, the urban population would find price controls reducing the food supply to the cities attractive. In our analysis so far, the rural population can consume its desired quantities of each good given the price no matter what. Because p is set below its competitive level to benefit the urban population, the urban population is willing to pay more than the money price to acquire an additional unit of the rural good. As explained before, when prices are set below the market-clearing level, price alone can no longer equate quantity supplied and quantity demanded. The resulting “excess demand” 16
+
+implies that paying the price no longer ensures a “right to purchase” a commodity. When the right to access a market is no longer well defined, individuals will expend resources to acquire that right by, for instance, queuing, bribing etc. However, little attention has been given to how this “right to purchase” can be acquired by political means. Because rural workers are net suppliers of the agricultural good (X), acquiring their “right to purchase” X is free, even when a price control is set on X —and as long as they can refuse trades offered to them. By forcing peasants to relinquish their valuable “right to purchase” and redistributing it, the government can benefit the urban population. This policy involves forcing the rural population to sell part of their production to the urban population no matter the price. For instance the government can decide to centralize the distribution of grain to expropriate the rural population from the right of using their productions as they see fit while maintaining some cash-flow right over agricultural production. Forced sales, in that sense, are akin to rationing the consumption of xr . Using the constraints used in equation 9, the indirect utility function for the urban worker under price controls is:
+
+V u (xr ) = u max u u
+
+x ,y ,l ,p,xr
+
+U u (xu , y u , lu ) + η[N u xu − N r Q] + φ[N u y u − N u Y + N r pQ]
+
+(11)
+
+Where ηN u is the marginal utility of xu , φN u is the marginal utility of y u , and Q = X −xr as before. As long as forced sales are binding, good xr is no longer a choice variable which is maximized out by peasants, but is instead exogenously given by the a government trying to maximize urban welfare. Peasants will react to their frustrated demand for xr in two possible ways: (1) by consuming more of y r , (2) by consuming more leisure lr , which in turn will reduce the total supply X(a, lr ). We can reasonably assume that when the rural ∂lr population is constrained in its consumption of xr , we have ∂x r > 0. Using equation 11 and the definitions above, we have:     r r ∂X ∂lu ∂X ∂lu ∂V u uN uN = Ux u − 1 − pUy u −1 ∂xr N ∂lr ∂xr N ∂lr ∂xr
+
+(12)
+
+From equation 10, we know that with a price control maximizing urban welfare, Uxu > u pUyu .22 Hence the condition for ∂V < 0 (keep it mind that forced sales is akin to reducing ∂xr u ∂l rural consumption of xr ) is ∂X − 1 ≤ 0 which can be rewritten as: ∂lr ∂xr εrXl εrlx ≤ 22
+
+xr X
+
+(13)
+
+Without price controls, the urban population is not willing to pay more than p for a marginal unit of u the agricultural good so Uxu = pUyu and ∂V ∂xr = 0.
+
+17
+
+Where εrXl is the elasticity of rural output with respect to labor and εrlx is the elasticity of the rural labor supply with respect to the rationed good xr . If forced sales are used to maximize urban welfare, then by equation 13, the share of agricultural output consumed by the rural population will be equal to the elasticity of agricultural output with respect to the rationed good xr . As long as reducing the quantity of xr consumed by the rural population does not reduce the production of X by more than the reduction in consumption, the urban population can benefit from forced sales.23
+
+4.4
+
+Migration to the city and urban capitalists
+
+Importantly, the fact that price controls can benefit the urban population does not mean that the introduction of a price control was the result of interest group pressure. The urban population first has to be able to engage in collective action. Yet sometimes, smaller politically connected subgroups of the urban population may benefit from price controls. If the rural and urban sectors are competing for labor, a price control reducing the price of the rural good will lead workers to move to the city to find better wages. As the labor supply in the city increases, the wage rate relative to the price of the industrial good will fall, making firm owners —the bourgeois or capitalists— in the city better off. Let’s slightly modify our model to introduce three —instead of two— groups composed of N 1 landlords, N 2 capitalists and N 3 laborers, each having utility function U i (xi , y i ). The production function is X = X(a, L1 ) for the rural good, where X, a and L1 are output, land per landlord and workers hired per landlord. For the urban good, the production function is Y = Y (k, L2 ), where Y , k and L2 are output, capital per capitalist and workers hired per capitalist. For simplicity, we assume that workers supply inelastically a certain amount of labor that they sell to either capitalists or landlords such that the total labor supply L is equal to L = N 1 L1 + N 2 L2 . Both landlords and capitalists are price takers. The profit function for landlords and capitalists, respectively, are: Π1 = pX − wL1
+
+(14)
+
+Π2 = Y − wL2
+
+(15)
+
+23
+
+Forced sales associated with price controls are most commonly used with conscription. A wealth maximizing government may gain by setting soldiers’ wages below the market wage while forcing them to sell their labor services to the army. To the extent that the total supply of military labor is unchanged by conscription, it would set its soldiers’ wage to zero. The supply of potential soldiers, however, is likely to decline as the weight of conscription grows. People will desert, cut a finger off, simulate diseases etc. On this point, see Piano & Rouanet (2020), Rouanet & Piano (2020, 2022).
+
+18
+
+0
+
+0
+
+The first order conditions for maximization satisfy w = Y (L2 ) = pX (L1 ), where apostrophes denote partial derivatives. Since total labor supply is equal to total labor demanded, we have: 1
+
+1
+
+2
+
+2
+
+1
+
+L=N L +N L =N X
+
+0 −1
+
+  w 0 + N 2 Y −1 (w) p
+
+0
+
+(16)
+
+0
+
+Where the inverse functions L2 = Y −1 (w) and L1 = X −1 ( wp ) are the capitalists’ and landlords’ demand curves for labor. Differentiating 16 with respect to p, we get:   0 −1 0 −1 dL dw 2 ∂Y 1 dw −1 −2 ∂X =0=N +N p − wp dp ∂w dp dp ∂w/p N 1 L1 ε1L,w/p
+
+εwp =
+
+N 2 L2 ε2Lw + N 1 L1 ε1L,w/p
+
+(17)
+
+Where εwp is the elasticity of wage with respect to the price of the rural good, ε1L,w/p is the elasticity of the landlords’ labor demand with respect to wage (expressed in units of rural good) and ε2Lw is the elasticity of the capitalists’ labor demand with respect to wage (expressed in units of industrial good). Since labor demand is downward sloping, both ε1L,w/p and ε2Lw are negative and 0 < εwp < 1. The more elastic the demand for agricultural labor as opposed to industrial labor, the more the price of the agricultural good is tied to the wage. We now want to explore how a price control on X impacts the welfare of workers and capitalists. Starting with the workers’ indirect utility function: U 3 (x3 , y 3 ) + λ3 [wl3 − px3 − y 3 ] V 3 (p, w) = max 3 3
+
+(18)
+
+x ,y
+
+By the envelope theorem: ∂V 3 = −λ3 x3 < 0 ∂p ∂V 3 = λ3 l 3 > 0 ∂w The total effect of a change in p on workers’ welfare is: dV 3 ∂V 3 ∂V 3 dw = + dp ∂p ∂w dp Substituting equation 19 in equation 20 yields:
+
+19
+
+(19)
+
+(20)
+
+  3 dV 3 px3 3 wl =λ εwp − 3 dp p l w
+
+(21)
+
+Equation 21 shows that a price control reducing the price of the rural good p will benefit workers only if the elasticity of wage with respect to p is less than the share of the worker’s income consumed on the rural good (remember that 0 < εwp < 1). Although it is impossible to estimate the elasticity of urban wage with respect to agricultural prices during the French Revolution, we have a fairly good idea of the percentage of urban workers’ income spent on bread. The best estimates available suggest that each urban worker’s household consumed around 4 pounds of bread daily. Hence the percentage of urban wage-earners’ income dedicated to purchasing it was often greater than 50% for unskilled workers and even larger during shortages (see Table 2). By equation 21, this suggests price controls likely improved the laborers living conditions. In addition, there is some suggestive evidence that real wages increased substantially during the French Revolution following price controls. For instance, secret agent Grivel reports in January 1794 that urban workers “far from losing in the current situation of things, on the contrary have won and are still winning a lot, the price of objects like the bread having increased little, while wages have tripled and quadrupled.” (Caron 1943, 7)24 As for capitalists, their indirect utility function is as follows: U 2 (x2 , y 2 ) + λ2 [Π2 (L2 ) − px2 − y 2 ] V 2 (p, w) = 2max 2 2
+
+(22)
+
+x ,y ,L
+
+By the envelope theorem: dV 2 = −λ2 x2 < 0 dp dV 2 = −λ2 L2 < 0 dw The total effect of a change in p on capitalists’ welfare is:
+
+(23)
+
+dV 2 ∂V 2 ∂V 2 dw = + dp ∂p ∂w dp
+
+(24)
+
+  dV 2 wL2 2 2 = −λ x + εwp dp p
+
+(25)
+
+Which can be rewritten as:
+
+Since 0 < εwp < 1, equation 25 shows that urban capitalists gain twice from a lower price 24
+
+This last figure is in nominal terms. By January 1794, the assignats had already depreciated by 60%.
+
+20
+
+Table 2: Approximation of the income spent on bread by Parisian workers in 1789 and 1790.
+
+Occupation
+
+Quarryman Navvy (terrassier) Carriage maker Blacksmith Worker in Réveillon’s factory Builder’s laborer Journeyman mason Journeyman locksmith, carpenter etc. Sculptor, goldsmith
+
+Daily wage
+
+Average daily income 1789 30 s. 18 s. 20 s. 12 s. 28 s. 16.8 s. 30 s. 18 s. 1790 25 s. 15 s.
+
+4 pounds of bread as % of income: At 9 s. At 14.5 s.
+
+50% 75% 53.6% 50%
+
+80.6% 120.8% 86.3% 80.6%
+
+60%
+
+96.7%
+
+30 s. 40 s. 50 s.
+
+18 s. 24 s. 30 s.
+
+50% 37.5% 30%
+
+80.6% 60.4% 48.3%
+
+100 s.
+
+60 s.
+
+15%
+
+24.2%
+
+Note: Effective income is given by multiplying daily wage by 0.6 to account for “feast days” and sick days (Rudé 1954). Rudé (1954) argues that 4 pound of bread per day is a reasonable assumption of the amount of bread Parisian workers needed to feed their household (with a wife and three children) in 1789. The wages for 1790 are given by Rudé (1954, 248). Those for 1789 are given by Jaffé (1924, 26). Bread was sold 9 s. in February 1788 and increased up to 14.5 s. In February 1789. We use those two extremes as benchmarks. Since we do not the the elasticity of the demand for bread with respect to both price and income, it is likely that our numbers overestimate the share of income spent on bread when prices were as high as 14.5 s. and underestimate it for better paid workers.
+
+for the rural good. First by paying less for the rural good and second because the wage rate they pay their workers will decrease relative to the price of the industrial good they produce. Several conclusions can be drawn from our analysis. First, it is not obvious that workers gain from price controls on the agricultural good because it leads to a fall in their wage. However, the best evidence we can get from Revolutionary France (see table 2 and above) suggests that urban workers benefited from the controls. Second, the price control increase the labor supplied in the city and urban production. Third, urban capitalists are unambiguously better off with the price control. Fourth, rural landlords are unambiguously worse off with a price control reducing the price of grain. Whether or not a group benefits from a policy is not enough for it to be an interest group influencing policy. The cost of collective action must be sufficiently low among that group to be able to impose its preferred policy. It is therefore likely that urban capitalists, not urban workers, are the main interest group behind price controls turning the terms of trade against
+
+21
+
+the countryside. The alliance of capitalists and workers concerning price controls will often be circumstantial and may rapidly change if, for instance, capitalists try to introduce wage controls as well —as was attempted during the French Revolution.
+
+Cities, war and political support for the foutu maxi-
+
+5
+
+mum 5.1
+
+War
+
+Population in cities, especially Parisians, played a large role in establishing price controls through their relentless political actions. Yet the National Assembly had remained reluctant to both enact and enforce the maximum until September 1793. Only when the war raged did parliamentarians see an opportunity to use price controls as a substitute for taxation. France’s military situation deteriorated in the first half of 1793. To continue the fight, revolutionaries had to decree the levy of 300,000 men, an unprecedented increase in manpower. By March, France was at war with Austria, Prussia, Spain, Britain, Piedmont, and the Netherlands while a civil war broke out in the region of Vendée. In those critical times, weapons had to be built, and soldiers had to be fed, clothed, and horsed. Tax revenues could not finance the dramatic rise in public expenditures, as can be seen in Figure 2, which reports the percentage of public expenditures covered by taxes from early 1791 to early 1795.25 What was not financed through taxation was financed through inflationary finance. The dotted lines represent the declaration of war (April 20, 1792), the enactment of the first maximum (May 4, 1793), the general maximum (September 29, 1793), and the abolition of the maximum (December 24, 1794) respectively. Given the State’s strained financial situation, price controls associated with forced sales became an expedient way to raise real resources at a lower cost to feed both cities and the army. As the required resources to fight the war grew, so did the political support for price controls. Politicians such as Barère understood that forced sales associated with price controls were an effective means for national defense. “It is not enough, Barère argued, to have men and weapons, we need sustenance; it’s the basis of all the operations of the war. [...] [A]s these are extraordinary needs, we need means that resemble them.” 26 . Robespierre and the members of the Committee of Public Safety supported the maximum only “because taxation [nb: taxation was the other name for the maximum] and requisitions were necessary 25
+
+The data used was collected from the monthly report of the committee of finances to the assembly. Those reports are accessible in the Archives Parlementaires. 26 Le Moniteur Universel, no 237, August 25 1793, p.477.
+
+22
+
+(i)
+
+(ii)
+
+(iii)
+
+(iv)
+
+70 60 50 40 30 20 10
+
+179
+
+1.0 3 179 1.0 6 179 1.0 9 179 1.1 2 179 2.0 3 179 2.0 6 179 2.0 9 179 2.1 2 179 3.0 3 179 3.0 6 179 3.0 9 179 3.1 2 179 4.0 3 179 4.0 6 179 4.0 9 179 4.1 2 179 5.0 3
+
+Tax revenue as a percentage of government spending
+
+Figure 2: Share of government spending finances by taxes.
+
+Source: Archives Parlementaires.
+
+for the conduct of a great national war.” (Soboul 1978, 11). As argued in section 4.1, the government can increase real revenue by introducing price controls on the goods it consumes most intensively. Public accounting was in shambles during the Reign of Terror, and it is difficult to know the extent and allocation of public spending during that period. However, we can get some information from the system of credits to various administrations and commissions —a system prolonged for about a year after the Terror. We summarize the information about the credits we found in Table 3. The commission of commerce and supplies27 systematically captured most of the public funds allocated through the credits system. The commission of commerce and supplies was in charge of requisitioning and distributing grain and other foodstuffs for the army and cities (Caron 1907, 20). Although the credits found in Table 3 do not give a comprehensive summary of all government spending during the period, they very clearly show that expenses on supplies, a large part of which consisted of grain, were enormous. In 10 months, from June 1, 1794 to March 30, 1795, the commission of commerce and supplies was credited with 298 million (in 1790 prices). In comparison, the French government in 1790 spent a grand total of 690.7 million pounds and spent only 172 million on defense and foreign affairs (Braesch 1934). Given the large portion of government spending used to purchase food, price controls be27
+
+In French: Commission du commerce et des approvisionnements.
+
+23
+
+Table 3: Credits granted by the parliament, in millions of pound.
+
+Date
+
+Total
+
+Army Public Commerce Gold price related relief and supplies index† June 1, 1794 174 20 20 100 2.94 June 20, 1794 193 20 0 150 2.94 210 15 0 150 2.94 July 12, 1794 August 13, 1794 184 15 20 100 3.13 November 1, 1794 143.5 10 10 100 3.64 November 29, 1794 190 6 20 100 4.08 Abolition of the Maximum (December 24, 1794) March 30, 1795 675 38 30 600 7.69 1800 180 90 1500 28.57 July 3, 1795 August 3, 1795 1471 158 80 1200 30.77 60 50 600 44.44 September 12, 1795 994
+
+Estimated saved‡ 41 61.5 61.5 43 47.5 40.4 -
+
+Note: This data was collected from the Journal des débats et décrets. “Army related” stands for lines of credit opened for the purchase of weapons, gunpowder, and expenditures related to the organization of the army and navy (but not food). † “Gold price index” and measures the depreciation of the assignats relative to specie (= 1 in 1790) (Caron 1909). This data is available only for the first, 11th, and 21st day of the (revolutionary) month. We matched the data on credits granted to the parliament to the closest observation on the depreciation of the assignats. ‡ The “Estimated saved” column is a rough estimate of the additional amount of money, in 1790 pounds, the French government would have had to spend on supplies without price controls to get the amount of mt −Pc ) resources they used. It is equal to Et = St /Pc (P , where St is nominal spending on supplies (column Pmt 5) at time t. Pc is equal to the nominal controlled price relative to that of 1790 and is therefore equal to 4/3 until November 9, 1794, and 5/3 until December 24, 1794, as the law prescribed. Finally, Pmt is the nominal price of supplies that would have had to be paid without price controls relative to 1790 prices at time t. We assume that the price of supplies (in assignats) bought by the government would have evolved the same way as the price of gold without price controls so Pmt is equal to column 6. Our estimates implicitly assume that administrative and enforcement costs for price controls are zero. Yet the price of supplies would have probably increased faster than gold since demand for them was much greater with the war, since the revolutionary government used policies to prop up the price of gold, and since price controls can increase the demand for real balances. If we add the requisitioning of labor paid at maximum wages below the market wage, we possibly underestimate the amount of real resources raised by the revolutionary government through price controls.
+
+24
+
+came a very effective way to raise real revenue. The law of the General Maximum (September 29, 1793) forced peasants to sell their crops for less than one-third above their 1790 prices even though the assignats had already lost more than two-thirds of their value. As the banker Mallet du Pan write in a letter dated January 21, 1795 : [T]he committee [of Public Safety] paid for its purchases and operations only a third in addition to the prices existing in 1790, although their relative value would have tripled and even quadrupled for many articles since that time. The committee, [...] consequently, stole from each merchant, each plowman, each manufacturer the value of this difference [...] (du Pan 1884, 81). Taxation through requisitions —i.e. forced sales— and maximum prices were crucial to fighting war against most of Europe as it enabled the French government to obtain products necessary to wage war at a fraction of its market price and it is unlikely that the young Republic could have resisted foreign invasion without price controls (Harris 1930, Mathiez 1920b, Palmer 2005, Soboul 1978). In Table 3, I roughly estimate that price controls were equivalent to raising taxes by 294.9 million in 1790 pounds during the six months before the abolition of the maximum for which we could find data on the allocation of public funds (column 7). In other words, in 6 months, the French government raised resources through price controls worth around 40% of its 1790 annual budget or, roughly, 9.9% of GDP.28 Figure 3 shows the dramatic rise in public spending, both in nominal and real terms, following the declaration of war against Austria in April 1792. The French government spent 914 million pounds (in specie) in 1792 and 1.33 billion in 1793 before spending decreased back to 922 million in 1794. Comparing our rough estimate of 294.9 million saved using price controls (in only 6 months) to the 1794 annual budget reaffirms the importance of the maximum. In addition, consistent with our predictions, public spending decreased in the period immediately following the first maximum and the general maximum represented by the second and third dotted lines in Figure 3. The introduction of the general maximum was above all the result of the National Assembly’s willingness to limit its growing expenditures. By 1794, the number of soldiers had risen to approximately 800,000. In certain districts or departments, around 10% of crops and 25% of the grain available for consumption were requisitioned by the State —and paid below the free-market price— to feed the army.29 One of the minister of war’s deputy in an order to the districts, links price controls to attempts to limit rising prices required by war suppliers: 28
+
+We divide Toutain’s (1987) GDP estimate for the 1781-1790 decade (5,941 million pounds) by two as our estimate of 294.9 million relies on only six months of data. 29 See Lefebvre’s (1914, 654-655) study on foodstuff in the Destrict of Bergues during the Revolution.
+
+25
+
+Figure 3: Monthly Government spending Note: The dashed lines denote: (i) The declaration of war in April 1792; (ii) the enactment of the first Maximum ; (iii) the enactment of the General Maximum ; (iv) The abolition of the Maximum.
+
+800
+
+(ii)
+
+(iii)
+
+(iv)
+
+Spending (in assignats) Spending (in specie)
+
+180
+
+700
+
+160
+
+600
+
+140
+
+500
+
+120
+
+400
+
+100
+
+300
+
+80
+
+200
+
+60
+
+100
+
+Government expenditure (in specie)
+
+Government expenditure (in assignats)
+
+(i)
+
+40
+
+179 1.0 3 179 1.0 6 179 1.0 9 179 1.1 2 179 2.0 3 179 2.0 6 179 2.0 9 179 2.1 2 179 3.0 3 179 3.0 6 179 3.0 9 179 3.1 2 179 4.0 3 179 4.0 6 179 4.0 9 179 4.1 2 179 5.0 3
+
+0
+
+Source: Archives Parlementaires and Caron (1909).
+
+The purpose of the Convention, in making this decree, was to put an end to the merchant aristocracy and the monopolists’ greed, who, after having, by means suggesting incivism and greed, caused an extreme scarcity of food, used this same scarcity to demand exorbitant prices. Among those who have distinguished themselves in this kind of crime, we especially notice the suppliers of the armies of the Republic; and it was all the easier for them to impose their demands since, the needs being very urgent, there was no time, before dealing with them, to take measures capable of thwarting their villainy. (Journal Militaire, Year II, p.62-63). Carnot, one of the most prominent members of the Committee of Public Safety and described as the “Organizer of Victory,” wrote several decrees and orders suggesting the deliberate use of price controls to finance the war. In an order of June 23, 1793, written by Carnot, then in mission in the Army of the North, and his colleagues, it is declared that: [T]he maximum price for fodder, [...] having only aimed to prevent the frightening increase in the cost of these commodities, it is becoming essential today to adopt a new measure which ensures at the same time the supply of the army and the economy in the expenses of the Republic; let us order that by next July 15 the 26
+
+districts of the departments of Nord, Pas-de-Calais, Aisne, and Somme, will pay into military stores which have been designated to them the complement of their hay quotas, straw, and oats; that these commodities will be paid in accordance with our decree of April; that after the said period of July 25, hay and straw from the said quotas will experience a reduction in price. [emphasis added] (Carnot 1894, 355). Similarly, financing the war was the motive behind extending the maximum to mules and horses. Referring to this extension of price controls, Barère declared in front of the Assembly that “great needs require great measures; we need to defeat the tyrants during this campaign; we must therefore take all means necessary.” 30 The decree following Barère’s report fixed the maximum price for horses and mules to 900 pounds. As for grains, price controls on equids were effective as a means to “draft” horses and mules in the army while minimizing the burden on public finances. This came, however, at a heavy cost to the countryside. In some departments, the market for quality horses completely disappeared, and peasants’ only choice was to buy used and tired horses (Roche 2008). The political success of price controls in the National Assembly hinged on their ability to serve as substitutes for taxation. Concern about urban dwellers’ welfare was only indirect. The political support of the sans-culottes, at least in the period ranging from 1792 to 1794, was necessary to win both the struggle for power and war. Jacobins saw an opportunity to kill two birds with one stone by giving in to the demands of the urban population in order to grab power and then by using price controls to organize national defense. The overlap between military justifications and urban support for the maximum is clearest in the case of the Hébertistes, a group of pro-war radical revolutionaries. Members of this group, which controlled the Parisian sections —the administrative sub-units of Paris’ communal government, were involved in the army or the military-industrial complex.31 those institutions to buy thousands of copies of Le Père Duchesne which they distributed free of charge to the army and Parisian population (Gilchrist 1971). For instance, Pache, who had been minister of war, was an active member of the Club des Cordeliers. After he became Mayor of Paris in February 1793, he testified multiple times in front of the National Assembly, playing a major role in the establishment of the maximum. As Mathiez puts it: Many Hebertist chiefs occupy, thanks to the war, lucrative military jobs, [...] they populate the offices of the ministry for the war directed by Vincent, one of 30
+
+Archives parlementaires, v.88, p.281 Hébertistes took their name after Jacques Hérbert, founder of Le Père Duchesne journal. Journalism, of course, was not exempt of rent-seeking and the Hébertistes in the ministry of war and Paris commune induced 31
+
+27
+
+theirs, [...] they supply generals to the army of Vendée, [...] they alone constitute the cadres of the revolutionary army of which Ronsin and Mazuel are the leaders. For them, the war has become a career. (Mathiez 1920a, 140). For the Hébertistes, price controls were a means to feed, clothe and arm the new army raised with the levée en masse. Social considerations were secondary but nonetheless vital to form a political coalition in favor of the maximum. Support for war by the Parisian population was crucial to be able to conduct it. Once price controls became national policy, cities were supplied in the same manner as the army. The National Assembly sent its member directly to the front and in provincial France to enforce price controls while raising enough food for the army and ensuring soldiers have the necessary equipment and monitor the generals. Those representatives in mission were also in charge of maintaining a sufficient supply of food for Paris. A decree enacted by the National Assembly on September 11, 1793 stipulates that: The people’s representatives to the armies are specially responsible for making the requisitions necessary to supply the armies and border places [...]. As long as the war continues, the city of Paris will be supplied in the same way as the armies of the Republic and the places of war, but at its expense. [emphasis added]. (Archives parlementaires, tome LXXIII, p.694). Once price controls were abolished, the government had to rely more intensely on seignorage to finance its expenses, and inflation accelerated.32 price controls leads to three possible reactions by agents. They may increase their spending on goods which are not subject to price controls, they may consume more leisure and finally they may increase their effective demand for money balances. In this later case, the government will be able to raise more real resources through inflationary finance. On the impact of politics on hyperinflation during this period, see White (1995) and Cutsinger et al. (2020). The specie value of credits allocated to the commission of commerce and supplies more than tripled after the maximum was abolished (Table 3), increasing from 24.5 on November 29, 1794 to 78 million in March 1795. Although the real value of credits fell as Belgium was annexed (July 1, 1795), peace with Prussia and Spain was signed (April 5, 1795), and war became less intensive (Figure 4), it was still more than 50% above its pre-December 24, 1794 level in August 1795. 32
+
+In addition, frustrated demand for goods caused by
+
+28
+
+5.2
+
+Cities
+
+The maximum was established to favor cities (Mathiez 1926), with Paris dominating them all. The capital, at this time the largest city in continental Europe, was one of the first to implement price controls on several commodities on September 27, 1792.33 The municipal maximum on bread and foodstuff was, however, extremely difficult and costly to enforce. Inhabitants in the towns and villages surrounding Paris would come to the great city to buy bread below the market price. Paris’ mayor, Pache, declared in front of the Committee of Public Safety that the difference in price between bread in Paris and bread in the surrounding areas was such that “Paris fed [people] up to 10 miles” around the city.34 Police agents reported that some individuals would buy 40 or 50 bread loafs and resell them outside of Paris at a profit (Fourneron 1996). To limit the shortcomings of price controls at the municipal level, Parisians successfully lobbied for more comprehensive price controls to reduce the price of foodstuff. This was made possible through a change in institutions that empowered municipal politicians. National politics during the French Revolution was Parisian politics. Parisians had played a major role in overthrowing the Ancien Régime. The nascent National Assembly, scared that the King would try to take control of the municipal organization, voted a law on May 21, 1790, abolishing the tutelage of the Parisian commune and creating 48 subdivisions called “sections.” These sections, controlled mostly by Parisian’s business owners (Andrews 1985), became the heart of Parisian politics and challenged both the central municipal government and the National Assembly. By lowering collective action costs for the sans-culottes, the new sections and their assemblies, made it easier for the Parisian lower bourgeoisie to lobby the government and to impose their preferred pro-urban policies. While it is difficult to engage in successful political action in a city of 600,000 inhabitants, dividing the city in 48 sections made the effective political mobilization of the population possible. The population of most sections was between 10 and 15 thousand. The median section had only 78 industrial firms and 1,307 industrial workers (Braesch 1912). If the limited number of firm-owners and skilled workers facilitated collective action, so did social networks with some “dynasties” of craftsmen and tradesmen, often dominated by a patriarch, playing a major role in mobilizing other bourgeois politically (Andrews 1974). Sectionary politics was dominated by the producers of urban goods. In 1793-1794, around 65% of the sections’ civil commissioners were “substantial ‘patrons’ of enterprises” (Andrews 33
+
+A few years before, in 1789, some cities of northern France, for instance Caen, used price controls as well as forced sales (Miller et al. 1999). 34 Report of Pache to the Committee of Public safety, August 7, 1793, Archives Nationales, AF/II/68 o n 504.
+
+29
+
+1985, 83) in the sectors of production and commerce. For instance, among the 15 civil commissioners in the section of Faubourg-Montmartre, 3 were rentiers, 2 were merchants, 8 were active in production. Among those eight, we are certain five hired respectively 24, 22, 20, 10 and 9 workers (Andrews 1985). For comparison, the median firm size in that section was 10 in 1791 and the mean 15.8 (Braesch 1912). Those five commissioners alone hired more than 5% of industrial workers in their section.35 Those engaged in Parisian politics were not proto-proletarians and the maximum “was one of the most conserving of urban manufacturing interests and urban bourgeois power.” Andrews (1985, 97). Until 1792, the city government, which was controlled mostly by notables and the high bourgeoisie, was sympathetic to the monarchy and did not favor the maximum. Things changed when the King unsuccessfully ran away. On July 25, 1792, 47 out of 48 sections asked for the King’s destitution and the section’s gained the right to organize sessions freely and permanently. On August 9, 48 sections declared that if the King was not dethroned the same day, they would attack the Tuileries palace where the King resided. True to their word, they marched on the Tuileries, and the King had to take refuge in the National Assembly. The sections could now dictate political outcomes by pressuring the National Assembly directly. Sections had their own armed forces and, multiple times, refused to obey orders dictated by the central government. The Parisian sections repeatedly demanded that the National Assembly establish price controls and forbid the “hoarding” of grains by peasants and landlords. After the proclamation of the Republic on September 21, 1792, a struggle for power erupted between the Jacobins on the one hand and the Girondins, supported mostly by the countryside and some provincial cities on the other hand. In line with the economic interests they represented, the Girondins were vigorously against price controls. On April 15, 1793, 48 sections demanded the destitution of 22 Girondins in the National Assembly (Fourneron 1996). This attempt failed and the Girondins successfully opposed the enactment of a comprehensive maximum at the national level until June. On April 18, 1793, the department of Seine —i.e. Paris and the surrounding villages— decided to petition the Convention for the establishment of a Maximum on grain.36 The same date, Paris’ city government declared itself in a state of insurgency as long as the foodstuff crisis was not solved and refused to obey the orders of the central government.37 Price controls were soon enacted by the Committee of Public Safety on May 4, 1793. This first Law of the Maximum, ordered that the price of grain and flour in each district of 35
+
+This number does not include other sectionary politicians such as revolutionary commissioners. For similar numbers on other sections, see: Andrews (1974, 1985). 36 Le Moniteur Universel, t. XVI, p. 174-175, April 18, 1793. 37 Le Moniteur Universel, t. XVI, p. 177, April 18, 1793.
+
+30
+
+France should be the average of local market prices in effect from January to May 1793. As inflation pursued its course, the real controlled price fell. At the request of the Girondins who controlled much of the provincial administration, the enforcement of the price controls was left to local authorities. This last provision worsened the foodstuff crisis in many regions as each district or department started to forbid the export of grain (Mathiez 1922a). Some departments purposefully enacted high controlled prices to attract grain from other regions. Consequently, famines erupted in districts which had set the maximum at a lower level. By the end of the summer, local administrations were no longer enforcing the law. The opposition of the Girondins to a national maximum led the Parisian sections to revolt. From May 31 to June 1, 1793, the Parisian sections purged the National Assembly of the Girondins and helped the Montagnards gain control of the Assembly. They organized the insurrection, promising anyone who would take arms 40 shillings on May 31 and 6 pounds on June 1 (Mellié 1898, 142).38 On June 3, the Girondins were officially expelled from the National Assembly. An unsuccessful “federalist” revolt, led by the Girondins, ensued in the countryside and in almost every region controlled by the Girondins, the maximum was immediately suspended or abolished (Hanson 2010). Sectionary politics continued to pressure on the National Assembly to obtain comprehensive price controls. On September 4, 1793, Herbert threatened the Assembly by proposing that Parisians “go en masse to the Convention tomorrow; surround it as we did on August 10, September 2, May 31, and do not give up their ground until the national representation has adopted the means that are proper to save us.” (Fourneron 1996, 667). On September 11, 1793, the National Convention adopted a new plan: a uniform price for a long list of goods was set for the whole country, with the cost of transportation being taken into account. This plan was soon modified by the Law of September 29, which ordered that prices should be fixed at the local rates of 1790 plus one-third.39 As explained earlier, the Parisian sans-culottes were the main interest group behind the enactment of the maximum. But did price controls, at least in the short run, benefit a large portion of Parisians by turning the terms of trade against the countryside? The question is hard to answer due to the dearth of data and confounding factors, such as war, occurring during this period. Yet the consensus among historians of the French Revolution is that the maximum helped feed the urban population. Soboul (1958, 16) argues that “The food 38 Tullock (1971) explains why revolutions suffer from a public good problem and are therefore rarely the result of popular movements. French revolutionaries seem to have been aware of this fact and provided both positive and negative incentives accordingly. Also see Rudé (1964, 138). 39 76 Girondins deputies, which had been imprisoned after the popular revolt of May 31, 1793, were pardoned and recalled to the assembly on December 9, 1794 (Mathiez 1965). Soon after, on December 24, 1794, the maximum was definitely abolished.
+
+31
+
+shortage [was made] worse because the ‘maximum’ had been abolished.” While George Lefebvre claims that “Robespierre’s government saved French workers [la France ouvrière] from starvation.” (Mathiez 1920b, 254). Rudé (1954) finds that real wages rose in Paris between June 1790 and June 1793. We also know a famine erupted in Paris after price controls were abandoned on December 24, 1794.40 The impact of price controls on the supply of bread in cities is sometimes exaggerated by historians critical of the maximum. For instance, Schmidt (1869) seems to have cherry-picked police reports and documents reporting turmoil in times of shortages, while leaving out other police reports which asserted that markets were well supplied despite price controls.41 The living standards in the countryside, on the other hand, became abysmal (Lefebvre 1972). Inhabitants in rural departments, crushed by the forced sales of grain, were on the edge of starvation.42 One more good piece of evidence that Parisians gained relative to the countryside is its growing population in 1793-1794 (Ducoudray et al. 2000, 24). People from the countryside came to Paris where bread was relatively more abundant and wages higher.43 Finally, the consumption of flour in the capital seems to have increased following the price control. Parisians consumed around 1,800 sacks of flour per day in February 1794, compared with 1,500 sacks in 1789 and 1,400 in 1793 (Rudé 1954, 258).44
+
+5.3
+
+Maintaining supply and forced sales
+
+Following the first maximum on May 4, 1793, peasants started restricting supply. As representative Espert, on a mission near the army of the Eastern Pyrenées, writes in July, “Farmers prepare only the lands of the best report for the next year, because they fear that the others do not produce enough to cover the culture costs.” (Marion 1917, 320). Popular 40
+
+Admittedly, this does not prove that price controls could have improved the long run welfare of the urban population. Ending price controls may have been subject to a transitional gains trap. While the urban population could potentially gain in the long run from having free prices, abandoning price controls means a rise in prices without a short run increase in the supply of foodstuff. When the loss resulting from the short term increase in price outweighs the present value of the future benefits derived from abandoning price controls, the urban population will not favor abolishing controls even if it means that the supply of foodstuff will progressively fall or remain low. 41 For instance Parisian secret agent writes on December 23, 1793 (more than two months after the enactment of the second maximum that “We easily can have bread, and we wonder why [ration] cards when there is no shortage of bread.” (Caron 1910a, 351). 42 See for instance the following petition by the Jacobin’s club of Dijon to the National Assembly: Sur la nécessité d’organiser l’Administration des subsistances. Archives Nationales, no 2957 F/11/231. 43 In 1795, the Directory mentions in an address to Parisians that “The current population of Paris exceeds at least 150,000 souls its usual population, and every day it increases still more, because from all the parts of the Republic people come to live in a commune where the bread is distributed for nothing.” Le Directoire exécutif aux citoyens habitants de Paris, Archives Nationales, AF/III/347, dossier 1580. 44 A session of the Paris city government on July 20, 1793 refers to the 1,400 sacks of flour delivered to feed the city. See: Le Moniteur Universel, July 23, 1793, no 204, p.873.
+
+32
+
+uprisings took place in several departments. The representative of the Convention to the Northern army notices, “On all sides we are overwhelmed with requests for grain, from all sides we are told about popular movements almost hatched as markets are not supplied, everywhere we cry famine.” 45 By August of that year, the May law was dead letter. As predicted by standard economic theory, price controls seems to have made grain scarcer. The shrinkage of supply was exacerbated by the local enforcement of price controls and the absence of systematic forced sales, a situation which continued until the adoption of the general maximum on September 29, 1793. In bordering departments, many would go abroad to buy wheat at a price much higher than that fixed by the Maximum.46 The economic benefits of price controls to the urban population are conditional on how elastic the supply of grain is. To maximize those benefits, the government introduced coercive measures to force peasants to maintain supply (Mathiez 1920b, 1922b). Agents across France would make sure that crops were both sowed and harvested. In addition, forced sales, called “requisitions” were introduced. The commerce of grain based on voluntary transactions was for the most part abolished. The urban populations could now use the State as a proxy to extort the rural population. On February 18 1794, the “national agent” in the district of Saint-Girons, very aware of the economic incentives brought about by price controls, especially concerning quality reduction, explains: I have written to the district’s surveillance committees to recommend them to be vigilant that in their villages wheat in requisition is not deposited in places where it can be spoiled, that farmers do not melt their butter to salt it or hide it ; that they do not consume their eggs rather than bringing them to the market. (Archives Nationales, F/11/205, no 677) The National Assembly went even further by requisitioning labor to harvest crops, thus forcing peasants to produce grain for urban centers whatever the price paid to them.47 One of the most frequent requests by the Parisian sections was establishing coercive measures against farmers as “the guillotine alone could ensure the application of the Maximum and the adequate supply of Paris.” (Cobb 1987, 35). This request was fulfilled by the orderdecree of September 9, 1793, marking the creation of the Parisian “revolutionary army” in charge of seizing up the grain in the countryside and enforcing the maximum. Forced sales associated with price controls gave the Parisian revolutionary army the opportunity to extort 45
+
+Archives Nationales, AF/II/148, no 74. Reproduced in (Carnot 1894, 381). See for instance a letter to the division des subsistances dated Ventose 17 Year II in which poor farmers declare having seen a 13 years old boy and a man importing wheat from Spain which they paid above the tariff fixed by the law of the Maximum. (Archives Nationales, F/11/205, no 6584). 47 See the decree of Prairial 11 Year II in the Journal des Débats et des Décrets, no 619, p.173. 46
+
+33
+
+peasants to bring foodstuff in the city. Forced sales effectively increased urban welfare only to the extent that the rural population could not buy back their production at the price fixed by the maximum. For this reason, it was forbidden to bring foodstuff outside of Paris. According to police reports, the enforcement of the rules preventing the export of foodstuff out of Paris was strictly enforced (Caron 1910b, 55,118). To avoid peasants increasing their personal consumption of grain or violating price controls by either selling it at its market price or exporting it, the storage of grain was centralized with the state controlling its distribution, which favored cities over the countryside (Mathiez 1922b). For instance, the popular society of Bacqueville, in the department of Seine-Inférieure, wrote a petition to the Convention on February 4, 1794, declaring that the “countryside is continually requisitioned by the big cities which then refuse to distribute [the requisitioned goods] to the inhabitants who provide them” leaving the peasants “lacking of everything.” 48 Making a census of grain and cattle and forcing their export to both the army and cities was the only way to maintain the grain supply in cities given the lower than market clearing price set by the maximum. Not surprisingly, the maximum led most people in the countryside to oppose the Revolution while the urban population expressed strong support to Republicanism.
+
+5.4
+
+The end of the maximum.
+
+Two major developments are responsible for the return to free prices in the end of 1794: (1) the weakening of Parisian’s sections after the fall of Robespierre, (2) The geopolitical situation which ameliorated in 1794. The maximum was abolished only when the members of the National Assembly were sure that they could finance their spending. Lindet, who would be minister of Finances in 1799, and then member of the committee of Finances, declares on November 10, 1794, to the Assembly: [The committees of the Assembly] then considered whether to keep a maximum for setting the price of grain; great question that it is time to address, that the Republican must fix with a severe eye, since it touches greatest interests. But this question ceased to be one when the great needs of the army were calculated [...]. Free movement [of grain] cannot satisfy all demands. (Le Moniteur Universel, t. XXII, p. 456) The war turned in France’s favor toward the end of 1794, and by mid-1795, peace was signed with Spain and Prussia. Figure 4 reports the number of battles per month and as 48
+
+Archives Nationales, F/11/205, no 128.
+
+34
+
+well as a 6 months moving average to account for the seasonality of war operations.49 The dotted lines represent chronologically the enactments of the maximum and general maximum as well as the abandonment of price controls. Figure 4: Number of battles per month. (i) 18 16
+
+(ii)
+
+(iii)
+
+Number of Battles P Moving average= 3t=−3 Battlest
+
+14 12 10 8 6 4 2
+
+179
+
+2.0 3 179 2.0 6 179 2.0 9 179 2.1 2 179 3.0 3 179 3.0 6 179 3.0 9 179 3.1 2 179 4.0 3 179 4.0 6 179 4.0 9 179 4.1 2 179 5.0 3 179 5.0 6 179 5.0 9 179 5.1 2 179 6.0 3
+
+0
+
+Source: Smith (1998).
+
+The data is consistent with the hypothesis that price controls were crucial for the organization of the war economy. While price controls were established in times of growing military conflict, the maximum was abolished at a time were the number of battles fought by the French army declined significantly. Another factor in the return to free prices was the weakening of sectional politics in Paris after the fall of Robespierre and the Montagnard national assembly on July 27, 1794. As Hamel (1867, 779) puts it “life withdrew from [the sections]. After [the fall of Robespierre] they returned into the void.” The Sections tried to revolt without success on May 20, 1795, demanding “bread and the Constitution of 1793”, after what the sans-culottes were disarmed. By 1795, Parisian sections, which had been crucial for the enactment of prourban price controls, were abolished and replaced by twelve comités d’arrondissement.Any further demand for price controls were mostly ignored by the central government. 49
+
+Winter was generally a time were armies rested because the cold prevented major operations.
+
+35
+
+6
+
+## Conclusion
+
+The lack of data for the French Revolution prevents us from exploring additional implications of the public choice approach. For instance, we should expect that French towns in which grain export was more important to have expressed more discontent toward the maximum and the Revolution. Cobb (1987, 284) mentions that “communes which were rich in grain were the most opposed to the Parisians and to all form of regulation while impoverished communes were the most ‘patriotic’.” Yet without more detailed data, it is difficult to further analyze the political choices of Frenchmen during this period. Similarly, our theory does not simply apply to the political struggles between rural and urban voters. Given our argument that price controls were used to finance the war at the lowest political cost possible, we should expect price controls within the urban economy to be most prevalent in industries both crucial for the war effort and where collective action costs are the highest. I hypothesize that industries which can easily organize political action are less likely to experience stringent price controls, even if the goods they provide are crucial to the war effort. Yet here as well, it is extremely difficult to find detailed data about each industry of the French economy in 1793. In addition, the lack of systematic and comprehensive wage and price data during this period is difficult to remedy. The theory, however, can be applied to other situations, especially to the Bolshevik Revolution during which prices of agricultural output were lowered and a system of requisitions was introduced to supply industrial towns and the red army (Boettke et al. 1990). Other predictions not directly derived from the analysis in this paper can complement our approach. Everything else being equal, we should expect price controls, for instance, to be more prevalent in times of war when the deadweight cost of taxation is higher. During the French Revolution, taxes were indeed very costly to administer and implement, and the collapse in tax revenue resulting from the fall of the feudal order possibly induced the members of the Convention to adopt widespread price controls. Yet testing the empirical relevance of this proposition may require studying war finance over a more extended period, thus allowing for sufficient variation in fiscal capacity so as to gain insights. I purposefully refrained from a lengthy discussion on the impact of different political systems on war finance. This choice implicitly relies on the idea that war finance is largely the product of trade-offs —such as efficiency and the costliness of collective action— independent of political institutions (Mulligan et al. 2004). Surely, it is reasonable to posit that politicians in a democracy will not face the same “political prices” as a politician in an autocracy or a dictatorship (Albrecht et al. 2022), although this question is left open to further research. The modern economist should not be too hasty to judge negatively the decisions of the
+
+36
+
+revolutionaries. Far from being a senseless policy, price controls probably accomplished their goals much better than generally thought. Those goals, however, were not to reduce the price of products as a whole. The countryside suffered terribly from the maximum. The goal of the maximum was rather to raise resources for the army and populations in the cities. Aware of the incentives faced by economic agents, policymakers designed institutions and organizations aimed at minimizing waste while maximizing the benefits of price controls to the urban population. While economists have often deemed price controls as being inefficient, they may have been too fast at imputing what were the ends sought by policymakers. Price controls did generate chaos in the French economy after a while, but this chaos was not unexpected by policy-makers. Revolutionaries were willing to incur the costs of economic dirigism —and of losing their head— to save their Revolution and the benefits they got from it. In light of what they were trying to achieve, the relative efficiency of price controls during the French Revolution has to be reconsidered.
+
+37
+
+## References
+
+Aftalion, F. (1987), L’économie de la Révolution française, Hachette. Albrecht, B. C., Hendrickson, J. R. & Salter, A. W. (2022), ‘Evolution, uncertainty, and the asymptotic efficiency of policy’, Public Choice pp. 1–20. Andrews, R. M. (1974), Réflexions sur la conjuration des égaux, in ‘Annales. Histoire, Sciences Sociales’, Vol. 29, Cambridge University Press, pp. 73–106. Andrews, R. M. (1985), ‘Social structures, political elites and ideology in Revolutionary Paris, 1792-94: A critical evaluation of Albert Soboul’s" les sans-culottes parisiens en l’an ii"’, Journal of Social History 19(1), 71–112. Barère, B. (1846), Memoirs of Bertrand Barère, Vol. 1, H.S. Nichols. Bates, R. H. (2014), Markets and states in tropical Africa: the political basis of agricultural policies, Univ of California Press. Boettke, P. J. et al. (1990), The political economy of Soviet socialism: The formative years, 1918-1928, Springer Science & Business Media. Bonney, R. (1999), The rise of the fiscal state in Europe c. 1200-1815, Clarendon Press. Bordo, M. D. & White, E. N. (1991), ‘A tale of two currencies: British and French finance during the Napoleonic wars’, The Journal of Economic History 51(2), 303–316. Braesch, F. (1912), ‘Essai de statistique de la population ouvrière de paris vers 1791’, La Révolution Française LXIII, 289–321. Braesch, F. (1934), Les exercices budgétaires 1790 et 1791 d’aprés les comptes du trésor. Buchanan, J. M. & Tideman, T. N. (1974), ‘Gasoline rationing and market pricing: Public choice in political economy’, Atlantic Economic Journal 2(2). Burke, E. (1790), Reflections on the Revolution in France, J. Dodsley. Carnot, L. (1894), ‘Correspondance générale de carnot, tome ii (mars - aout 1793)’. Caron, P. (1907), Le commerce des céréales: instruction, recueil de textes et notes, Imprimerie nationale. Caron, P. (1909), Tableaux de dépréciation du papier-monnaie, Impr. nationale, É. Leroux, éditeur. 38
+
+Caron, P. (1910a), Paris pendant la Terreur, Vol. 1. Caron, P. (1910b), Paris pendant la Terreur, Vol. 2. Caron, P. (1943), Paris pendant la Terreur, Vol. 3. Cobb, R. (1987), Les armées révolutionnaires, Yale University Press. Cochin, A. (1924), La Révolution et la libre-pensée: la socialisation de la pensée, 1750-1789, la socialisation de la personne,(1789-1792) la socialisation des biens,(1793-1794)., Plon. Cormeré, G.-F. M. (1789), Mémoire sur les finances et sur le crédit pour servir de suite aux recherches & considérations nouvelles sur les finances, par M. le baron de Cormeré, Vol. 2, chez l’auteur. Crouzet, F. (1993), La grande inflation: la monnaie en France de Louis XVI à Napoléon, Fayard. Cutsinger, B., Ingber, J. & Rouanet, L. (2020), ‘Assignats or death: Inflationary finance in revolutionary France’, Available at SSRN 3674658 . Cutsinger, B. P. & Ingber, J. S. (2019), ‘Seigniorage in the civil war south’, Explorations in Economic History 72, 74–92. Dauban, C. A. (1869), Paris en 1794 et en 1795: histoire de la rue, du club, de la famine, Plon. Dincecco, M. & Prado, M. (2012), ‘Warfare, fiscal capacity, and performance’, Journal of Economic Growth 17(3), 171–203. du Pan, M. (1884), Correspondance inédite de Mallet du Pan avec la cour de Vienne (17941798), Vol. 1, E. Plon, Nourrit et cie. Ducoudray, É., Monnier, R., Roche, D. & Laclau, A. (2000), ‘Atlas de la Révolution française, vol. 11’, Paris, Éd. de l’EHESS pp. 56–57. Ekelund, R. B. & Thornton, M. (2019), ‘Rent seeking as an evolving process: The case of the Ancien Régime’, Public Choice pp. 1–17. Ekelund, R. B. & Tollison, R. D. (1981), Mercantilism as a rent-seeking society: Economic regulation in historical perspective, number 5, Texas A & M Univ Pr. Faipoult, G.-C. (1795), Essai sur les Finances. 39
+
+Fourneron, I. (1996), La décentralisation de l’administration des subsistance: Pache et la commune de paris, février-septembre 1793, in ‘Annales historiques de la Révolution française’, JSTOR, pp. 649–673. Gennaioli, N. & Voth, H.-J. (2015), ‘State capacity and military conflict’, The Review of Economic Studies 82(4), 1409–1448. Gilchrist, J. T. (1971), Press in the French Revolution, Ardent Media. Hamel, E. (1867), Histoire de Robespierre et du coup d’état du 9 thermidor, Vol. 3, A. Cinqualbre. Hanson, P. R. (2010), Jacobin Republic Under Fire: The Federalist Revolt in the French Revolution, Penn State Press. Harris, S. E. (1930), The Assignats, Harvard University Press, Cambridge. Hayek, F. v. (1941), ‘The counter-revolution of science’, Economica 8(31), 281–320. Hendrickson, J. R. (2020), ‘Usury enforcement as an alternative to capital taxation in premodern states’, Available at SSRN . Jace, C. (2019), ‘An economic theory of economic analysis: the case of the School of Salamanca’, Public Choice 181(3), 375–397. Jaffé, G. M. (1924), Le mouvement ouvrier à Paris pendant la Révolution française (17891791), PhD thesis, Paris. Johnson, N. D. & Koyama, M. (2014), ‘Tax farming and the origins of state capacity in England and France’, Explorations in Economic History 51, 1–20. Koyama, M. (2010), ‘Evading the ‘taint of usury’: The usury prohibition as a barrier to entry’, Explorations in Economic History 47(4), 420–442. Lefebvre, G. (1914), Documents relatifs à l’histoire des subsistances dans le district de Bergues pendant la Révolution, Vol. 2, Robbe. Lefebvre, G. (1972), Les paysans du Nord pendant la Révolution française, A. Colin. Marion, M. (1917), Le Maximum. Mai 1793. Nivôse an III. Mathiez, A. (1919), ‘Le vote du premier maximum avril-mai 1793’, Annales Révolutionnaires 11, 292. 40
+
+Mathiez, A. (1920a), ‘Le programme hébertiste’, Annales révolutionnaires 12(2), 139–142. Mathiez, A. (1920b), ‘Les réquisitions de grains sous la Terreur’, Revue d’histoire économique et sociale pp. 231–254. Mathiez, A. (1922a), ‘La Révolution et les subsistances. L’agitation sectionnaire á Paris en aout 1793 l’affaire cauchois.’, Annales révolutionnaires 14(1), 27–54. Mathiez, A. (1922b), ‘Les greniers d’abondance et la réquisition générale.’, Annales révolutionnaires 14(4), 298–318. Mathiez, A. (1926), La révolution et les subsistances: Le troisième maximum (germinalthermidor an ii), in ‘Annales historiques de la Révolution française’, JSTOR, pp. 97–116. Mathiez, A. (1965), After Robespierre: The Thermidorian Reaction, Vol. 182, Grosset & Dunlap. Mathiez, A. (1973), La vie chère et le mouvement social sous la Terreur, Vol. 1, Payot. Mazauric, C. (1962), Baboeuf et la conspiration pour l’Egalité, Editions sociales. Mellié, E. (1898), Les sections de Paris pendant la révolution française (21 mai 1790-19 vendémiaire an IV) organisation, functionnement, number 15, Société [de l’histoire de la révolution française. Miller, J. A. et al. (1999), Mastering the market: The state and the grain trade in Northern France, 1700-1860, Cambridge University Press. Montesquiou, Anne-Pierre, d. (1789), Rapport fait à l’assemblée nationale au nom du comité des finances, le 18 Novembre 1789, Baudouin. Morrisson, C. & Snyder, W. (2000), ‘The income inequality of France in historical perspective’, European Review of Economic History 4(1), 59–83. Mulligan, C. B., Gil, R. & Sala-i Martin, X. (2004), ‘Do democracies have different public policies than nondemocracies?’, Journal of Economic Perspectives 18(1), 51–74. Olson, M. (1965), Logic of collective action: Public goods and the theory of groups, Harvard University Press. Olson, M. (1982), The rise and decline of nations: Economic growth, stagflation and social rigidities, Yale University Press.
+
+41
+
+Olson, M. (1985), The exploitation and subsidization of agriculture in developing and developed countries, Technical report. Palmer, R. R. (2005), Twelve who ruled: The year of terror in the French Revolution, Vol. 99, Princeton University Press. Piano, E. E. & Hardy, T. (2022), ‘Rent seeking and the decline of the florentine school’, Public Choice pp. 1–20. Piano, E. E. & Rouanet, L. (2020), ‘Desertion as theft’, Journal of Institutional Economics 16(2), 169–183. Roche, D. (2008), ‘Les chevaux de la République: l’enquête de l’an III’, Revue dhistoire moderne contemporaine (4), 82–121. Rockoff, H. (2004), Drastic measures: A history of wage and price controls in the United States, Cambridge University Press. Rose, R. B. (1956), ‘The French Revolution and the grain supply: Nationalization pamphlets in the john rylands library’, Bulletin of the John Rylands Library 39(1), 171–187. Rose, R. B. (1959), ‘18th-century price-riots, the French revolution and the Jacobin Maximum’, International Review of Social History 4(3), 432–445. Rouanet, L. (2021), ‘The interest group origins of the bank of France’, Public choice 186(1), 119–140. Rouanet, L. & Piano, E. E. (2020), ‘Filling the ranks: The remplacement militaire in postrevolutionary France’, European Review of Economic History 24(4), 696–715. Rouanet, L. & Piano, E. E. (2022), ‘Drafting the Great Army: The political economy of conscription in Napoleonic France’, Journal of Economic History . Rudé, G. E. (1954), ‘Prices, wages and popular movements in paris during the French Revolution’, The Economic History Review 6(3), 246–267. Rudé, G. F. (1964), Revolutionary Europe, 1783-1815, Vol. 998, Collins London. Sah, R. K. & Stiglitz, J. E. (1984), ‘The economics of price scissors’, The American Economic Review 74(1), 125–138. Sah, R. K. & Stiglitz, J. E. (2002), Peasants versus city-dwellers: Taxation and the burden of economic development, Oxford University Press. 42
+
+Schmidt, W. A. (1869), Tableaux de la Révolution française, Vol. 2, Veit. Sibalis, M. (1986), ‘Parisian labour during the French revolution’, Historical Papers/Communications historiques 21(1), 11–32. Smith, D. G. (1998), The Greenhill Napoleonic wars data book, Greenhill Books/Lionel Leventhal. Soboul, A. (1958), Les Sans-culottes parisiens en l’an II: mouvement populaire et gouvernement révolutionnaire, 2 Juin 1793-9 Thermidor An II., Librairie Clavreuil. Soboul, A. (1978), Robespierre ou les contradictions du jacobinisme, in ‘Annales historiques de la Révolution française’, JSTOR, pp. 1–19. Soboul, A. (1983), La Révolution Francaise, Gallimard. Stigler, G. J. (1982), The economist as Preacher and Other Essays, University of Chicago Press. Tackett, T. (2015), The coming of the terror in the French Revolution, Harvard University Press. Taine, H. A. (1885), Les origines de la France contemporaine, Vol. 3-4, Hachette. Thompson, E. A. (1974), ‘Taxation and national defense’, Journal of political economy 82(4), 755–782. Thompson, E. A. (1979), ‘An economic basis for the" national defense argument" for aiding certain industries’, Journal of Political Economy 87(1), 1–36. Toutain, J.-C. (1987), ‘Le produit intérieur brut de la france de 1789 à 1982’. Tullock, G. (1967), ‘The welfare costs of tariffs, monopolies, and theft’, Economic Inquiry 5(3), 224–232. Tullock, G. (1971), ‘The paradox of revolution’, Public Choice pp. 89–99. Tullock, G. (1975), ‘The transitional gains trap’, The Bell Journal of Economics pp. 671–678. Whatmore, R. (2002), ‘Adam Smith’s role in the French Revolution’, Past & present (175), 65–89. White, E. N. (1989), ‘Was there a solution to the Ancien Régime’s financial dilemma?’, The Journal of Economic History 49(3), 545–568. 43
+
+White, E. N. (1995), ‘The French Revolution and the politics of government finance, 1770– 1815’, The Journal of Economic History 55(2), 227–255.
+
+44

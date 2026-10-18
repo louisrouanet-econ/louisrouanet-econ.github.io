@@ -1,0 +1,6 @@
+# All crawlers, including AI/LLM crawlers, are welcome.
+# A machine-readable index of this site is at /llms.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://louisrouanet-econ.github.io/sitemap.xml

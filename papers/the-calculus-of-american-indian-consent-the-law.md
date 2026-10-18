@@ -1,0 +1,887 @@
+---
+title: "The Calculus of American Indian Consent: The law and economics of tribal constitutions"
+authors: "Louis Rouanet, Ennio Piano"
+type: journal article
+venue: "Public Choice"
+year: 2022
+pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Native_American_Constitutions-9.pdf
+text: https://louisrouanet-econ.github.io/papers/the-calculus-of-american-indian-consent-the-law.md
+homepage: https://louisrouanet-econ.github.io/
+abstract: "American Indians living on reservation are the poorest demographic in the United States. A growing literature suggests that tribal political institutions are at least in part to blame for such poor economic performance. This paper develops and then tests a framework to study one central political institution influencing life on the reservation: Tribal constitutions. Building on previous work on constitutional choice, we articulate several hypotheses on the content of these documents. We focus especially on the strictness of ethnic requirements (or blood quantums), the adoption of direct democracy, the imposition of restrictions on elected officials, and the protection of private property against expropriation by the tribal government. We test our hypotheses against information from 117 American Indian constitutions, the majority of which were written in the aftermath of the Indian Reorganization Act of 1934. The results provide evidence of the validity of our hypotheses."
+---
+
+# The Calculus of American Indian Consent: The law and economics of tribal constitutions
+
+**Authors:** Louis Rouanet, Ennio Piano  
+**Published in:** Public Choice  
+**Year:** 2022  
+**PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2022/03/Native_American_Constitutions-9.pdf  
+**More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
+
+> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+
+## Abstract
+
+American Indians living on reservation are the poorest demographic in the United States. A growing literature suggests that tribal political institutions are at least in part to blame for such poor economic performance. This paper develops and then tests a framework to study one central political institution influencing life on the reservation: Tribal constitutions. Building on previous work on constitutional choice, we articulate several hypotheses on the content of these documents. We focus especially on the strictness of ethnic requirements (or blood quantums), the adoption of direct democracy, the imposition of restrictions on elected officials, and the protection of private property against expropriation by the tribal government. We test our hypotheses against information from 117 American Indian constitutions, the majority of which were written in the aftermath of the Indian Reorganization Act of 1934. The results provide evidence of the validity of our hypotheses.
+
+## Full text
+
+The Calculus of American Indian Consent: The law and economics of tribal constitutions∗ Ennio E Piano†
+
+Louis Rouanet‡
+
+## Abstract
+
+American Indians living on reservation are the poorest demographic in the United States. A growing literature suggests that tribal political institutions are at least in part to blame for such poor economic performance. This paper develops and then tests a framework to study one central political institution influencing life on the reservation: Tribal constitutions. Building on previous work on constitutional choice, we articulate several hypotheses on the content of these documents. We focus especially on the strictness of ethnic requirements (or blood quantums), the adoption of direct democracy, the imposition of restrictions on elected officials, and the protection of private property against expropriation by the tribal government. We test our hypotheses against information from 117 American Indian constitutions, the majority of which were written in the aftermath of the Indian Reorganization Act of 1934. The results provide evidence of the validity of our hypotheses. Keywords: Constitutional choice; American Indian constitutions; Indian Reorganization Act JEL Codes: D23; D73; K10; N41
+
+∗
+
+Nicholas Jansen provided some research assistance. Email: ennio.piano@mtsu.edu. Political Economy Research Institute, Department of Economics and Finance, Middle Tennessee State University, 1301 E Main Street, Murfreesboro, TN 37132, USA. ‡ Email: louis.rouanet@wku.edu. Address: Department of Economics, Western Kentucky University, KY, USA †
+
+1
+
+## Introduction
+
+Political institutions are a major determinant of economic performance (Weingast, 1995; Acemoglu et al., 2019). Constitutions, the set of rules governing the ways countries organize collective choice, are among the most important such institutions (Voigt, 2011). A growing body of literature studies the effects of different constitutional provisions on the wealth of nations (Przeworski and Limongi, 1993; Elster, 1994; Acemoglu et al., 2005). For instance, Persson and Tabellini (2004, 95) write that "a parliamentary form of government is associated with better performance and better growth-promoting policies." Andersen and Aslaksen (2008) also find that countries with parliamentary regimes are significantly less likely to experience a resource curse than ones with presidential regimes. American Indians living on reservations have the lowest per capita income in the United States. According to (Leonard et al., 2020, 1), "[i]n 2015, average household income on reservations was 68 percent below the U.S. average." As a result of the peculiar experience of these groups in US history, American Indian tribes have special legal status, a fact the federal government has recognized since the country’s funding and reaffirmed by the Supreme Court in a series of decisions, from Cherokee Nation v. Georgia (30 U.S. [5 Pet.] 1, 17 [1831]) and Worcester v. Georgia (31 U.S. [6 Pet.] 515 [1832]) to, most recently, United States v. Cooley (2021). According to Supreme Court precedent, American Indian tribes exist as "distinct, independent political communities" within the United States and and enjoy limited rights to selfdetermination and self-governance. In the exercise of these rights, American Indians may adopt the system of government of their choosing. Thus, going back to the early nineteenth century, many American Indian groups have drafted and ratified their own constitutions, regulating many aspects of tribal life from the election of
+
+1
+
+officials to the separation of powers to the rights of Indians and non-Indians living on reservation. Unsurprisingly, scholars of American Indian development have looked at their political institutions as a potential cause for such poor economic performance (Cornell and Kalt, 1995; Anderson and Parker, 2009; Cookson, 2010).1 Most notably, Akee et al. (2015) argue that tribes that adopted constitutions outlining a parliamentary system of government have experienced significantly higher growth rates in income per capita and other measures of economic performance relative to tribes that opted for a presidential system. Consistent with this result, Anderson (2016) finds evidence that written constitutions are beneficial to economic performance, with Indian tribes that adopted these documents experiencing generally higher income per capita than the rest. One problem with attempts to measure the effect of political institutions, and constitutions in particular, on tribal economic performance is that these are not distributed randomly across groups.2 To a large extent, tribes drafted their own constitutions freely. If some tribe-specific characteristic affected both its constitutional choice and the ability to generate economic output, studies that treat political institutions as exogenous will tend to produce biased results (Sass, 1991). For this reason, understanding the determinants of American Indian constitutional choice can better allow us to identify the independent effect of constitutional characteristics on tribal economic performance and other outcomes of interest. The goal of this paper is to advance such understanding. We begin by outlining 1
+
+Others have pointed out the detrimental role of federal policies such as removal and the allotment system (Anderson and Parker, 2009; Feir et al., 2019; Leonard et al., 2020). Anderson and Parker (2008) argue that legal institutions and whether a tribe has to independent courts are partially responsible for the variation in economic performance between tribes. 2 Not generally at least. For an exception, see the discussion of the rise of democracy in Ancient Greece in Fleck and Hanssen (2018).
+
+2
+
+a framework to study constitutional choice. We build upon the foundational work of Buchanan and Tullock (1965), which treat constitutional rules as resulting from the minimization of the sum of decision-making and external costs. Decision-making costs refer to the value of resources that must be sacrificed in order to achieve consensus over a piece of legislation, public policy, or some other kind of government action. These costs are clearly increasing in the minimum number of people that must agree before a motion is passed. External costs are the value of resources employed by the state to reallocate wealth between constituents and in the defensive efforts to prevent this reallocation. Unlike decision-making costs, external costs are inversely related to the minimum number of votes needed to approve a motion. We follow Sass (1991) in expanding the meaning of external costs to include the value of resources employed in mitigating agency problems. Unlike other external costs, agency costs are incurred only in representative democracies and are a decreasing function of the representative-to-voter ratio. We test this framework against data on the content and structure of American Indian constitutions.3 We analyzed 117 constitutional documents, a majority of which drafted and ratified in the aftermath of the of the Indian Reorganization Act of 1934, and extracted data on several variables related to constitutional choice. We merged the resulting data set with information on demographic, economic, and social characteristics of the American Indian tribes represented in our samples. Our empirical approach is similar to the one employed by Sass in his study of the constitutions of condominiums (Sass, 1992) and those of municipal governments of 3
+
+We are not the first to systematically study of American Indian constitutions. Using a similar approach, Anderson (2016) looked at the historical determinants of constitutional choice of the historical centralization of tribal political organization and the decision of the federal government to force separate bands to merge into one political unit during the removal and reservation period, for which he finds mixed evidence.
+
+3
+
+small towns in Connecticut (Sass, 1991).4 In the spirit of these works, some of our predictions focus on the determinants of voting rules and constraints on elected representatives in tribal constitutions, including the choice between direct and representative democracy, the inclusion of restrictions on takings by the tribal governments, and the choice of term length and age requirements of representatives. We find that larger tribes are significantly less likely to adopt direct democracy evidence of a negative effect of the value of the share of reservation land under tribal management. A larger value of tribal land-share further predicts higher minimum age requirements for tribal officials as well as shorter term lengths. Moreover, our results suggest that recall elections and short term limits functioned as substitute institutional solutions to agency problems between tribal voters and their representatives. We also find that the per capita value of private land on the reservation is (positively) predictive of the probability that a constitution will include a "takings clause." Our analysis investigates a key feature of constitutions, both public and private: Membership requirements. Most of the constitutions in our database were drafted in the aftermath of the Indian Reorganization Act (IRA) of 1934. One of the stated goals of the IRA was to end the allotments system, which had seen the privatization of land that had traditionally been held in common by tribal members. The IRA returned some land to the tribes, promoted their purchase of allotted land, and limited the ability of individual allottees to transfer their lots to third parties. Thus, just as they were drafting their constitutional documents, American Indian tribes needed to figure out how to manage this valuable resource. In particular, since access to this land would have been non-exclusive to members of the tribe, preventing 4
+
+Fahy (1998) finds evidence broadly consistent with Sass (1991) in the constitutions of local governments in Massachusetts. Leeson (2009) employs a similar framework to study piratical constitutions.
+
+4
+
+rent-dissipation required that membership requirements be delineated and that the strictness of these requirements must be increasing in the value of the land held in common. In the case of post-IRA American Indian constitutions, membership requirements mostly took the form of a blood quantum. A tribe would restrict the ability to join their ranks to individuals who could prove to have “tribal blood” above some minimum value. Some tribes, like the Southern Ute Tribe in Colorado, might require that members “be of 1/2 or more degree of Ute Indian blood.” Others, like the Omaha Tribe of Nebraska, had an effective blood quantum of zero, as they did not include any such requirement. Our framework predicts that the constitutions of American Indian groups with a larger value of reservation land owned in common by the tribe should also include more stringent blood quantum to obtain membership.5 We find strong empirical support for this hypothesis.
+
+2
+
+A brief American Indian constitutional history
+
+The first case of a written Native American constitution was the "Great Law of Peace" of the Iroquois Confederacy, dating to the first half of the sixteenth century. However, unwritten constitutions had existed in North America for much longer. Indeed, the Iroquois’ "Great Law" merely transcribed the oral traditions that had regulated the political life of these people for several centuries (Wilkins, 2009, 14). To the extent that they showed any degree of social complexity, every one of the over 600 tribes that inhabited North America at the arrival of the Europeans had a 5
+
+In his work on tribal constitutions, Anderson (2016) blood quantums as independent variables, finding that they predict the presence of a casino on the reservation. While he does not offer an explanation for this result, our framework suggests that blood quantums prevent the dissipation of rents generated by operating an Indian casino, thus increasing the profitability of this enterprise.
+
+5
+
+system of government characterized by specific rules. These pre-Colombian Native American constitutions varied substantially. Some groups were organized in small, independent, and highly democratic units, like the Paiutes in Utah and Nevada. Others formed federations in which constituent group was largely independent in the administration of internal affairs, as the Iroquois in the Northeast. A third category tribes still were theocracies ruled by a priestly class, like the Pueblos in the Southwest.6 Contact with European colonists started a process of institutional change. Traditional forms of government persisted while incorporating elements of European political thought and practice. This institutional blending was in part a response to the changing economic circumstances of the Indian people and to exposure to the colonists’ culture, but partly also the result of the colonial governments’ explicit efforts to mold the political institutions of the indigenous peoples living within their colonies (Wilkins, 2007, 134). These hybrid constitutions were still largely informal. The first formal constitutional moment among Native American nations started in the early nineteenth century, just a few years after the ratification of the American constitution, and lasted until the start of the Civil War. During this period, some of the largest and best politically organized Indian groups drafted their first written constitutions, including the Cherokee, Chickasaw, Creek, and Seneca nations (Wilkins, 2009). More tribes adopted written constitutions in the decades following the Civil War. For the first time, this process encompassed tribes from the Southwest and the Plains, whose territories had come under the jurisdiction of the United States following the Mexican American War. By and large, these constitutions were the product of internal delib6
+
+See Driver (2011) for an overview of the political organization of American Indian peoples in the pre-Columbian period.
+
+6
+
+eration by the members and leadership of each tribe. Like those of Spain, France, England, and Mexico before it, the American government influenced this process both directly and indirectly.7 However, the initiative was mainly in the hands of the tribes (Clow, 1987). Things changed with the passing of the Indian Reorganization Act (IRA) of 1934.8 The purpose of this legislation was to put an end to decades of attempts by the federal government to assimilate the Indians into the American public and restore a significant degree of self-determination and self-governance to the tribes (Haas, 1947, 1). Tribes were now entrusted with electing their own governments and selecting the laws by which they were to live (Kelly, 1975, 293). Moreover, the IRA established the Indian governments’ right to administer and regulate access to tribal assets, particularly land (Haas, 1947, 2). The IRA constituted a 180 degree turn from four decades of federal Indian policy going back to the Dawes Act of 1887. According to this act, tribal lands were to be divided in 160 acres lots, which would then be allotted to Indian households. For twenty-five years after gaining possession, allottees could use their land as they pleased, except for selling it without the approval of the Bureau of Indian Affairs (BIA). Any tribal land that had not been so allocated (known as "surplus land") was made available to non-Indians for allotment and, in the meantime, fell under BIA control. With the passage of the IRA, the federal government abandoned its allotment policy. While all Indian land that had been already allotted was to remain in the hands of 7
+
+For instance, by way of cultural influence but also as an unintended outcome of the process of Indian removal. 8 The IRA was part of a broader change in the federal government’s agenda towards tribal groups known as the "Indian New Deal." Due to their peculiar status, Alaskan, Hawaiian, and Oklahoman native groups were excluded from the IRA. However, Congress promptly passed follow-up legislation to address each of these cases. In the case of Oklahoman Indians, the content of this legislation (the Oklahoman Indian Welfare Act of 1936) was largely analogous to the IRA.
+
+7
+
+the allottees, the IRA returned authority over surplus lands to the tribes. Moreover, the BIA promoted efforts by the tribes to gain back control of allotted lands as well. For instance, allottees lost the right to sell to anyone but the tribal government, regardless of how long they had occupied their plots. Non-Indian beneficiaries of the Dawes Act were similarly prevented from leaving their lots to their heirs (Kelly, 1975, 297). To benefit from the IRA, the federal government demanded that tribes ratify written constitutions and bylaws formally outlining, among other items, their membership requirements, system of government, legislation process, electoral procedures, and land policy (Wilkins, 2007, 118-119). Within just a few years after the IRA, 93 tribes voted in favor of the IRA and adopted their new constitutions (Anderson, 2016, 379).9 With all its emphasis on tribal self-governance, the IRA gave the BIA significant influence over the drafting of tribal constitutions.10 The BIA provided tribes with a model constitution to inspire the drafting process (Akee et al., 2015, 847).11 The influence of the BIA in the writing of these documents is clear from a brief comparison of them. Virtually all of them shared the same formal structure (starting with a list of constitutional articles followed by a set of bylaws) and similar in content. Even the order of the articles was often the same, starting with a brief preamble, followed by an article outlining the tribe jurisdiction, and then by one specifying the tribe’s membership requirements. Tribal constitutions acknowledged that the federal government (in the person of the Secretary of the Interior) maintained ultimate authority over the approval and future changes to 9
+
+Of the 258 tribes that voted on the provisions of IRA, over two-thirds did so in the affirmative; in 77 tribes, a majority rejected the initiative (Haas, 1947, 3). 10 As Kelly (1975, 299) notes, however, federal interference with tribal political and social life was reined in following the IRA: "Between 1933 and 1945 the excessively authoritarian powers of the Indian Bureau and its employees in the field were curbed substantially. 11 A draft of this model constitution can be found in Cohen (2006).
+
+8
+
+these documents via the amendment process. Moreover, the BIA remained involved in the everyday internal affairs of these groups (Haas, 1947, 9). The experiment in tribal self-governance inaugurated by the IRA was short-lived. In 1953, Congress approved a resolution outlining the so-called termination policy. According to the latter, over the subsequent decades, the federal government was to end all programs that gave special treatment to American Indians and their tribes were to lose their status as federally recognized sovereign entities.12 The termination policy went even further by encouraging Indians living on reservations to relocate to the city, often by coercive means. Another element of termination policy that undermined Indian sovereignty was the passage of Public Law 280, which took partial control of the judiciary away from Indian governments and gave it to state courts.13 The end of termination in the 1960s, which coincided with the rise of the Civil Rights movement, brought about a new era of Indian self-governance. With it came a new period of political change on the reservation. Tribes that did not yet have a constitution adopted one and the rest began amending them to respond to new challenges.14 Even as tribes enjoyed a greater degree of self-determination in the post-termination period, there have been instances of federal action that limited the ability of American Indian groups to set their own rules. Most importantly, in 1973, Congress passed the Indian Civil Rights Act (ICRA), which extended the protections of the fourteenth amendment to tribal citizens against reservation governments. Presently, American Indian tribes enjoy levels of self-determination comparable to those of the states, though this status-quo is conditional on Congress’ will. The 12
+
+One hundred and nine tribes were terminated by the federal government during this period (Wilkins, 2007, 120). 13 See Anderson and Parker (2008) for an evaluation of the consequences of Public Law 280 to American Indian welfare. 14 For instance, Wilkins (2007, 147-8) discusses the amendment of the Navajo constitution in 1989 to limit the powers of the executive branch.
+
+9
+
+political, social, and economic life on the reservation is, to a significant degree, governed by tribal constitutions.
+
+3
+
+Constitutional choice on the American Indian reservation
+
+Constitutions exist to outline the rules governing social interactions that are too costly to be organized via private means (Buchanan and Tullock, 1965). However, there are several constitutional arrangements under which collective action plausibly outperforms its private alternatives. We follow a long tradition of positive economic analysis in assuming that, as tribal members come together to draft their constitution, they will select those arrangements that maximize the net per capita wealth of the group.15 Since tribes’ circumstances varied (e.g., in their membership size, the value and characteristics of the assets held in common, and their cultural traits), we expect their choice of constitutional arrangements to vary with them. Our analysis focuses on only a subset of the attributes of tribal constitutions. Specifically, we investigate the choice of membership requirements, degree of direct democratic participation, constraints on elected officials, and protection of private property.
+
+3.1
+
+Membership requirements
+
+Managing common resources is an essential prerogative of governments. When resources are held in common, as in the case of tribal lands in Native American reservations, tribes run the risk of having the rents generated by these resources depleted 15
+
+This is the methodological stance proposed in Buchanan and Tullock (1965) in the context of democratic politics and extended by Grossman and Hart (1988) to constitutional choice in private corporations.
+
+10
+
+(Cheung, 1970; Libecap and Johnson, 1980). One solution to this problem is to limit access to the tribal commons through strict membership requirements.16 However, strict membership requirements come at a cost. For one, they must be enforced: The tribal government must maintain lists of existing members and check the eligibility of prospective ones. Most importantly, however, strict requirements limit the potential size of the tribe. In so doing, they also increase the per capita cost of providing public goods. As it sets its membership requirements, the tribe must solve the trade-off between larger per capita costs of public good provision and larger per capita commonsgenerated rents. American Indian tribe’s choice for evaluating the eligibility of prospective members fell on blood quantums.17 To obtain the political, legal, and economic rights associated with membership in a specific tribe, one would have had to prove that one’s blood exceeded some minimum quantity of that tribe’s blood. For example, if a tribe set the quantum at one-fourth, eligible prospective members would have had to have at least one grand-parent who was a full-blooded member. In drafting its constitution, the tribe could manipulate the blood quantum to restrict the pool of eligible candidates (higher blood quantum) or increase it (a lower blood quantum). According to the reasoning above, tribes with more valuable assets held in common should adopt more stringent membership requirements. Since land was the primary asset held in common by American Indian groups, we expect blood 16
+
+If a production process is characterized by U-shaped average costs, as is the case for grazing, Johnson and Libecap (1980) argue for an alternative solution: Larger-than-optimal individual herds. The latter functioned effectively as entry-deterring excess capacity, discouraging entry and thus limiting rent-dissipation. However, the resulting rents are smaller than if entry could be otherwise restricted. 17 Blood quantums were commonplace in colonial America and throughout the first two centuries of United States history, particularly concerning the legal status of African-Americans (Spruhan, 2006). Bodenhorn and Ruebeck (2003) provide an economic explanation for the centrality of blood quantums in early American history.
+
+11
+
+quantums to be increasing in the value of reservation land under tribal control.
+
+3.2
+
+Direct democracy
+
+American Indian tribes are by and large democratic organizations. They can choose between direct democracy, according to which each member is directly involved in the legislative process, and indirect democracy, where members elect representatives to advance their interests in the legislature.18 Direct forms of political participation have the advantage of eliminating agency problems, and thus all costs incurred in monitoring representatives. On the other hand, direct democracies suffer from large decision-making costs (Buchanan and Tullock, 1965).19 As decision-making costs increase with the size of the polity, the use of traditional institutions by tribes based on members’ direct participation in the legislative process should be inversely related to the size of their population. Direct democracies suffer from a second problem. Participation of the citizenry in the legislative process would require them to sacrifice other plausibly more productive uses of their time. The alternative would be for the members of the tribe to participate directly, but without investing much in the acquisition of information necessary to produce good tribal policies. As in the case of decision-making costs, this problem becomes only more acute as the size of the population increases, as each voter’s informational investment contributes less to the ultimate policy choice. One way to minimize the cost of collecting information and reduce the voter information problem is to “hire” political middlemen specializing in collecting and processing political information –i.e. professional politicians representing their constituents. Thus, 18
+
+On this issue, see the discussion by Mueller et al. (2003). This effect has been found in a wide array of circumstances. For instance, Sass (1991, 75) finds that “[l]arge cities don’t hold town meetings simply because it would be too expensive.” 19
+
+12
+
+we expect the degree of involvement of the tribal government in the business of the reservation to have an inverse relationship with the prevalence of direct democracy.
+
+3.3
+
+Constraints on elected officials
+
+Indirect democracy might well economize on decision-making costs and mitigate informational free-riding, but at the same time it introduces challenges of its own. Representatives might act against the interests of their constituents, due to costly monitoring and the presence of asymmetric information (Barzel and Sass, 1990). In drafting the constitutions, constituents will then want to include provisions to constrain elected officials. One such provision would be to subject the representatives to frequent evaluations of their performance, for instance by electing them to shorter terms in office (Stigler, 1976). There are costs to reducing term lengths. A shorter term length means more frequent elections and thus higher per capita election-related expenses. In addition, voters must now take time to evaluate incumbents and challengers more often, while politicians must allocate more of their time to campaigning and fundraising, time that could otherwise be spent legislating. Given the existence of this trade-off, we expect term lengths to be shorter the greater the potential for malfeasance by elected officials. An incumbent’s ability to act against the interest of the public depends in large part on how informed the public is about the incumbent’s voting record. An American Indian voter’s incentive to acquire such information will tend to fall with the size of the tribe’s population. Thus, larger tribes will prefer shorter term lengths. Limiting terms length is not the only way to mitigate agency problems in representative democracies. Some constitutions might include other checks on politicians, such as the ability of voters to recall their representatives. Alternatively, these texts
+
+13
+
+might outline minimum age requirements for elected offices. Another way to mitigate agency problems is to require political representatives to be of a certain age. For instance, the Crow tribe of Indians in Montana requires the executive chief to be at least 30 years old and the legislative branch members to be at least 25 years old. The chief of the executive generally faces greater incentives to act against the interests of voters than members of the legislature, we should expect the age requirement to be higher for the chief of the executive than for legislators. When the age requirement for the chief of the executive branch (if there is one) is specified in tribal constitutions, this is generally what we observe. For instance, the Muscogee Creek Nation of Oklahoma requires tribal councilmen to be at least 18 while it requires the president to be at least 30. 20 Age requirements on political offices date back to at least 180 BC during the Roman Republic with the introduction of the Lex Villia Annalis which required, among other things, Consuls to be 42 years of age (Evans and Kleijwegt, 1992). Minimum age requirements for elected office mitigate agency problems via two channels. First, older individuals are less likely to establish firm ownership of their political offices for long periods, reducing the chance of political entrenchment and indirectly limiting incumbent advantage. In cases where fear of abuses of power is most acute, requiring older citizens to occupy important offices prevents the consolidation of powers in the hands of someone who might be reluctant to give it back.21 Second, age requirements will change the pool and eligible members. The older the age requirement to hold an office, the greater the chance is that candidates estab20
+
+Notice that with respect to the US Federal government, one needs to be at least 35 years old to be eligible to the presidency but only 30 to become a Senator and 25 for becoming a Representative. This is exactly what our theory predicts. Senators, serving in a chamber with fewer members, have greater political power and more room to act opportunistically. 21 For instance, Venetians, being extremely fearful of tyranny, developed the habit of nominating elderly Doges during the Middle Ages and Renaissance (Smith et al., 2021).
+
+14
+
+lished a good and durable reputation.22 In other words, age requirements might be an effective way to screen out uncooperative members who are likely to breach their implicit contract with voters. Lastly, the number of representatives in the legislature will impact the costs and benefits of acting in ways not consistent with voters’ interests. As we explained, representatives are “information specialists” on political markets. A greater number of representatives will reduce the incentive of politicians to act opportunistically as their influence on the final decisions is smaller. On the other hand, a larger legislature will increase the informational problem faced by the representatives, who will be tempted to free-ride on their peers.23 We should therefore expect the tribal council to be bigger when the benefits from using tribal assets for personal gains increase. The effect, however, is not as straightforward once we consider the existence of multiple branches of government or that increasing the size of the legislature may encourage political opportunism by the executive branch.24 American Indian tribes, however, rarely adopted a presidential system before the 1970s.
+
+3.4
+
+Protection of private property
+
+By the introduction of the IRA, a significant share of reservation land had been allotted to private individuals, including some non-Indians. As they drafted their constitutions, Indians living on the reservation might have worried that the newly 22
+
+Hayek (2011) proposed establishing a legislature with a 45 years old minimum age requirement to make sure representatives have a good reputation. 23 In Federalist 10, Madison argues that “however small the republic may be, the representatives must be raised to a certain number, in order to guard against the cabals of a few; and that, however large it may be, they must be limited to a certain number, in order to guard against the confusion of a multitude.” 24 For instance socialist countries typically have massive legislatures with more than 1,000 members.
+
+15
+
+established tribal governments would take action to regain possession of the allotted lands or otherwise violate their ownership rights.25 Land owners have an incentive to insert protections to private property rights in the tribal constitution, including the right to pass one’s land to one’s heirs.26 Indeed, the larger the value of the private land, the stronger the incentive to do so. On the other hand, non-owners living on the reservation have the opposite incentive. However, since the benefit to each reservation resident of transferring private land to the tribe is smaller than the loss to the original owner, the logic of concentrated costs and dispersed benefits suggests that land-owners would have been more likely to prevail. Thus, we expect that restrictions on the tribal governments’ power to violate private property over land will be more prevalent among tribes with a higher per capita value of private land.
+
+4
+
+Data
+
+For this study, we collected information about 115 constitutions from 1900 to 2013.27 Of these, 88 were enacted between 1934 and 1970, 70 of which were ratified between the passing of the IRA and the end of the era of tribal self-governance in federal Indian policy. Figure 1 shows the chronological distribution of the year of ratification of the documents in our sample. Since most of the modern American Indian constitutions 25
+
+Such expectations were eminently reasonable. John Collier, the head of the BIA between 1933 and 1945, was explicit in his desire to see the effects of the allotment process fully reversed, including the return of allotted land to tribal common ownership (Kelly, 1975). 26 Many Indian beneficiaries never gained full ("fee simple") ownership of their land. While they could use the latter as they pleased, they could not sell it without the approval of the BIA. For a discussion of the allotment system and its consequences, see McChesney (1990) and Leonard et al. (2020). 27 In collecting this information, we treated amended constitutions as separate observations from the original document.
+
+16
+
+were drafted and enacted during this period, we focus our analysis on constitutional texts from the immediate aftermath of the IRA. We do so to mitigate the effect of time-varying factors (including learning) that could have influenced constitutional design.28 We gathered this information from publicly available online sources, most notably the Library of Congress’ “Native American Constitutions and Legal Materials” collection.29 78 out of the 115 constitutions in our final sample came from this source, as well as 67 out of the 70-constitutions-sub sample that were enacted from 1934 to
+
+## 1950. We also used a few constitutions made available by “The Memory Hole 2” on
+
+archives.org30 as well as a few constitutions transcribed in Fay et al. (1967; 1968). Finally, for a few constitutions, we consulted the official websites of the relevant tribes. We read and analyzed each document, coded a number of variables based on its content, including but not limited to variables relative to the presence of a blood quantum, the presence of a takings clause, the size of the tribal council, whether or not the separation of powers was stipulated, the age requirements to be eligible to the tribal council, the ability to recall politicians, the length of terms on the tribal council. We selected our dependent variables with an eye on their variation across constitutions. Hypotheses about constitutional features, however interesting, cannot be tested adequately in the absence of variation across constitutions. For instance, in 28
+
+Indeed, reading tribal constitutions, one quickly realizes that the constitutions enacted in the 1930s, ’40s and ’50s are substantially different from those drafted from the 1970s onward. Although the evolution of constitutions through time is itself a question worth investigating, we here restrict our attention to a specific period going from 1934 to 1950. 29 Available online at: https://www.loc.gov/collections/native-american-constitutions -and-legal-materials/ (last accessed on 2/19/2022). 30 All of the links are available on http://thememoryhole2.org/blog/tribal-constitutions (Last accessed on 2/19/2022).
+
+17
+
+Figure 1: Distribution of Constitutions by year between 1900 and 2020.
+
+18
+
+our sample, only two documents from the 1934-1950 period explicitly mention the principle of separation of powers. Although the separation of powers is often associated with constraints on the executive, which might mitigate agency problems in tribal politics, there is simply not enough variation to formally identify this effect using our data. We therefore focused on developing explanations and performing tests related to the most salient differences between tribal constitutions. In addition to our analogic analysis, we used “tesseract” package in R to perform a "text-as-data"-style analysis and extract more information from tribal constitutional documents.31 After removing the punctuation and capital letters, we “stemmed” key words of interest (Gentzkow et al., 2019) and measured their frequency. More specifically, we measured a) mentions of culture or tradition in the constitutions, b) mentions of inheritance, c) mentions of allotment. We combined the above information with that on an array of control variables, including: Tribal land value share; Land value per capita; Mixing; Living on reservation; Population size; Share of adult members of the tribe; Share of reservation residents who speak English and who wear Western-style clothing; The status of the tribe under the IRA; Tribal Land in 1934 (%) and Allotted Land in 1934 (%). We rely on four main sources for these data. For our Population (in thousands) and Living on reservation variables, we rely on the Statistical Supplement to the Annual Report of the Commissioner of Indian Affairs to the Secretary of the Interior for the Fiscal Year 1940.32 We define “Living on reservation” as the portion of Indians residing within the jurisdiction of the tribe in which they were enrolled. 31
+
+We also used the “hunspell” package in R to check spelling mistakes and correct them. We used the population figure from that document because it could easily be cross-referenced with the population figures given in Haas (1947). 32
+
+19
+
+We rely on the annual report of the commissioner of Indian Affairs for 1926 (Burke, 1926) for the following variables.33 “Mixing” is defined as the proportion of the population which is not “full blood” Indian. “Adults” refers to the portion of adult-age population. “Tribal land value share” and “Land value per capita variables” refer to the portion of the value of land (in $) owned by the tribal government and the total value of landed assets (in $) per capita respectively. Finally, we used data from the United States National Resources Committee (1935) to measure the portions of tribal and allotted land in 1934 as a percentage of total reservation land. as well as data from the 1917 Annual report of the commissioner of Indian Affairs to measure cultural variables. To measure how integrated tribes were with the rest of American society, we measure both the percentage of their reservation residents who wore Western-style clothing instead of traditional American Indian clothing. From the same source, we took the percentage of a reservation’s population that speaks English. We have one final note on our sample of tribal constitutions. We follow Cornell and Kalt (2000), Anderson and Parker (2008), and Akee et al. (2015), in excluding from our analysis smaller tribes from our analysis and focus instead on tribes with a population greater than 700 inhabitants in 1940, yielding a total of 87 constitutional documents, new or amended constitutions.34 33
+
+We use data from 1926 because it enables us to control for tribal characteristics before the IRA. 34 In appendix E, we show that our results are robust to changing our population threshold by including 28 constitutions from smaller tribes.
+
+20
+
+5
+
+Empirical tests: The constitutions of American Indian tribes
+
+5.1
+
+Blood quantums
+
+Our empirical framework suggests a positive relationship between the value of land held in common by a tribe and the stringency of the membership requirements to the same tribe. Recall that, traditionally, American Indian groups have relied on ethnic and genealogical standards for membership eligibility. This practice is so widespread among American Indian tribes that, since the Indian Civil Rights Act of 1968, the federal government recognizes the rights of these groups to discriminate on a racial basis in matters of membership and political participation (Wilkins, 2007, 155). Such racial considerations were common to tribal constitutions from the immediate aftermath of the IRA. For instance, Article II of the constitution of the Quechan Tribe of the Fort Yuma reservation in California: Intermarried Indians or descendants of members may be adopted as full members of the Quechan Tribe, but non-Indians who may be adopted shall have no right to hold tribal office or to receive assignments of land, or otherwise to share in the tribal property. [Emphasis added].35 Given the practice of employing blood quantums to govern eligibility for tribal membership, and the fact that tribal membership conferred the right to access tribal assets (especially land), we expect American Indian tribes that controlled a larger share of the value of reservation land to have adopted more stringent blood quantums. Table 1 reports the results of seven OLS specifications on the determinants of blood quantums. Our dependent variable across all specifications is a tribe’s required 35
+
+This constitution, enacted in 1936, is available at: https://tile.loc.gov/storage -services/service/ll/llscd/37026341/37026341.pdf (Last accessed on 2/20/2022).
+
+21
+
+blood quantum, which takes values between 0 and 1.36 Across all specifications the coefficient on the share of the market value of land which is owned by the tribal government is positive and statistically significant, consistent with the predicted effect of this variable on the stringency of blood quantums. This effect is large. An increase in tribal land value share from 0% to 100% (which corresponds to a move from the 10th to the 90th percentile) is associated with an increment in blood requirement of more than 1/4. For comparison, in our sample, 51% of the constitutions have no blood quantum, 2% a 1/8 blood quantum as well as 31% a 1/4 and 16% a 1/2 blood quantum. Table 1: Blood quantum in American Indian constitutions Blood quantum Tribal land value share
+
+Predicted sign +
+
+Mixing
+
+−
+
+Living on reservation
+
+−
+
+Land value per capita
+
+?
+
+Adults
+
+?
+
+Population
+
+?
+
+References to culture
+
++
+
+Speaks English
+
+−
+
+Citizen Clothing
+
+−
+
+Decade F.E. Year F.E Observations R-squared
+
+(1) 0.29165*** (0.07962)
+
+(2) 0.28616*** (0.08693) -0.13019 (0.09502) -0.21277 (0.21913) -0.00226 (0.01817) -0.04519 (0.28901) -0.00325 (0.00741)
+
+(3) 0.31671*** (0.09029) -0.19919** (0.09065) -0.40367* (0.20498) -0.00104 (0.01654) -0.04817 (0.25842) 0.00367 (0.00730)
+
+✓
+
+(4) (5) 0.30059** 0.23474** (0.10715) (0.10057) -0.19451* -0.26406** (0.09497) (0.12048) -0.39741* -0.60007*** (0.20024) (0.18245) 0.00075 -0.02098 (0.01748) (0.02109) -0.03133 -0.64556 (0.25487) (0.47853) 0.00178 0.00051 (0.00648) (0.00876) 0.01034 (0.01023) -0.00235 (0.00228)
+
+✓
+
+45 43 43 42 0.34986 0.45444 0.55338 0.55847 *** p<0.01, ** p<0.05, * p<0.1
+
+(6) (7) 0.28142*** 0.23466** (0.08097) (0.11088) -0.31910*** -0.31296* (0.10164) (0.15506) -0.54711*** -0.50536* (0.17581) (0.26206) -0.00645 -0.00623 (0.01602) (0.02218) -0.83497* -0.02562 (0.45076) (0.30342) 0.00897 0.00641 (0.00684) (0.00970)
+
+✓
+
+-0.00122 (0.00168) ✓
+
+35 0.70020
+
+35 0.68732
+
+✓ 43 0.65558
+
+In columns 2 through 7, we include a number of controls to account for potential confounding factors. For instance, the degree of ethnic mixing of a reservation’s population might force a tribe to lower the blood quantum in order to have any 36
+
+Throughout the rest of the paper, we report our results with standard errors doubly clustered at the BIA region and year levels (in parenthesis).
+
+22
+
+members at all. Since ethnic mixing may have affected the patterns of land ownership on the reservation, failure to control for it would bias the coefficient of our variable of interest. The results show that controlling for ethnic mixing leaves our results virtually unaffected. We find that its effect on blood quantums is negative and statistically significant in all but one specification. One may also expect that the need to enforce stringent ethnic requirements would decline the smaller the share of tribal members living on the reservation. This may be because of a) the children of members not living in the reservation are more likely to be mixed-blooded, b) a greater portion of members living off reservation signals that the opportunity cost of living on the reservation is relatively high –i.e. that direct access to tribal resources provides only limited benefits. Our results show that the share of tribal members living on the reservation negatively affects the stringency of the blood quantum, this effect being generally significant across specification. One potential interpretation is that social norms and extra-constitutional enforcement mechanisms may be a cheaper alternative than strict blood quantums as more of those with access rights live in closer proximity and are likely to interact with one another frequently. An alternative interpretation might be that a tribes cultural features are really what determines the stringency of its blood quantums. Cultural characteristics may also affect a tribe’s willingness to held land and other assets in common, and thus we must try to identify their independent effect. To do so, we alternatively include one of three distinct control variables to account for tribal culture. First, we the frequrncy of references to “culture,” “custom” or “tradition” in each constitutional document.37 Our second and third variables measure the portion of tribesmen who spoke English and the the portion of tribal members who wore Western-style clothing 37
+
+We used the following roots: “cultur–,”tradition–” and “custom–.”
+
+23
+
+rather than traditional Indian clothes in 1934. All coefficients for these variables are small and statistically insignificant.38
+
+5.2
+
+Direct democracy
+
+We now move to testing our framework’s prediction on the relationship between tribal population size and the choice of direct versus representative democracy. Table 2 reports the results of six logit specifications. In each specification, our dependent variable has value one if a tribe’s constitution established a general council consisting of all adult members as the tribe’s legislative body and zero otherwise. Since we want to maximize variation on the independent variable, we do not restrict our sample to tribes with more than 700 members, as we do for our other empirical tests. There are two main takeaways from the results in Table 2. First, the coefficient on the value of the share of reservation land controlled by the tribe is negative throughout and generally statistically significant at the 10% or 5% levels. Second, the size of the tribe’s population negatively predicts the whether the same tribe adopted a direct form of democratic decision-making. The coefficients for "Population" are negative across all specifications and statistically significant at the 10% level in all but one case. 38
+
+To verify the validity of our econometric results, we operate a number of robustness checks in the appendix. First, we use data from Wilson (1935) which measures the portion of reservations covered by tribal land in 1934 (as opposed to its $ value in 1926). The results are included in Appendix B. Second, a few constitutions in our sample, despite being very similar to the other constitutions in style, did not have an Indian Reorganization Act or Oklahoma Welfare Act status. We control for this in Appendix C. Third, we check if our results are robust to changes in our chosen population threshold (Appendix E). Finally, because of the small size of our sample, we check if our results are robust to the exclusion of potential outliers as well as to changes in our chosen date for the end of the sample (1951). For each selected sample with an end date ranging from 1941 to 1951, we follow a “leave one observation out” process by rerunning our main regressions. The results of all these regressions are reported in Appendix F.
+
+24
+
+Table 2: Logistic regressions on General Councils in tribal constitutions General Council Tribal land value share
+
+predicted sign −
+
+Population
+
+−
+
+Land value per capita
+
+?
+
+Adults
+
+?
+
+Mixing
+
+?
+
+Living on reservation
+
+?
+
+Citizen Clothing
+
+−
+
+Speaks English
+
+−
+
+Observations Pseudo R-squared
+
+(1) -1.56967* (0.82239)
+
+(2) (3) -1.76591** -1.55140* (0.88742) (0.88752) -0.43055* -0.40942* (0.22941) (0.21620) -0.00012 -0.00012 (0.00020) (0.00020)
+
+0.54970 (0.96473)
+
+64 64 62 0.0547 0.1359 0.1359 *** p<0.01, ** p<0.05, * p<0.1
+
+(4) (5) (6) -1.09909 -2.94720* -2.37869** (0.94545) (1.71317) (1.18480) -0.28386 -0.56202* -0.64293* (0.20674) (0.34074) (0.38485) -0.00007 -0.00002 0.00006 (0.00020) (0.00027) (0.00023) -3.13056 -15.68114* -10.41305 (4.21326) (9.13555) (9.46033) -0.26411 0.67327 0.33936 (1.28576) (1.81544) (1.68270) -3.17370 -2.18296 -1.53228 (2.15712) (3.28450) (3.29638) -0.04680* (0.02645) -0.00909 (0.01965) 61 44 44 0.1662 0.3011 0.2100
+
+Starting with column 2, our specifications include additional controls.39 With the exception of the share of adults out of the tribal population and one proxy for cultural factors ("Citizen Clothing"), our controls have statistically insignificant coefficients. However, including them tends to make the coefficient on "Population" larger. Figure 2: Graphing the results from table 2 for General Council
+
+39
+
+We do not add decade or year fixed as it would drop a substantial number of observations.
+
+25
+
+Figure 2 provides a graphical representation of the main results from in table 2, column 6.40 The smallest tribes in our sample had a predicted probability of almost 40% of choosing direct democracy. This predicted probability falls to 20% for tribes of 2,000 inhabitants. The same predicted probability is 35% for tribes with no land held in common and falls to just 6% for American Indian reservations where the tribal government controls all the land.
+
+5.3
+
+Constraining elected officials
+
+According to our framework, tribes will institute stricter constraints on their elected officials the more valuable the assets these officials are entrusted with. To test this hypothesis, we focused on two features of tribal constitutions: Minimum age requirements for the election to the tribal council and term length.41 The majority of American Indian constitutions drafted in the aftermath of the IRA stipulated specific age requirements to be eligible to the tribal council.42 In some tribes, like the Zuni, a commonly held view was that "[y]oung men are no good leaders. They don’t understand the Zuni way of doing things. One has to be old enough to handle the problems we have." (Pandey, 1968, 76). Yet the requirements 40
+
+The predicted probabilities in Figure 2 has been calculated by assuming that all other independent variables are at their average level. 41 In a separate set of regressions, we also investigated the determinants of the size of the tribal council, but our results are not statistically significant. This is consistent with Stigler’s (1976, 19) observation that “legislatures [...] are remarkably similar and stable in size.” In other words, there may to little variation in the optimal size of legislatures, and our sample may be too small, to identify the effect of the value of tribal assets on the size of tribal councils. To economize on space, we do not report our regressions with the size of the tribal council in the body of the paper. We report those results in Appendix D. 42 Some tribes also included unique restrictions on voting such as living requirements, perhaps to prevent members living off reservation from taking advantage of the resources held in common. Other considerations, such as avoiding political polarization based on familial allegiances, may have played a role as well. For instance the 1947 Constitution of the Isleta Pueblo tribe (New Mexico) sets voting age at 21 years old and requires that the individual live independently of his or her parents.
+
+26
+
+diverge substantially across tribal constitutions. Most of them were either 18, 21 or 25 years old, but some constitutions required tribal councilmen to have turned 28 or 30 years old before holding office.43 The Chippewa Cree Indians of the Rocky Boy’s reservation in Montana went as far as to require district representatives to be at least 25 years but to require “representative at Large” to be “a member at least 65 years of age.” 44 Table 3, columns 1-4 show the results of OLS specifications with the minimum age to be elected to the tribal council as the dependent variable. Consistent with our framework, tribal land value is positively and statistically significantly associated with a higher minimum age for office eligibility. Columns 2-4 include a set of control variables, none of which appears to have a statistically significant effect on our dependent variable. The one exception is the share of adults out of the reservation’s population. Including these controls leaves the coefficient on "Tribal land value share" virtually unaffected. There is considerable variation over tribal constitutions’ choice of term lengths for tribal councilmen. From 1934 to 1950, 58% of tribes of more that 700 inhabitants set terms in office at two years. This is unsurprising since the US constitutions does the same for members of the House of Representative. What is surprising, given the circumstances, is that a substantial number of tribes deviated from the example set by the American constitutions, setting terms of one, three and even four years. The results in Table 3, columns 5-8, show that the choice of term length by a 43
+
+These age requirements may seem fairly low, yet we should keep in mind that American Indian tribes’ demographics was very young in the 1930s. 77% of tribes from our sample enacting a constitution from 1934 to 1950 had minors composing more than 50% of their population in 1926 and 23% more than 60%. Still in 1965, president Lyndon Johnson mentioned in his Special Message to the Congress on the Problems of the American Indian that “ ‘The average age of death of an American Indian today is 44 years; for all other Americans, it is 65.” 44 https://tile.loc.gov/storage-services/service/ll/llscd/36026087/36026087.pdf (Last accessed on 21/2/2022).
+
+27
+
+Table 3: Council age requirement and tribal council term length in American Indian constitutions
+
+Tribal land value share
+
+Predicted sign +/−
+
+Adults
+
++/?
+
+Recall
+
+NA/+
+
+Land value per capita
+
+?/?
+
+Mixing
+
+?/?
+
+Population
+
+?/−
+
+Living on reservation
+
+?/?
+
+Decade F.E. Year F.E Observations R-squared
+
+(1) 3.82926*** (0.87703)
+
+Tribal council age requirement: (2) (3) (4) 3.88151*** 3.36801*** 3.44690** (1.04101) (1.12362) (1.51898) 19.00137*** 18.19276*** 19.43727*** (4.86270) (4.86625) (6.53995)
+
+-0.46706 (0.43260) -0.71044 (2.30582) 0.02621 (0.33194) -1.14651 (3.49818)
+
+35 0.27303
+
+-0.38693 (0.42398) -0.08706 (2.67282) -0.02614 (0.34764) 0.37614 (4.20844) ✓
+
+(5) -0.13348 (0.26984)
+
+-0.36723 (0.41956) 0.45910 (3.14171) -0.15186 (0.48483) 0.32861 (4.34929)
+
+✓ 34 34 34 0.51970 0.55038 0.62807 *** p<0.01, ** p<0.05, * p<0.1
+
+45 0.00330
+
+Councilmen term length: (6) (7) (8) -0.42699* -0.61543** -0.91724*** (0.20660) (0.22483) (0.31210) -1.89062 -2.34680 -4.37299 (2.36040) (2.27322) (2.59981) 0.71985** 0.63839* 0.60523 (0.34562) (0.34062) (0.43082) 0.06471 0.05301 -0.00675 (0.15116) (0.15343) (0.14150) -0.21793 -0.02661 -0.38336 (0.80244) (0.71481) (0.48518) -0.06234 -0.09512** -0.07203 (0.03741) (0.04048) (0.06177) 1.28964 2.03353 1.63492 (1.29593) (1.23807) (1.06732) ✓ ✓ 43 43 43 0.29146 0.40537 0.56301
+
+tribe was negatively affected by the value of the share of reservation land under tribal ownership. As predicted, the more valuable the share of land held by tribal government, the shorter the mandates. While of the right sign, the coefficient for "Tribal land value share" is not significant in column 5. However, when including a set of controls both increases the magnitude and makes it significant. One control is of particular interest. We look at whether a constitutional text allows for the recall of elected officials. If so, the control variable "Recall" takes a value of 1 and zero otherwise. The coefficient on this variable is positive and statistically significant, suggesting that shorter term lengths and recalls may have worked as substitute institutional solutions to the problem of constraining elected officials.45 45
+
+Regressions in table 3, columns 7 and 8 remain statistically significant at the 5% level when removing “Recall” for the “Tribal land value share” variable. The p-value for that variable in column 6 increases to 0.106.
+
+28
+
+5.4
+
+Protection of private property
+
+The drafting of a constitution is like any other political process in the ability of interest groups to influence it. Our framework identifies two interest groups: The owners of private or allotted land on the reservation and the members of tribe. The former gain the most from having their rights recognized and protected by the constitution. On the other hand, tribal leadership and the rest of its membership may gain most from seeing the land held in common. Two reasons suggest that constitutional protections of private property will be stronger the greater the value of land in private hands. First, as long as the value of resources is greater under private control than under governmental control, private property owners have, everything else being equal, a greater incentive to secure their rights through successful lobbying (Becker, 1983). Second, owners of private assets, and especially land, have a fairly precise idea of what they would lose if they were expropriated. Voters pushing for expropriation on the other hand will have to engage in relatively costly collective action as they need to measure the value of the stolen assets as well as to organize how to “share the spoils” –something those lobbying for greater protection of their ownership do not have to do. Table 4 provides the results of an empirical test of our prediction. Our dependent variable here takes a value of one if a tribal constitution contains a "takings" clause constraining the tribal government’s ability to appropriate privately owned assets without compensation.46 46
+
+For instance the 1935 constitution of the Blackfeet tribe in Montana stipulates that “It is recognized that under existing law [allotted] lands may be condemned for public purposes, such as roads, public buildings, or other public improvements, upon payment of adequate compensation.” (Art.VII, Sec.1). In some rare occasions, tribes went further by inscribing the right to private property into the constitution. In the 1960s the Yankton Sioux in South Dakota went so far as to include that “all operation under this Constitution shall be free from any system of collectivism/socialism under any and all circumstances.” (Art.IX, Sec.1) and recognized “the private enterprise system.”
+
+29
+
+Table 4: Logistic regressions on the takings’ clause in tribal constitutions Takings Individual land value per capita
+
+predicted sign +
+
+IRA status
+
++
+
+Tribal land value share
+
++
+
+Population
+
+?
+
+Mixing
+
+?
+
+Adults
+
+?
+
+Living on reservation
+
+?
+
+Observations Pseudo R-squared
+
+(1) 0.71630* (0.36969)
+
+(2) 1.29666*** (0.49135) 3.87420*** (1.38801)
+
+(3) 0.78024* (0.46466)
+
+(4) (5) (6) 1.53358*** 0.95599 2.18414*** (0.59325) (0.78427) (0.80587) 4.01595*** 5.64623** (1.44653) (2.41409) 0.32622 0.76395 0.78018 2.11912 (1.01185) (1.06004) (1.77409) (1.60726) 0.03665 0.00687 0.02773 0.00951 (0.05717) (0.05905) (0.13162) (0.16371) 0.49657 1.72576 (1.48379) (1.77752) -6.72446 -10.59892 (5.72511) (7.94328) 0.15107 0.39768 (3.43995) (3.24548) 45 44 43 42 43 42 0.0743 0.2158 0.0804 0.2244 0.1125 0.3042 *** p<0.01, ** p<0.05, * p<0.1
+
+Our results support the hypothesis that stronger constitutional guarantees for property rights accompany larger values of privately owned land.47 The relationship between the value of privately owned land and the presence of a takings’ clause is reinforced when we control for whether a constitution was enacted in the aftermath of the IRA or the Oklahoma Indian Welfare Act. This is most likely because one common fear on reservations, as they voted on whether to reject the IRA, was that the act would lead to the tribalization of private lands. 48 Figure 3 graphical represents the main result from table 4. The validity of our prediction is further strengthened by looking at the number of times each constitution refers to right to inheritance and to land allotment.49 We (Art. IX, Sec.2). 47 Table 4 does not including controls for cultural characteristics since doing so does not affect the overall results. 48 Haas (1947, 7) notes that at the time the IRA was passed, “Fantastic rumors were spread, such as: the bill was designed to deprive the Indians of the interests in their lands, to take away their allotments and communize them [...].” 49 References to inheritance include the following words: heir, heirs, inherit, inheritance, inheritances, inherited, inheriting, inherits. References to allotment include the following words: allotment, allotments, allotted, allotting.
+
+30
+
+Figure 3: Graphing the results from table 4 for Takings
+
+should expect inheritance to be relatively more important in tribal constitutions if the value of assets is higher. Given that allotted land is held in trust by the BIA and cannot be alienated, we should also expect concerns about inheritance to be of greater concern for allotted lands than for those held in fee simple or under tribal control.50 Similarly, we should expect more mentions of allotment to be made in the constitutions of tribes were allotted land is more widespread. The results in table 5 broadly confirm those hypotheses. The coefficients for "Land value per capita," for instance, indicates a statistically significant effect on the number of mentions of inheritance in a constitutional text. Also, higher land value per capita predicts more mentions of allotment. This is likely due to the fact that more valuable land was more likely to be allotted in the first place, as Leonard et al. (2020) have shown. 50
+
+See Leonard et al. (2020) for a study about the negative effects of the high fractionalization of land due to the allotment system.
+
+31
+
+Table 5: The determinants of the uses of some words in tribal constitutions
+
+Tribal land value share
+
+Predicted sign +/?
+
+Land value per capita
+
++/?
+
+Tribal Land in 1934 (%)
+
+?/?
+
+Allotted Land in 1934 (%)
+
++/+
+
+Population Adults Mixing Living on reservation Observations R-squared
+
+6
+
+Mentions of Inheritance: (2) (3) (4) 3.32335 (2.76394) 3.45188*** (1.14176) -0.02117 -0.47383 (3.11929) (5.06099) 9.97780 12.99855* (6.32187) (6.55072) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ 44 42 44 41 0.20600 0.22799 0.10518 0.18303 *** p<0.01, ** p<0.05, * p<0.1
+
+(1) 1.87315 (2.40664) 3.18396*** (0.76884)
+
+(5) 1.32941 (1.56363) 1.69747*** (0.49614)
+
+44 0.16931
+
+Mentions of Allotment: (6) (7) (8) 1.02170 (1.81627) 1.66821** (0.69056) 1.48876 1.00802 (1.65192) (2.62153) 9.10758** 11.66872*** (3.92580) (3.14443) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ 42 44 41 0.17959 0.20572 0.34382
+
+## Conclusion
+
+It is something of a cliché in the social sciences that institutions, among which are political institutions, matter. This statement is uncontroversial. If institutional choice was orthogonal to economic performance and other outcome variables of any importance, then groups would not care much about which "rules of the game" to adopt: One system of government would work just as well, or just as poorly, as any other. Exactly because groups select their political institutions with an eye for their properties, we cannot treat political institutions as exogenous. To understand their direct and independent consequences, we must first understand what caused a group to choose them over plausible alternatives in the first place. There are significant practical problems with this enterprise (Sass, 1991,9). For instance, countries outline their political systems in their constitutions, but these are often the result of the choice of a minuscule share of the country’s overall population and the outcome may not reflect the interests and characteristics of the public at large. Moreover, for countries lacking separation of powers and checks on the executive, constitutions are little more than cheap talk. This has led some scholars in
+
+32
+
+the past to test theories of constitutional choice on private organizations (Barzel and Sass, 1990; Sass, 1991) or very small jurisdictions like small towns and municipalities (Sass, 1992; Fahy, 1998). In our paper, we look at the choice of political institutions by American Indian tribes, emphasizing the constitutional documents produced in the aftermath of the Indian Reorganization Act (IRA) of 1934. American Indians living on reservations were then, and remain today, among the poorest people living in the United States. Under the leadership of John Collier, the Bureau of Indian Affairs (BIA) broke with the many-decade-long objective of undermining tribal authority in favor of Indian assimilation in American society and its economy. Instead, the IRA returned tribes at least some authority to govern themselves. There was one condition: Tribes needed to draft and ratify a constitution, which was then to be voted on by their members and then approved by the BIA. In the years following the IRA, dozens of tribes complied, producing as many constitutions. Even as the BIA and the federal government aided in the drafting process, the resulting documents show significant variation–in the "blood" requirements to qualify for membership, the degree of direct democratic participation by members, constraints on elected officials, and protections of individual property. We first provide a theoretical account for such variation and then test our hypotheses against data from American Indian tribal constitutions. We find strong evidence that tribes systematically crafted their political systems in the ways predicted by our framework.
+
+33
+
+## References
+
+Acemoglu, D., Johnson, S., and Robinson, J. A. (2005). Institutions as a fundamental cause of long-run growth. Handbook of economic growth, 1:385–472. Acemoglu, D., Naidu, S., Restrepo, P., and Robinson, J. A. (2019). Democracy does cause growth. Journal of political economy, 127(1):47–100. Akee, R., Jorgensen, M., and Sunde, U. (2015). Critical junctures and economic development–evidence from the adoption of constitutions among american indian nations. Journal of Comparative Economics, 43(4):844–861. Andersen, J. J. and Aslaksen, S. (2008). Constitutions and the resource curse. Journal of development economics, 87(2):227–246. Anderson, R. W. (2016). Native american reservation constitutions. Constitutional Political Economy, 27(4):377–398. Anderson, T. L. and Parker, D. P. (2008). Sovereignty, credible commitments, and economic prosperity on american indian reservations. The Journal of Law and Economics, 51(4):641–666. Anderson, T. L. and Parker, D. P. (2009). Economic development lessons from and for north american indian economies. Australian Journal of Agricultural and Resource Economics, 53(1):105–127. Barzel, Y. and Sass, T. R. (1990). The allocation of resources by voting. The quarterly journal of economics, 105(3):745–771. Becker, G. S. (1983). A theory of competition among pressure groups for political influence. The quarterly journal of economics, 98(3):371–400. 34
+
+Bodenhorn, H. and Ruebeck, C. (2003). The economics of identity and the endogeneity of race. Buchanan, J. M. and Tullock, G. (1965). The calculus of consent: Logical foundations of constitutional democracy, volume 100. University of Michigan press. Burke, Chase, H. (1926). Annual report of the commissioner of indian affairs to the secretary of the interior for the fiscal year ended June 30, 1926. US Government Printing Office. Cheung, S. N. (1970). The structure of a contract and the theory of a non-exclusive resource. The Journal of Law and Economics, 13(1):49–70. Clow, R. L. (1987). The indian reorganization act and the loss of tribal sovereignty: Constitutions on the rosebud and pine ridge reservations. Great Plains Quarterly, pages 125–134. Cohen, F. S. (2006). On the drafting of tribal constitutions, volume 1. University of Oklahoma Press. Committee., U. S. N. R. (1935). aIndian Land Tenure, Economic Status, and Population Trends, Part X of the Report on Land Planning. US Government Printing Office. Cookson, J. A. (2010). Institutions and casinos on american indian reservations: An empirical analysis of the location of indian casinos. The Journal of Law and Economics, 53(4):651–687. Cornell, S. and Kalt, J. P. (1995). Where does economic development really come from? constitutional rule among the contemporary sioux and apache. Economic Inquiry, 33(3):402–426. 35
+
+Cornell, S. and Kalt, J. P. (2000). Where’s the glue? institutional and cultural foundations of american indian economic development. The Journal of SocioEconomics, 29(5):443–470. Driver, H. E. (2011). Indians of North america. Second Edition. University of Chicago Press. Elster, J. (1994). The impact of constitutions on economic performance. The World Bank Economic Review, 8(suppl_1):209–226. Evans, R. J. and Kleijwegt, M. (1992). Did the romans like young men? a study of the lex villia annalis: causes and effects. Zeitschrift für Papyrologie und Epigraphik, pages 181–195. Fahy, C. A. (1998). The choice of local government structure in massachusetts: a historical public choice perspective. Social Science Quarterly, pages 433–444. Fay, G. E. et al. (1967). Charters, constitutions and by-laws of the indian tribes of north america. part ii: The indian tribes of wisconsin (great lakes agency). occasional publications in anthropology, ethnology series, no. 2. Fay, G. E. et al. (1968). Charters, constitutions and by-laws of the indian tribes of north america, part vi:[the indian tribes of oklahoma (ottawa-wyandotte)]. Feir, D., Gillezeau, R., Jones, M., et al. (2019). The slaughter of the bison and reversal of fortunes on the great plains. Center for Indian Country Development, pages 2019–01. Fleck, R. K. and Hanssen, F. A. (2018). Path dependence and transitions from tyranny to democracy: evidence from ancient greece. Constitutional Political Economy, 29(4):371–388. 36
+
+Gentzkow, M., Kelly, B., and Taddy, M. (2019). Text as data. Journal of Economic Literature, 57(3):535–74. Grossman, S. J. and Hart, O. D. (1988). One share-one vote and the market for corporate control. Journal of financial economics, 20:175–202. Haas, T. H. (1947). Ten years of tribal government under IRA, volume 1. US Indian Service. Hayek, F. A. (2011). Law, legislation and liberty, volume 3: The political order of a free people, volume 3. University of Chicago Press. Johnson, R. N. and Libecap, G. D. (1980). Agency costs and the assignment of property rights: The case of southwestern indian reservations. Southern Economic Journal, pages 332–347. Kelly, L. C. (1975). The indian reorganization act: The dream and the reality. Pacific Historical Review, 44(3):291–312. Leeson, P. T. (2009). The calculus of piratical consent: the myth of the myth of social contract. Public Choice, 139(3):443–459. Leonard, B., Parker, D. P., and Anderson, T. L. (2020). Land quality, land rights, and indigenous poverty. Journal of Development Economics, 143:102435. Libecap, G. D. and Johnson, R. N. (1980). Legislating commons: The navajo tribal council and the navajo range. Economic Inquiry, 18(1):69–86. McChesney, F. S. (1990). Government as definer of property rights: Indian lands, ethnic externalities, and bureaucratic budgets. The Journal of Legal Studies, 19(2):297–335. 37
+
+Mueller, D. C. et al. (2003). Public choice III. Cambridge University Press. Pandey, T. N. (1968). Tribal council elections in a southwestern pueblo. Ethnology, 7(1):71–85. Persson, T. and Tabellini, G. (2004). Constitutions and economic policy. Journal of Economic Perspectives, 18(1):75–98. Przeworski, A. and Limongi, F. (1993). Political regimes and economic growth. Journal of economic perspectives, 7(3):51–69. Sass, T. R. (1991). The choice of municipal government structure and public expenditures. Public Choice, 71(1):71–87. Sass, T. R. (1992). Constitutional choice in representative democracies. Public Choice, 74(4):405–424. Smith, D. J., Crowley, G. R., and Leguizamon, J. S. (2021). Long live the doge? death as a term limit on venetian chief executives. Public Choice, 188(3):333–359. Spruhan, P. (2006). A legal history of blood quantum in federal indian law to 1935. SDL Rev., 51:1. Stigler, G. J. (1976). The sizes of legislatures. The Journal of Legal Studies, 5(1):17– 34. Voigt, S. (2011). Positive constitutional economics ii—a survey of recent developments. Public Choice, 146(1):205–256. Weingast, B. R. (1995).
+
+The economic role of political institutions: Market-
+
+preserving federalism and economic development. JL Econ. & Org., 11:1. 38
+
+Wilkins, D. E. (2007). American Indian politics and the American political system. Rowman & Littlefield. Wilkins, D. E. (2009). Documents of Native American political development: 1500s to 1933. Oxford University Press. Wilson, M. L. (1935). Report on Land Planning, Part 10: Indian Land Tenure, Economic Status, and Population Trends. US Government Printing Office.
+
+39
+
+A
+
+Summary statistics Table 6: Summary statistics for the entire sample VARIABLES N mean Blood quantum 117 0.154 Council age requirement 100 22.72 General Council 114 0.333 IRA status 70 0.871 Population 116 2.641 References to culture 95 1.053 Adults 104 0.455 Tribal Land in 1934 (%) 110 0.315 Allotted Land in 1934 (%) 109 0.237 Living on reservation 106 0.819 Mixing 107 0.415 Citizen Clothing 83 92.66 Speaks English 83 60.72 Recall 115 0.478 Tribal land value share 113 0.325 Individual land value per capita 113 1.034 Mentions of inheritance 95 4.789 Mentions of Allotment 95 3.095 Takings 116 0.543
+
+sd min max p25 p50 0.174 0 0.500 0 0.125 2.875 18 30 21 21 0.473 0 1 0 0 0.337 0 1 1 1 4.658 0.110 43.76 0.742 1.484 1.921 0 10 0 0 0.0714 0.201 0.584 0.415 0.466 0.419 0 1 0.000142 0.0158 0.253 0 0.966 0.0338 0.142 0.171 0.361 1 0.719 0.871 0.326 0 1 0.0531 0.414 17.20 0 100 95.92 100 21.54 7.666 89.94 49.96 65.41 0.502 0 1 0 0 0.411 0 1 0.000677 0.0511 1.223 0 6.884 0.0423 0.542 6.891 0 20 0 1 4.011 0 14 0 1 0.500 0 1 0 1
+
+p75 0.250 25 1 1 2.911 1 0.507 0.749 0.327 0.947 0.653 100 76.92 1 0.788 2.008 11 7 1
+
+Table 7: Summary statistics for constitutions enacted from 1934 to 1950 included. VARIABLES blood Council age requirement IRA status Population References to culture General Council Adults Tribal Land in 1934 (%) Allotted Land in 1934 (%) Living on reservation Mixing Citizen Clothing Speaks English Recall Tribal land value share Individual land value per capita Mentions of inheritance Mentions of Allotment Takings
+
+N mean 70 0.159 58 22.95 67 0.881 69 2.433 69 0.855 68 0.309 66 0.441 64 0.341 65 0.255 67 0.811 65 0.363 49 91.09 49 59.07 70 0.414 66 0.323 66 0.953 69 6.174 69 3.913 70 0.529
+
+sd 0.195 2.737 0.327 5.508 1.546 0.465 0.0759 0.425 0.252 0.175 0.323 20.37 23.53 0.496 0.402 1.172 7.469 4.334 0.503
+
+40
+
+min 0 18 0 0.110 0 0 0.201 0 0 0.361 0 0 7.666 0 0 0 0 0 0
+
+max p25 p50 p75 0.500 0 0 0.250 30 21 21 25 1 1 1 1 43.76 0.643 0.982 2.573 9 0 0 1 1 0 0 1 0.584 0.404 0.458 0.497 1 0.000151 0.0406 0.874 0.966 0.0338 0.229 0.382 0.997 0.719 0.866 0.947 1 0.0414 0.348 0.533 100 99.28 100 100 89.94 48.85 61.12 76.92 1 0 0 1 1 0.00250 0.0805 0.768 6.884 0.0442 0.529 1.631 20 0 2 14 14 0 2 7 1 0 1 1
+
+B
+
+Alternative measure to tribal land value share Table 8: Blood quantum using tribal share of land area
+
+Blood quantum Tribal Land in 1934 (%) Adults Mixing Population Living on reservation References to culture Speaks English Citizen Clothing Decade F.E. Year F.E Observations R-squared
+
+(1) 0.25082*** (0.08077)
+
+(2) 0.27321*** (0.09534) ✓ ✓ ✓ ✓
+
+(3) 0.29321*** (0.08767) ✓ ✓ ✓ ✓
+
+(4) 0.26256** (0.10931) ✓ ✓ ✓ ✓ ✓
+
+(5) 0.20319 (0.12118) ✓ ✓ ✓ ✓
+
+(6) (7) 0.22182* 0.25078*** (0.12566) (0.08338) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓
+
+✓ ✓ 45 0.28395
+
+✓
+
+42 42 41 0.37561 0.43653 0.45783 *** p<0.01, ** p<0.05, * p<0.1
+
+✓
+
+✓ ✓
+
+35 0.60953
+
+35 0.56974
+
+✓ 42 0.61607
+
+Table 9: Council age requirement and tribal council term length using tribal share of land area Tribal council age requirement: Councilmen term length: (1) (2) (3) (4) (5) (6) (7) (8) Tribal Land in 1934 (%) 2.08178* 3.08597** 2.35807* 1.85038 0.01020 -0.38261 -0.47590 -0.52649* (1.02592) (1.10768) (1.19204) (1.55764) (0.25149) (0.37294) (0.33594) (0.29338) Recall ✓ ✓ ✓ ✓ ✓ ✓ Adults ✓ ✓ ✓ Mixing ✓ ✓ ✓ ✓ ✓ ✓ Population ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ Living on reservation ✓ ✓ ✓ Decade F.E. ✓ ✓ Year F.E ✓ ✓ Observations 35 33 33 33 44 42 42 42 R-squared 0.08618 0.29326 0.38195 0.51172 0.00002 0.29510 0.37987 0.50875 *** p<0.01, ** p<0.05, * p<0.1
+
+41
+
+Table 10: Logistic regressions on General Councils in tribal constitutions General Council Tribal Land in 1934 (%) Population Mixing Adults Living on reservation Citizen Clothing Speaks English Observations Pseudo R-squared
+
+(1) -1.63306* (0.87579)
+
+(2) -1.75640* (0.92510) ✓
+
+(3) (4) -2.34832** -2.34091* (1.08732) (1.22193) ✓ ✓ ✓ ✓ ✓ ✓
+
+(5) -4.77152* (2.59223) ✓ ✓ ✓ ✓ ✓
+
+62 62 59 58 0.0662 0.1385 0.1894 0.2314 *** p<0.01, ** p<0.05, * p<0.1
+
+44 0.3784
+
+42
+
+(6) -2.78481 (2.07471) ✓ ✓ ✓ ✓ ✓ 44 0.2457
+
+C
+
+Accounting for IRA tribal status Table 11: Blood quantum controlling for IRA status
+
+Blood quantum Tribal land value share IRA status Adults Mixing Population Living on reservation References to culture Speaks English Citizen Clothing Decade F.E. Year F.E Observations R-squared
+
+(1) (2) 0.29165*** 0.28351*** (0.07962) (0.09315) ✓ ✓ ✓ ✓ ✓
+
+(3) 0.30769*** (0.09693) ✓ ✓ ✓ ✓ ✓
+
+(4) (5) 0.28595** 0.21620* (0.12046) (0.10580) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓
+
+✓ 45 0.34986
+
+✓
+
+42 42 41 0.43939 0.52242 0.53616 *** p<0.01, ** p<0.05, * p<0.1
+
+(6) 0.26206*** (0.08822) ✓ ✓ ✓ ✓ ✓
+
+✓
+
+✓ ✓
+
+34 0.68549
+
+34 0.67231
+
+(7) 0.23221* (0.11284) ✓ ✓ ✓ ✓ ✓
+
+✓ 42 0.62701
+
+Table 12: Council age requirement and tribal council term length controlling for IRA status
+
+Tribal land value share IRA status Recall Adults Mixing Population Living on reservation Decade F.E. Year F.E Observations R-squared
+
+Tribal council age requirement: (1) (2) (3) (4) 3.82926*** 3.85237*** 3.59303*** 3.29835* (0.87703) (0.95866) (1.07752) (1.66230) ✓ ✓ ✓
+
+35 0.27303
+
+Councilmen term length: (5) (6) (7) (8) -0.13348 -0.43408** -0.55888** -0.90850*** (0.26984) (0.19747) (0.23010) (0.31305) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ 34 34 34 45 42 42 42 0.55071 0.56746 0.62944 0.00330 0.33987 0.39558 0.54370 *** p<0.01, ** p<0.05, * p<0.1
+
+43
+
+Table 13: Logistic regressions on General Councils controlling for IRA status General Council Tribal land value share IRA status Population Mixing Adults Living on reservation Citizen Clothing Speaks English Observations Pseudo R-squared
+
+(1) -1.56967* (0.82239)
+
+(2) -1.75242* (1.04213) ✓ ✓
+
+(3) (4) (5) -1.78250* -1.29169 -4.12977* (1.04985) (1.05368) (2.46088) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓
+
+64 62 60 59 0.0547 0.1917 0.1784 0.2031 *** p<0.01, ** p<0.05, * p<0.1
+
+44
+
+42 0.4343
+
+(6) -3.06596* (1.64070) ✓ ✓ ✓ ✓ ✓ ✓ 42 0.3352
+
+D
+
+Council Size Table 14: Tribal council size.
+
+Log(Tribal council size) Tribal land value share
+
+(1) 0.23838 (0.15854)
+
+Land value per capita Adults Mixing Population Living on reservation References to culture Speaks English
+
+(2) 0.17003 (0.18702) 0.00299 (0.05492) 0.43661 (1.02336) -0.19180 (0.31487) 0.06656* (0.03605) 0.21303 (0.55094)
+
+(3) (4) (5) 0.19316 0.14099 0.41296* (0.16536) (0.15662) (0.22264) 0.00262 0.00980 0.03943 (0.05655) (0.05667) (0.07798) 0.53252 0.67202 -0.44032 (1.01894) (0.94270) (2.10813) -0.13309 -0.14150 -0.31132 (0.34804) (0.34752) (0.70508) 0.06471 0.05427 0.08595 (0.03911) (0.03274) (0.06389) 0.25824 0.17743 0.12904 (0.61964) (0.58988) (0.64152) 0.06633 (0.04090) 0.00634 (0.00690)
+
+Citizen Clothing Decade F.E. Year F.E Observations R-squared
+
+✓ 40 0.04474
+
+✓
+
+38 38 37 0.21167 0.22136 0.24439 *** p<0.01, ** p<0.05, * p<0.1
+
+45
+
+(6) 0.26523 (0.31435) -0.00586 (0.06053) -0.26830 (2.14442) -0.22645 (0.60419) 0.06100 (0.04742) -0.03555 (0.58974)
+
+✓
+
+0.00409 (0.00542) ✓
+
+30 0.21766
+
+30 0.21589
+
+(7) 0.18808 (0.22679) -0.02740 (0.07887) 1.06318 (1.09560) -0.44776 (0.47066) 0.05488 (0.03817) -0.19014 (0.66266)
+
+✓ 38 0.46166
+
+E
+
+Changing the population threshold
+
+E.1
+
+500 inhabitant threshold Table 15: Blood quantum changing the population threshold to 500.
+
+Blood quantum Tribal land value share
+
+(1) 0.23942** (0.09768)
+
+Mixing Living on reservation Land value per capita Adults Population References to culture Speaks English Citizen Clothing Decade F.E. Year F.E Observations R-squared
+
+55 0.26979
+
+(2) (3) (4) (5) (6) (7) 0.25151** 0.25681** 0.23257* 0.15559 0.23370** 0.20526* (0.09741) (0.10501) (0.12142) (0.10538) (0.08530) (0.10580) -0.14643 -0.18811** -0.18779** -0.22525 -0.28999** -0.24496* (0.08664) (0.08817) (0.09042) (0.13500) (0.12100) (0.12154) -0.24986 -0.36239** -0.35995** -0.52136** -0.45153** -0.40016* (0.19173) (0.17323) (0.16211) (0.19659) (0.20729) (0.22723) 0.01569 0.01025 0.01257 -0.01212 0.01295 -0.00184 (0.00996) (0.00952) (0.01089) (0.02510) (0.01657) (0.01390) -0.18627 -0.09436 -0.06761 -0.25134 -0.44791 -0.14142 (0.20511) (0.19017) (0.18507) (0.51176) (0.54013) (0.33148) 0.00354 0.00794 0.00493 -0.00091 0.01206 0.01055 (0.00681) (0.00731) (0.00542) (0.01219) (0.00916) (0.00859) 0.01585 (0.01144) -0.00342 (0.00217) -0.00178 (0.00200) ✓ ✓ ✓ ✓ ✓ 52 52 51 40 40 52 0.37607 0.45728 0.47258 0.59521 0.56292 0.58336 *** p<0.01, ** p<0.05, * p<0.1
+
+46
+
+Table 16: Council age requirement and tribal council term length changing the population threshold to 500. Tribal council age requirement: (1) (2) (3) (4) Tribal land value share 2.90333*** 3.12528*** 2.92166*** 2.56258** (0.95620) (1.08805) (0.96059) (1.13266) Land value per capita -0.09384 0.02957 -0.04626 (0.22751) (0.25926) (0.38426) Recall Adults Mixing Population Living on reservation Decade F.E. Year F.E Observations R-squared
+
+45 0.18811
+
+Councilmen term length: (5) (6) (7) (8) -0.06650 -0.41818** -0.46063** -0.77378** (0.24276) (0.17279) (0.20506) (0.36696) 0.14328* 0.17260* 0.07414 (0.08342) (0.09139) (0.10544) 0.73889** 0.70832** 0.88143*** (0.27220) (0.25534) (0.28339) 17.55656*** 15.82957** 14.10533* -0.20853 -0.77172 -1.77240 (2.68416) (2.55576) (2.25797) (6.08183) (6.11888) (7.73679) -0.53977 -0.39728 -1.09832* -0.86728 0.11893 0.54464 (1.89379) (2.18392) (2.94552) (0.64734) (0.59763) (0.53124) -0.05743 -0.07722* -0.06512 0.25211 0.16339 0.09645 (0.39456) (0.43951) (0.57288) (0.03424) (0.04153) (0.06768) -3.42402 -1.39312 -1.06464 1.03888 1.49862 0.73308 (1.08531) (1.02285) (1.19496) (2.50592) (2.99593) (4.49359) ✓ ✓ ✓ ✓ 43 43 43 55 52 52 52 0.00083 0.26956 0.34468 0.50064 0.36918 0.43190 0.51477 *** p<0.01, ** p<0.05, * p<0.1
+
+Table 17: Logistic regressions on the takings’ clause changing the population threshold to 500. Takings Individual land value per capita IRA status Tribal land value share Population Mixing Adults Living on reservation Pseudo R-squared Observations
+
+(1) 0.12302 (0.31036)
+
+(2) (3) (4) (5) (6) 0.33480 0.14245 0.40575 0.10389 0.40809 (0.30308) (0.38907) (0.35836) (0.36078) (0.34939) 2.40352** 2.42052** 2.76761** (1.22194) (1.19881) (1.11441) 0.18325 0.44388 0.06802 0.34802 (0.90467) (0.96308) (1.20804) (1.40986) 0.04374 0.01813 -0.04790 -0.10611 (0.05215) (0.04406) (0.12194) (0.12351) 1.58485 2.19185 (1.45617) (1.79757) -5.35336 -8.67065 (4.95675) (6.10019) 3.12303 4.46338 (2.83012) (3.03156) 0.0038 0.1005 0.0117 0.1049 0.0366 0.1477 55 53 55 53 52 50 *** p<0.01, ** p<0.05, * p<0.1
+
+47
+
+Table 18: The determinants of the uses of some words changing the population threshold to 500.
+
+Tribal land value share Land value per capita Tribal Land in 1934 (%) Allotted Land in 1934 (%) Population Adults Mixing Living on reservation Observations R-squared
+
+Mentions of Inheritance: (2) (3) (4) (5) 1.68789 0.63050 (2.61265) (1.60631) 0.94953 1.86089 (0.73406) (1.19747) -0.56603 0.27382 (3.02548) (4.63820) 9.21955 15.30743** (5.70428) (6.07882) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ 54 51 53 49 54 0.08388 0.11452 0.10977 0.22610 0.07082 *** p<0.01, ** p<0.05, * p<0.1
+
+(1) 0.91185 (2.33214) 1.74583 (1.21363)
+
+48
+
+Mentions of Allotment: (6) (7) (8) 0.25644 (2.09978) 0.88638 (0.75873) 0.76266 1.03271 (1.62397) (2.47528) 7.69218** 11.88612*** (3.45764) (3.04607) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ 51 53 49 0.09683 0.17161 0.35564
+
+E.2
+
+No population threshold Table 19: Blood quantum without any population threshold.
+
+Blood quantum Tribal land value share Land value per capita Adults Mixing Population Living on reservation
+
+(1) (2) 0.23005*** 0.23089*** (0.08120) (0.07922) 0.01901 (0.01225) -0.49791* (0.28256) -0.15898 (0.09344) 0.00356 (0.00602) -0.20257 (0.14530)
+
+References to culture
+
+(3) (4) 0.23318*** 0.20902** (0.08347) (0.09770) 0.01346 0.01558 (0.01097) (0.01095) -0.50961* -0.48320* (0.27441) (0.25596) -0.19229* -0.19784* (0.09913) (0.10113) 0.00726 0.00373 (0.00516) (0.00401) -0.28182** -0.28698** (0.12954) (0.12927) 0.01687 (0.01184)
+
+Speaks English
+
+(5) (6) 0.23349** 0.24526*** (0.08525) (0.07437) 0.03311** 0.03315* (0.01601) (0.01621) -0.20146 -0.27818 (0.46741) (0.43019) -0.24404** -0.24200** (0.10843) (0.11318) 0.01012 0.01291 (0.00914) (0.00878) -0.38135* -0.34911* (0.21608) (0.19239)
+
+-0.00077 (0.00168)
+
+Citizen Clothing Decade F.E. Year F.E Observations R-squared
+
+(7) 0.22231** (0.08181) 0.01049 (0.01260) -0.59397* (0.33493) -0.15630 (0.09508) 0.01053 (0.00668) -0.26273* (0.14998)
+
+✓ 66 0.21626
+
+✓
+
+63 63 62 0.35949 0.41857 0.43302 *** p<0.01, ** p<0.05, * p<0.1
+
+49
+
+✓
+
+-0.00074 (0.00133) ✓
+
+46 0.53444
+
+46 0.53495
+
+✓ 63 0.51406
+
+Table 20: Council age requirement and tribal council term length without any population threshold.
+
+Tribal land value share Land value per capita
+
+Tribal council age requirement: (1) (2) (3) (4) 2.59158** 2.45847** 2.23947** 2.28442** (1.00374) (1.01659) (0.90727) (1.01985) -0.03271 0.11110 0.29206 (0.22802) (0.24354) (0.36356)
+
+(5) -0.04451 (0.24311)
+
+Recall Adults
+
+8.63809* (4.70453) -0.16124 (1.68609) 0.10153 (0.33813) -1.32198 (2.35627)
+
+Mixity Population Living on reservation Decade F.E. Year F.E Observations R-squared
+
+45 0.18811
+
+8.41257* (4.76414) 0.60318 (1.65978) 0.03292 (0.35904) 0.17426 (2.29483) ✓
+
+6.34145 (5.71857) 1.72959 (1.98736) 0.21122 (0.44696) 1.49064 (2.69014)
+
+✓ 43 43 43 55 0.36918 0.43190 0.51477 0.00083 *** p<0.01, ** p<0.05, * p<0.1
+
+Councilmen term length: (6) (7) (8) -0.20905 -0.22756 -0.40209 (0.21303) (0.23065) (0.29997) 0.16561** 0.19525** 0.17374 (0.07759) (0.08557) (0.10387) 0.72986*** 0.70573*** 0.82304*** (0.18022) (0.16562) (0.17518) 0.07964 0.12342 0.44221 (2.02088) (1.94876) (2.28239) -0.16699 -0.03784 -0.36418 (0.48533) (0.48331) (0.43845) -0.04566 -0.06235* -0.06245 (0.02872) (0.03145) (0.04115) 0.60457 0.93953 1.07532 (0.83257) (0.83007) (0.90602) ✓ ✓ 52 52 52 0.26956 0.34468 0.50064
+
+Table 21: Logistic regressions on the takings’ clause without any population threshold. Takings Individual land value per capita IRA status
+
+(1) 0.27248 (0.35499)
+
+(2) 0.49438 (0.34239) 2.30957* (1.38737)
+
+Tribal land value share Population
+
+(3) (4) 0.27570 0.53580 (0.42518) (0.39868) 2.26135* (1.35003) 0.20050 0.38091 (0.79748) (0.80732) 0.07660 0.05460 (0.09186) (0.07842)
+
+Mixity Adults Living on reservation Pseudo R-squared Observations
+
+0.0157 0.0807 0.0299 66 64 66 *** p<0.01, ** p<0.05, * p<0.1
+
+50
+
+0.0899 64
+
+(5) 0.31954 (0.36220)
+
+(6) 0.73648** (0.37557) 2.76092** (1.19989) 0.63244 1.27934 (0.97769) (1.11938) -0.00055 -0.02939 (0.14264) (0.14465) 2.62295** 3.48145** (1.28935) (1.56273) -3.48430 -5.28070 (3.84644) (3.88719) 3.60232 4.42219* (2.35024) (2.46266) 0.0718 0.1467 63 61
+
+Table 22: The determinants of the uses of some words without any population threshold.
+
+Tribal land value share Land value per capita Tribal Land in 1934 (%) Allotted Land in 1934 (%) Population Adults Mixing Living on reservation Observations R-squared
+
+Mentions of Inheritance: (2) (3) (4) (5) -0.07203 -0.03916 (3.01588) (1.54257) 0.64616 1.00637 (0.55332) (0.76387) 1.07896 3.67424 (2.77189) (3.90108) 9.24958* 15.16929** (4.93640) (5.78592) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ 65 62 63 59 65 0.03861 0.08707 0.08230 0.18919 0.04326 *** p<0.01, ** p<0.05, * p<0.1
+
+(1) -0.28983 (2.41903) 1.04960 (0.87290)
+
+51
+
+Mentions of Allotment: (6) (7) (8) -0.30562 (2.02045) 0.58346 (0.49765) 1.44156 2.80494 (1.46296) (2.13458) 7.66466** 11.70971*** (3.02528) (2.88575) ✓ ✓ ✓ ✓ ✓ ✓ ✓ ✓ 62 63 59 0.10619 0.15343 0.31524
+
+F
+
+Changing the end date of the sample and leaveone-out routine
+
+Figure 4: Blood quantum —Leave-one-out observation confirmation routine for each threshold end date from 1941 to 1951. Note: These two graphs show the distribution of the regression coefficient of tribal land value share on blood quantum for 405 regressions.
+
+Figure 5: Council age requirement —Leave-one-out observation confirmation routine for each threshold end date from 1941 to 1951. Note: These two graphs show the distribution of the regression coefficient of tribal land value share on tribal councilmen age requirement for 328 regressions.
+
+52
+
+Figure 6: Council Term Length —Leave-one-out observation confirmation routine for each threshold end date from 1941 to 1951. Note: These two graphs show the distribution of the regression coefficient of tribal land value share on tribal council term length for 405 regressions.
+
+53

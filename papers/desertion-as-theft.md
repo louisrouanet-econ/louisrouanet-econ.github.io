@@ -1,0 +1,573 @@
+---
+title: "Desertion as Theft"
+authors: "Louis Rouanet, Ennio Piano"
+type: journal article
+venue: "Journal of Institutional Economics"
+year: 2019
+pdf: https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/desertion_as_theft.pdf
+text: https://louisrouanet-econ.github.io/papers/desertion-as-theft.md
+homepage: https://louisrouanet-econ.github.io/
+abstract: "To be effective, an army must contain the extent of desertion among its ranks. This phenomenon rose to particular prominence in Europe during the 18th and 19th centuries, with the appearance of the figure of the “citizen-soldier” on the battlefield. This paper offers the first theoretical treatment of the issue of desertion from an economic perspective. Building on the work of Yoram Barzel on the “economic analysis of property rights,” we develop a “desertion as theft” framework. We then test the empirical implications of the framework against qualitative and quantitative evidence from Napoleonic France."
+---
+
+# Desertion as Theft
+
+**Authors:** Louis Rouanet, Ennio Piano  
+**Published in:** Journal of Institutional Economics  
+**Year:** 2019  
+**PDF (authoritative version):** https://louisrouanet-econ.github.io/wp-content/uploads/2021/04/desertion_as_theft.pdf  
+**More papers by Louis Rouanet:** https://louisrouanet-econ.github.io/llms.txt
+
+> This is an automatically extracted plain-text version of the PDF, provided so that the paper is easy to read, search and cite for people and software (including AI assistants). Tables, equations and figures may be imperfect; the PDF is the authoritative version. Please cite the published version where one exists.
+
+## Abstract
+
+To be effective, an army must contain the extent of desertion among its ranks. This phenomenon rose to particular prominence in Europe during the 18th and 19th centuries, with the appearance of the figure of the “citizen-soldier” on the battlefield. This paper offers the first theoretical treatment of the issue of desertion from an economic perspective. Building on the work of Yoram Barzel on the “economic analysis of property rights,” we develop a “desertion as theft” framework. We then test the empirical implications of the framework against qualitative and quantitative evidence from Napoleonic France.
+
+## Full text
+
+Journal of Institutional Economics (2019), 1–15 doi:10.1017/S1744137419000250
+
+RESEARCH ARTICLE
+
+Desertion as theft Ennio E. Piano* and Louis Rouanet Department of Economics, George Mason University, Fairfax, USA *Corresponding author. Email: Epiano@gmu.edu (Received 11 March 2019; revised 19 April 2019; accepted 20 April 2019)
+
+## Abstract
+
+To be effective, an army must contain the extent of desertion among its ranks. This phenomenon rose to particular prominence in Europe during the 18th and 19th centuries, with the appearance of the figure of the “citizen-soldier” on the battlefield. This paper offers the first theoretical treatment of the issue of desertion from an economic perspective. Building on the work of Yoram Barzel on the “economic analysis of property rights,” we develop a “desertion as theft” framework. We then test the empirical implications of the framework against qualitative and quantitative evidence from Napoleonic France. Keywords: Desertion; economic analysis of property rights; Yoram Barzel; economics of theft
+
+## 1. Introduction
+
+In 18th-century Europe, desertion had become so widespread that “it was largely accepted as a facet of European military life” (Linch 2016: 809), forcing every regime (monarchies and republics alike) to deal with the issue by developing policy instruments of exceptional gravity. According to a military dictionary from the 1700s, “a deserter is, by the articles of wark, punishable by death, and, after conviction is, if in camp, hanged at the head of the regiment he deserted from, with his crime writ on his behalf; and suffered to hang till the army leave the camp, for a terror of others.”1 Culture and public sentiments across time and space similarly target deserters as representing the lowest form of human weakness, like selfishness, lack of patriotism, and cowardice (Forrest, 1989).2 Despite its importance in military affairs, the issue of desertion has attracted little attention and little theoretical treatment by social scientists. We develop an economic theory of desertion that relies on the “property rights approach” to economic and social institutions. More precisely, we build upon Yoram Barzel’s understanding of the nature of economic property rights and the significance of transaction costs for the organization of human activities (Barzel, 1997). The theory is straightforward. We define desertion as a member of the military’s act of either (1) refusing to join or (2) abandoning without permission one’s military unit.3 A soldier’s decision to desert is a binary one. Either he supplies (some of) his services to the government or he does not. There is no middle ground. Whether he is drafted into the army or he joins it voluntarily, a soldier’s labor services are de facto transferred to the government of his country. However, this transfer will never be “perfect.”4 Labor services are intrinsically linked to the worker’s own mind and body and neither of these can ever See the entry for ‘Deserter’ in Military Dictionary (1780). In Napoleonic France, the punishment for dodging one’s military obligation was to be sent to the colonies (Halle, 1803). 3 As we discuss in section 3, limitations in our data force us to limit our quantitative testing to the first form of desertion, the refusal to join one’s company after conscription. 4 Allen (2015) distinguished between two dimensions of property rights: completeness and perfection. In the case of desertion, property rights are complete whenever the state claims all of a soldier’s features. The rights will be perfect if the soldier’s behavior does not deviate from the will of the state. The draft implies a claim by the government of complete property rights over the soldier. The more of the soldier’s ‘features’ the government claims to itself, the larger the soldier’s benefits from 1 2
+
+© Millennium Economics Ltd 2019 Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+2
+
+Ennio E. Piano and Louis Rouanet
+
+be fully alienated to one’s employer. This makes the enforcing of contracts over these services (whether implicit or explicit, voluntary or coercive) challenging. The practice of desertion, the reappropriation of one’s labor from the government, is then a consequence of the particular technological features of property rights over military labor services. Building on these intuitions, we develop the “desertion as theft” framework and derive several empirical predictions.5 We test these against qualitative and quantitative evidence from postrevolutionary France. We find that desertion rates are higher where the expected benefits for deserters are larger (that is, when they can command higher wages6 outside of the army) and where the government’s marginal cost of enforcing their legal property rights over the soldiers’ services is higher. More specifically, we find that variables measuring the geographic and environmental characteristics of a given territory predict the rate of desertion in the same territory. As Allan Forrest (1989: 81) argues in his authoritative work on desertion in revolutionary and Napoleonic France: Like all aspects of life in the countryside, rural desertion reflected very closely on local topography and the nature of the terrain. Mountains, dispersed habitations, upland pasture, rocks and caves, treacherous marchlands familiar only to the local population, smugglers’ hill tracks that were of very private connaissance all offered escape and evasion. One of the advantages of the property rights approach lies in its power to produce implications for real-world phenomena (Barzel, 2002: 3). Our empirical analysis illustrates the explanatory power of the theory, and illuminates features of the historical experience of desertion such as the variation in its extent across different jurisdictions. However, due to the nature of our data and necessary limitations in our empirical strategy, we make no claim with respect to the causal nature of the link between our variables of interest. This paper contributes to several strands of literature. First, we add to the extensive body of work that applies the property rights approach to the study of market and non-market institutions. Allen (1990, 1995) studies the incentive structure generated by the distribution of property rights within traditional families and religious institutions respectively. Barzel (1977) applies this approach to the institution of slavery. Cheung (1983) develops a transaction costs theory of alternative contractual arrangements. Johnson and Libecap (1982) consider the wealth-dissipating effect of property arrangements in the case of common property fisheries. Leeson (2012a, 2012b) shows the role of superstition as an enforcement mechanism for property rights in Medieval Europe. Finally, Piano (2017, 2018) studies the property rights arrangements within Outlaw Motorcycle Gangs. Second, we contribute to the economic analysis of military affairs. Brennan and Tullock (1982) study how military tactics are developed to align soldiers’ incentives on the battlefield. Frey and Buhofer (1988) develop a theory of the evolution of the treatment of war prisoners throughout European history. Allen (1998) provides an analysis of the system of military venality, while Allen (2002) studies the provision of incentives in the British navy. Finally, Allen and Leeson (2015) offer a political economy explanation for the limited popularity of the longbow (a technologically superior alternative to the more popular crossbow) in Medieval Europe. Our paper also adds to the social scientific scholarship on desertion. Woodbury (1921) categorizes the causes of desertion according to US Court Martial records. He finds that, of over five hundred cases in which evidence of the cause of desertion existed, mental illness, drug addiction, cowardice, desertion (in this way also deserters are akin to runaway slaves). We thank one anonymous referee for reminding us of this subtle theoretical point. 5 The property rights approach, instead of studying how rights should be allocated, focuses on the de facto ability to consume a good, either directly or indirectly, through exchange. To consider desertion as theft is an analytical rather than a normative point that enables us to apply the economic theory of crime to desertion. For decisive evidence that the criminal world was closely linked to desertion in Napoleonic France, see Forrest (1989). 6 Wages for simple soldiers were indeed markedly lower than those of daily workers and only a small fraction of those of artisans and skilled workers. See Herbin de la Halle (1803) and Chabert (1949). Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+Journal of Institutional Economics
+
+3
+
+weakness of character, and illness of a relative were among the most popular. Agostini (2007) provides an overview of primary sources on the extent of desertion during the Seven Years War, and identifies the breakdown of desertion rates in the British colonial army by ethnicity and occupation. Leeson (2007, 2009, 2010) discusses how the 18th century relied heavily on volunteers in order to reduce the likelihood of desertion. Costa and Kahn (2010) study the causes of desertion during the American Civil War, finding that company-level characteristics (including occupational and cultural homogeneity) predict the probability of desertion among its members. They also find that deserters were more likely to relocate far away from their hometowns at the end of the war, possibly out of fear of being ostracized and shamed by their communities. Linch (2016) examines the causes of desertion in the British army during the Napoleonic wars, arguing that “desertion from the British Army stemmed from three main factors: adjustment to life as a soldier; discontent with the service; and opportunities outside the Army” (Linch, 2016: 808).
+
+## 2. Desertion as theft
+
+In general, governments have two options available to them when deciding how to staff their army: conscription and voluntary service. These two systems differ over a wide array of margins (Lee and McKenzie, 1992; Ross, 1994). An obvious difference is that conscription relies on the government’s exercise of violence. Conscription and voluntary service also differ in the productivity of the individuals serving in its forces. A volunteer army has a higher direct monetary cost, while conscription generates greater distortions in the economy. Nevertheless, both systems assume that the government is temporarily in control of the labor services of those serving in the army. In the case of a volunteer army, the transfer of control over one’s services is consensual and explicitly contractual. The volunteer accepts the terms of military services (including duration, a general description of responsibilities, compensation, and so forth), the value of which he expects to be greater than that of his next best alternative. In the case of conscription, the government unilaterally appropriates the worker’s services. While draftees are usually compensated for their labor, since the transfer was not mutually agreed upon, we cannot assume this compensation will generally equal the marginal worker’s opportunity cost – nor, for that matter, that of the average worker. Irrespective of the nature of the initial transfer, under both systems the government claims legal property rights over the soldier’s labor services.7 Desertion, the reappropriation of one’s own labor services, is therefore analytically akin to theft.8 Theft exists when the economic and legal rights over an asset diverge, even if only in expectation.9 If the government could perfectly and costlessly enforce its claim over the soldier’s labor, desertion would not exist. But in a world of uncertainty and imperfect information, enforcing claims is always costly to some extent. Some desertion will exist in equilibrium,10 although its extent will vary depending on the technological and environmental circumstances and their effect on the cost of enforcing claims. We model the choice of the soldier as follows. If he remains in the army and decides to meet his obligations, he receives compensation w* if the army is a volunteer one and w  if he was conscripted  (Ross, 1994). If, instead, he decides to desert, into it, where w* is the market wage and w∗ . w he receives (w* − c) with probability π– that is, the probability that he is caught by the 7
+
+However, different conscription practices may entail different rights over the services of a citizen being appropriated by his government, thus leading to different responses from the former. Variations in (1) (expected) length of conscription and (2) (expected) responsibilities during conscription would lead to similar variations in behavior. For example, one may be drafted to serve mostly administrative tasks for the military in one’s home town and therefore be free to return home after work hours or even have a second job (say, work on a small field). We would predict this soldier to be less likely to desert than someone who expects to be sent on to the battlefield in northern Italy. 8 Tullock (1967) and Becker (1968) provide the classic treatments of theft from an economic perspective. 9 See Barzel (2015) and Hodgson (2015) for two competing perspectives on this issue. 10 For a general discussion of the relationship between uncertainty, information costs, and the imperfection of property rights, see Allen (1991). If one defines desertion as we do, then soldiers shirking constitute a form of desertion. However, in order to avoid confusion and to maintain the model’s empirical relevance, we treat desertion as a binary choice variable. Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+4
+
+Ennio E. Piano and Louis Rouanet
+
+government – and w* with probability (1 − π) – the probability he successfully escapes the government’s penalty. c is the magnitude of the punishment the government imposes on the deserter if he is caught.11  , in the case of an army of conscripts, The soldier will desert whenever π(w* − c) + (1 − π)w∗ . w and π(w* − c) + (1 − π)w* >w* in an army of volunteers. The latter inequality yields the first prediction of the model: in an ideal volunteer army system, there would be no desertion. Since voluntary service requires the government to pay a soldier a wage at least as large as what he would obtain in the market, he does not benefit from deserting and risking even the smallest probability of being punished. Of course, in the real world, other factors may still lead a volunteer to desert. For example, exogenous shocks in the economy may lead to an increase in the wage he would command outside the army. Alternatively, the reality of war may force him to update his estimates of his disutility from military service. Nevertheless, these forces would be even more pronounced in the case of a draft army and we will expect desertion to be more prominent under conscription than under voluntary service.12 Assuming the government drafts soldiers randomly13 and that workers are remunerated according to their marginal productivity, drafting an increasing share of the population will affect the equilibrium market wage of the marginal draftee. If w* = f ′ (L(1 − d)), and f ′′ (L(1 − d)) < 0, with L being the total labor supply and d the share of the population drafted, then ∂w*/∂d = −f ′′ (L(1 − d)). Hence, as the government conscribes a higher percentage of the population, a larger share of drafted  . 0 holds. That is, young men will be in a situation where the inequality p(w∗ − c) + (1 − p)w∗ − w as d increases, market wages will increase, leading to: Prediction 1 Under a conscription-based system, the desertion rate increases with the share of individuals drafted into the army. In order to derive more implications, we must look into the variables determining the government’s ability to enforce its claims over the soldiers’ labor services. Assuming the difference between the mar , be constant across the region under the governket wage, w*, and the wage offered to conscripts, w ment’s sovereignty, its ability to deter desertion will depend on a set of variables affecting the cost of monitoring and enforcement. We focus on two kinds of variables: those measuring the administrative capacity of the government within a region and those measuring the environmental and geographic conditions that facilitate escaping the government’s reach. Consider the latter first. Ceteris paribus, the government will face a higher marginal cost of enforcing punishment against desertion if it cannot 11 Because of limitations in our data (we only have measures of average yearly desertion rates over a period of six years), we are unable to test predictions on the effect of variations in c on desertion rates. If we had access to yearly data, we could identify the deterrence effect of changes in the severity of the punishment, thus making the inclusion of the variable for the magnitude of the punishment empirically relevant. Furthermore, legislation on military desertion in Napoleonic France was set at the national rather than at the departmental level. Hence, nominally, there was no variance in the magnitude of the punishment across departments. 12 An anonymous reviewer proposed a complementary explanation for differences in desertion rates between volunteers and draftees: the latter may feel that conscription was an illegitimate expropriation of their labor by the government, and would thus be more likely to disregard the government’s legal claim. As the reviewer point out, this would also predict that groups with a lower sense of legitimacy toward the government (such as non-nationals and ethnic, religious, or linguistic minorities) will also desert at higher rates. 13 We further assume that, once drafted, individuals cannot exchange their obligation with others. This assumption abstracts from an important feature of the French military system after 1799, when the Republic legalized the practice of military replacement (Rouanet and Piano 2019). In order to keep our discussion consistent and as focused as possible, we focus our discussion on those implications that we can actually test against the evidence available for the period under consideration. Hence we decided to assume away the issue of military replacement. The only available data on military replacement rates exist only after 1816, making it impossible for us to test hypotheses about the relationship between conscription, desertion, and replacement in post-revolutionary France. However, we believe that our framework would be able to produce fruitful insights into the issue. For example, stricter regulations on the market for military replacement (like those introduced by Napoleon in 1811) will result in relatively higher desertion rates.
+
+Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+Journal of Institutional Economics
+
+5
+
+liberally access a territory. For example, if one can easily hide from the government police, say by taking to the mountains, the expected probability of receiving a penalty from one’s government is drastically reduced, thus making desertion more appealing. Administrative capacity has the opposite effect. The stronger the presence of the government within a given territory, the smaller the marginal cost of punishment, which in turn reduces the expected benefits of desertion. Within the framework developed above, the probability that the government identifies and punishes a deserter, π, is an increasing function of a vector of variables measuring administrative capacity, s = s1, s2, ..., sn, and a decreasing function of a vector of variables measuring the impenetrability of the territory by the government, ε = ε1, ε2, ..., εn. This discussion yields the following two predictions: Prediction 2 Territories in which geographical and environmental conditions facilitate escaping the government’s reach will experience a higher degree of desertion. Prediction 3 The stronger the presence (in terms of administrative capacity) of the government within a territory, the less desertion there will be in that territory. We now consider the possibility that the market wage available to the conscripted varies systematically  , which measures the expected bennot only at the individual level but across regions. As (1 − p)w∗ − w efits from desertion, increases we should see regions with higher average market wages endure a higher degree of desertion. This will only hold true if the government sets the wage of conscripted soldiers at the national level, rather than a regional or (even more unlikely) at the individual level. This leads to: Prediction 4 The larger the discrepancy between market wage and the wage offered to conscripts, the higher the percentage of soldiers that will desert military service.
+
+## 3. Desertion in post-revolutionary France
+
+This section employs qualitative and quantitative data from post-revolutionary France to test the predictions of our “desertion as theft” approach. We choose this case study for the following reasons. First, under the First Republic (1792–1804), France introduced a wide array of innovative practices and policies in the administration of military affairs that inspired and were partially adopted by most other Western European countries over the following decades. Second, over the same time period, France began collecting statistics on a variety of variables to be employed for use of public administration. Among these, variables pertaining to the number, characteristics, and behavior of French soldiers were of particular importance. Thanks to these efforts, we have access to measures for desertion rates in Napoleonic France.14 France was also the first modern European power to adopt large-scale conscription and to extend conscription to the population of annexed territories. Finally, the French army would be involved in a long series of major wars over the two decades following the introduction of conscription in 1798.
+
+Historical background
+
+The French revolution precipitated Western Europe into chaos. Not only were the remaining Ancien Regime powers afraid of the contagious potential of revolutionary ideas, but the most radical amongst 14
+
+While some quantitative evidence does exist for other countries, in particular for 18th-century England and 19th-century United States, the French data is more exhaustive and (due to having been recorded at the departmental level) offers the possibility of cross-sectional analysis. Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+6
+
+Ennio E. Piano and Louis Rouanet
+
+the proponents of the revolution in France wanted to export it to the rest of Europe by means of military conquest. This led to a series of armed conflicts, for a total of seven wars, starting in 1792 and until 1815, between France and the other Western European powers. The burden of these “revolutionary wars” on French public finances was unprecedented, forcing the government of the First Republic to reintroduce military conscription in 1798.15 As France conquered new territories, it extended conscription to their populations. The Belgian departments and the Cisalpine Republic were not exempt from contributing to the Republican military efforts. As general and then emperor, Napoléon introduced the draft to the newly created satellite states of the Italian Republic (1802), the Kingdom of Naples (1806 and 1809), the Grand Duchy of Berg and the Kingdom of Westphalia (1807), Holland, and the Hanseatic cities (1810) (Grab, 1995). In many of these territories, conscription was an entirely new experience (Grab, 1995). In order to administer conscription, the government had to create a specialized bureaucracy. While deserters had always existed in France, the phenomenon had not been perceived as a major military or social problem until after the law of 1798, with which the Republican government reintroduced conscription as a way to staff its army (Forrest, 1989: 69). After Napoléon’s rise to power in 1799, this bureaucracy was reformed, with local officials, such as the préfets, being appointed directly by the executive branch. At the same time, the gendarmerie – France’s military police – was put in charge of fighting desertion alongside newly created special courts. In every department, the préfet would come up with a list of draftable young men. According to French law, failure to join one’s company by the identified date constituted desertion. Frenchmen whose number had been picked during the draft lottery, whether they were present or not, had one month to join their assigned military dépôt before being considered deserters (réfractaires or insoumis).16 French law – specifically, Code de la Conscription, Imperial Decree of Fructidor 8, Year XIII, Title VIII, Article 46 – distinguished between those who deserted before joining the depot and those who deserted after joining their assigned military unit. The significance of desertion in Napoleonic France was large. According to Forrest (1989: 67) “[desertion] rapidly assumed the guise of a major social malaise as well as that of a purely military problem.” By the turn of the 19th century, the French countryside was already populated by hundreds of thousands of deserters (Forrest, 1989: 70).17 Rebellions against the gendarmerie in order to free deserters were common, especially in the countryside and mountainous areas, where entrepreneurs would illegally hire deserters in their farms and factories (Fouché, 1908).
+
+Data description
+
+In order to test the predictions of our framework, we use cross-sectional data on desertion for the years 1799–1805. The data refer to desertion rates at the departmental level and were collected by Joseph E. T. Hargenvilliers, Napoleon’s appointee to the office overseeing military conscription.18 Hargenvilliers does not provide yearly desertion data, but rather the average desertion rate within each department over the entire period. The dataset contains 109 observations, one for each of France’s 89 departments, plus the departments created in the newly occupied territories by French
+
+15 Conscription had been scrapped from the books six years earlier as it was extremely unpopular and was perceived to be a practice inconsistent with the values and ideas of the Republique. 16 Code de la Conscription, 1807. Imperial Decree of Fructidor 8, Year XIII. Title VIII, Article 46. See also the law of Floréal 6, Year XI, which defines a réfractaire in the same way. 17 According to a contemporary source cited in Waquet (1968), by Year VIII there were at least 193,000 deserters living in the French countryside. 18 These data were later collected under the title of Compte Général de la Conscription and have been kept in the national archives under the code AF/IV/1123 until Gustave Vallée published them in 1937 as a complement to his doctoral dissertation. The Compte Général contains statistics on the desertion rate, population and the size of military cohorts, as well as conscription tables.
+
+Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+Journal of Institutional Economics
+
+7
+
+Figure 1. Desertion rates (1799–1805) Note: All maps are made with ArcGIS by the authors.
+
+authorities (nine in Belgium, seven in Italy, and four in Germany). Figure 1 shows desertion rates across France and occupied territories between 1799 and 1805. The scope of our data is limited in important ways. First, the numbers capture only a subset of all cases of desertion. Specifically, they refer to those individuals who, once drafted, failed to join the assigned company by the specified deadline. This excludes those who deserted after having joined their companies as well as those that deserted on the battlefield. Second, the data contain information about a deserter’s department of origin and not his final destination. Figure 1 suggests that desertion was strongest in the Massif Central, a highland region in the southwest of France, as well as in the mountainous island of Corsica. Along the southwestern coast, the shore is covered in swamps and forests, providing many natural shelters to deserters, while the proximity to the Pyrenean Mountains provided opportunities to escape to Spain. In the southeastern region of France, all but two Alpine departments were characterized by desertion rates above the national average. Variables Table 1 presents summary statistics on our department-level variables. As we discuss above, our variable for desertion rates measures the percentage of all drafted men from a cohort who failed to join their military unit by the required date in each department. We calculate this using Hargenvillier’s report on desertion and conscription in France and occupied territories over the period 1799–1805 (Vallée, 1937). Our environmental and geographic departmental characteristics are as follows. First, using geocoded data, we use the “second-level administrative divisions” layer for the year 1800 from the Georeferenced Historical Vector Data (Nüssli and Nüssli, 2008) to generate a variable for the percentage of a department’s territory with altitude above 500 meters (see Figure 2). However, due to limitations in this dataset, the observations for this variable do not include six Italian departments. Second, we rely on Vosgien’s (1809) geographic dictionary of France to generate a dummy variable identifying each of our 109 departments as either “mountainous” or not. Our third geographic variable is also binary, taking the value 0 if the department was landlocked and 1 if it had access to the sea (“maritime department”). We also include two measures of river density. The first calculates the ratio Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+8
+
+Ennio E. Piano and Louis Rouanet
+
+Table 1. Summary statistics on department-level variables Variable
+
+Obs.
+
+Mean
+
+Std dev.
+
+Min
+
+Max
+
+Desertion rate
+
+109
+
+0.2827993
+
+0.1492563
+
+0.0458237
+
+0.9047619
+
+Altitude (> 500 m)
+
+103
+
+18.89495
+
+28.83651
+
+0
+
+99.58289
+
+Mountainous
+
+109
+
+0.2477064
+
+0.4336743
+
+0
+
+1
+
+Maritime departments
+
+109
+
+0.2477064
+
+0.4336743
+
+0
+
+1
+
+Military bases
+
+109
+
+2.733945
+
+3.351733
+
+0
+
+13
+
+Drafted from cohort
+
+109
+
+0.2526813
+
+0.0713626
+
+0.1060637
+
+0.622484
+
+Bordering departments
+
+109
+
+0.1926606
+
+0.3962104
+
+0
+
+1
+
+Urbanization rate
+
+108
+
+18.50093
+
+12.29021
+
+4.4
+
+89.3
+
+River density 1
+
+102
+
+0.000093
+
+0.000039
+
+0.0000185
+
+0.0002435
+
+River density 2
+
+108
+
+0.000031
+
+0.000026
+
+4.18e-06
+
+0.000129
+
+Rural wages
+
+18
+
+1.133889
+
+0.2220794
+
+0.75
+
+1.5
+
+Figure 2. Altitude above 500 meters
+
+of the length of all major rivers in a department to its area in square miles, using “second-level administrative divisions,” “small rivers,” and “big rivers” layers from Nüssli and Nüssli (2008). Our second measure of river density simply calculates the number of all rivers per square mile in each department, as given by Prudhomme (1804), which includes more rivers than Nüssli and Nüssli (2008) and has observations for the Italian departments. Our final geographic variable identifies departments as either “border departments” – in which case the variable assumes a value of 1 – or not – in which case it takes value 0. We also generate a series of administrative and economic variables. We first calculate the share of individuals in the relevant cohort drafted into the army each year (which contained all able-bodied men turning 20 years old that year), both of which we get from Hargenvillier (as reported in Vallée (1937)). This variable gives an idea of the relative weight of conscription imposed on different Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+Journal of Institutional Economics
+
+9
+
+local communities across France.19 Variation across departments was due to the fact that the size of the drafted contingent was partly influenced by political factors (Vallée, 1937: 37). Consequently, an individual’s probability of being drafted could diverge significantly across departments. Data about wages during the period studied are scarce and unsystematic. We use figures from Chabert (1949) for daily rural wages in 1801. However, this dataset is limited to 18 departments (all within French territory). We also calculate urbanization rates by department from by le Mée (1971). Finally, we calculate the number of military bases within each department from Herbin de la Halle (1803). These bases consisted mostly fortifications built in the 16th, 17th, and 18th centuries, long before the introduction of conscription, and may reasonably be interpreted as an approximate measure of the presence of French state and its ability to enforce its laws within each department.
+
+## 4. Empirical analysis
+
+Evidence on geography, administrative capacity, and conscription rates Although large cities may have worked as a refuge for deserters, according to Forrest (1989), desertion was mostly a rural phenomenon; so much so that urban citizens often felt resentment toward their fellowmen in the countryside, arguing that they were risking their lives when the peasantry would escape military service (Forrest, 1989: 79). According to the private correspondence of French ministers during the period, the regions “where conscription problems were endemic [were] all areas where the nature of the terrain came to the assistance of men on the run” (Forrest, 1989: 71). Desertion afflicted the regions in the French northwest, those at the border with Belgium, the mountainous locality of the Massif Central, and the Pyrenees at particularly high rates. “In stark contrast, the plains of the East and the Paris region were models of obedience and patriotic devotion” (Forrest, 1989: 71). The lack of roads was also associated with higher desertion rates and some villages in the Alps or Pyrenees would be cut off from civilization for several months during the winter, making conscription almost impossible. In some regions, thick forests, impenetrable to the gendarmerie, hosted companies of deserters living together. Finally, the coastline was full of opportunities for deserters to hide (Forrest, 1989: 82–84). Our econometric results, presented in Table 2, are consistent with our predictions on the relationship between the desertion rate, geographical factors, conscription, and administrative capacity. Since the observations come from four different countries, standard errors are clustered by country. The analysis supports Prediction 1 on the positive relationship between conscription and desertion rates. When the proportion of young men drafted from the relevant cohort increases, the desertion rate increases as well. Our theory suggests that the larger conscription rate will lead to a shrinkage in the local labor supply20 as the share of young people drafted increases, leading workers to command a higher wage on the labor market. The variable “Drafted from cohort” is significant and at the 1% level in all but specification (4) and has a strong positive effect on desertion. A one percentage point increase in the proportion of young men drafted leads the desertion rate to increase by between 0.81 and 1.05 percentage points. The results also support Prediction 2 on the effect of geographical factors on desertion rates. The stronger result from our empirical exercise is the positive and highly significant effect of our preferred measure of territorial accessibility: the share of a department above an altitude of 500 meters. A ten 19 One anonymous referee expressed concern over the fact that the existence of a reserve force may bias the true significance of conscription across departments. However, this should not impact our results, as the share of drafted men that were assigned to the reserve was constant across departments (in fact, it was exactly half of all those drafted into the army). There is also some evidence that draftees were as unwilling to join the reserve as they were the active forces. For instance, in Year XIII, the sub-prefect of Avesnes in the department of Nord writes that “public opinion ranks this reserve roughly on the same line as the active contingent” (Viard, 1926: 274). 20 This assumes, of course, that labor markets were generally not fully integrated at the national level. The large discrepancy in real rural wages (see Table 1) seems to suggest that this was in fact partially true.
+
+Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+10
+
+Ennio E. Piano and Louis Rouanet
+
+Table 2. Desertion rates and variables: econometric results Desertion rate Altitude (> 500 m)
+
+(1)
+
+(2)
+
+(3)
+
+0.00183***
+
+0.00221***
+
+0.00192***
+
+(0.00053)
+
+(0.00010)
+
+(0.00015)
+
+Mountainous
+
+−223.90325
+
+River density 1
+
+Drafted from cohort
+
+(5)
+
+0.11866**
+
+0.08688*
+
+(0.01896)
+
+(0.03093)
+
+−91.82664
+
+(210.42482) River density 2
+
+(4)
+
+(127.92041) 516.51659**
+
+1,040.26831***
+
+(78.71822)
+
+(79.93692)
+
+1.05483***
+
+1.00059***
+
+0.87813**
+
+0.80732***
+
+(0.06111)
+
+(0.06270)
+
+(0.09254)
+
+(0.08186)
+
+0.11834**
+
+0.11606**
+
+0.10083**
+
+0.09213**
+
+(0.01232)
+
+(0.01230)
+
+(0.01571)
+
+(0.01586)
+
+Military bases
+
+−0.01157**
+
+−0.01114*
+
+−0.01167**
+
+−0.01029*
+
+(0.00261)
+
+(0.00278)
+
+(0.00237)
+
+(0.00348)
+
+Urbanization rate
+
+−0.00136*
+
+−0.00133
+
+−0.00166*
+
+−0.00158*
+
+(0.00043)
+
+(0.00050)
+
+(0.00045)
+
+(0.00052)
+
+0.02691
+
+0.02159
+
+0.02295
+
+0.02233
+
+(0.04409)
+
+(0.04437)
+
+(0.04201)
+
+(0.04055)
+
+0.08729**
+
+0.08492**
+
+0.07737*
+
+0.06222*
+
+(0.01939)
+
+(0.01469)
+
+(0.01814)
+
+(0.02067)
+
+Maritime departments
+
+Bordering departments
+
+Belgium
+
+Germany
+
+0.07399*
+
+0.04302
+
+0.01401
+
+−0.01702
+
+(0.02518)
+
+(0.04364)
+
+(0.02292)
+
+(0.04404)
+
+Italy
+
+0.06595 (0.03125)
+
+Observations R-squared
+
+103 0.11826
+
+102 0.47950
+
+102 0.48406
+
+102 0.41215
+
+108 0.43243
+
+Robust standard errors in parentheses. *** p < 0.01, ** p < 0.05, * p < 0.1.
+
+percentage point increase in the share of a department above 500 meters predicts the desertion rate to rise by 1.8 and 2.2 points in regressions 1 and 2 respectively. As a check on our results, in regressions 4 and 5, we substitute our altitude variable with an alternative measure of territorial accessibility: the dummy variable “mountainous.” The new coefficient is significant in both regression, at the 5 and 10% level respectively. Mountainous departments experienced a desertion rate of 8.7 to 11.9 points higher than non-mountainous ones (columns 3 and 4). These results provide suggestive evidence that desertion was indeed mostly a rural phenomenon, as argued by Forrest (1989). Our first measure of river density appears insignificant in both specifications (2) and (4), while the second one is significant at the 5 and 10% levels respectively. Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+Journal of Institutional Economics
+
+11
+
+Our other geographic variables, our dummy variables for maritime and border departments, both produce coefficients of the right sign, but only the former appears significant (at the 5% threshold). These results are consistent with the claim by Forrest (1989) that maritime departments were more prone to desertion. From Marseilles to Nice, the coast is rocky and hard to navigate, and the coves of the Côte Bleue and Côte d’Azur are generally difficult of access. On the Atlantic coast, Brittany and Normandy also offered hiding places in caves while, in the Landes, sand dunes and the proximity of forests on the coast made it easy for deserters to live in groups and disperse easily when hunted by the gendarmes. In our own quantitative analysis, maritime departments are predicted to experience, on average, a desertion rate 9.2 to 11.8 points higher (columns 3 and 5) than landlocked ones. The coefficient on the urbanization rate variable is also significant, although only at the 10% level, and is barely insignificant at the same threshold for specification (3). A 10-point increase in the urbanization rate at the departmental level is expected to reduce the desertion rate by between 1.3 and 1.6 points on average. However, interpreting the sign of the coefficient is not straightforward. The identified negative relationship may be due to greater levels of administrative capacity in cities and the difficulties faced by populations in cities to engage in collective action against the state. Conscripts in cities could also use substitutes to desertion more easily by buying a substitute,21 hence avoiding military service.22 The number of military fortifications within a department, our proxy measure for administrative capacity, significantly (at the 5 and 10% levels) predicts lower desertion rates. The presence of one additional military base is associated, on average, with a 1.1-point reduction in the desertion rate, yielding some evidence for Prediction 3. Finally, country fixed effects for Belgium and Germany are included for specifications (2) to (5), while the one for Italy is included only for specification (5) due to limitations in the data on altitude. Only the Belgium variable is consistently significant across specifications at the 5 and 10% levels. Evidence on rural wages
+
+Although we have limited data on wages, a simple linear regression model of the effect of rural wages on desertion rates are broadly consistent with our theory. Using daily rural wages is particularly relevant because rural workers had very little access to institutional alternatives to desertion. As a social class they often supplied substitutes under the system of military replacement, which allowed for the trading of military obligations, but were rarely substituted themselves. We report the results of our regression analysis in Table 3. Consistent with Prediction 4, higher real rural wages predict higher desertion rates across 18 departments (see Figure 3). The coefficient on our independent variable is significant at the 1% level in regression (1) and at the 5% level in regressions (2) and (3), which include controls for altitude and altitude and urbanization rate respectively. The limited number of observations gives us only a few degrees of freedom and prevent us from engaging in a more extensive empirical analysis. We must also state, once again, that our estimates are only suggestive and cannot definitely identify causal effects, as we are not able to rule out potential confounding factors due to the limitations of both our data and empirical strategy. Our results are nonetheless consistent with Forrest’s (1989: 91) claim that “the state of the economy and the propensity to desert or the avoid the draft were closely linked.” Qualitative evidence
+
+As is to be expected, French government officials appear to have been wholly aware of the extent of, and danger posed by, desertion. Private correspondence between public officials, including Napoleon 21 After 1799, draftees had the opportunity to hire a substitute to avoid the draft. For a discussion of this peculiar institution, see Rouanet and Piano (2019). 22 However, as data on military replacements do not exist for the period under consideration, we cannot at the moment attribute this effect to military replacement with any degree of confidence.
+
+Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+12
+
+Ennio E. Piano and Louis Rouanet
+
+Table 3. Regression analysis results Desertion rate
+
+(1)
+
+(2)
+
+(3)
+
+Rural wages
+
+0.34191***
+
+0.27345**
+
+0.27947**
+
+(0.09693)
+
+(0.09807)
+
+(0.10419)
+
+Altitude (> 500 m)
+
+0.00232***
+
+0.00224***
+
+(0.00067)
+
+(0.00069) −0.00103
+
+Urbanization rate
+
+(0.00126) Observations
+
+18
+
+18
+
+18
+
+R-squared
+
+0.34876
+
+0.58507
+
+0.59014
+
+Robust standard errors in parentheses. *** p < 0.01, ** p < 0.05, * p < 0.1.
+
+Figure 3. Desertion rate and rural wages in eighteen departments (1801)
+
+himself, suggests that desertion was a constant concern. For example, on August 15, 1806, Napoléon received a note from his minister reporting on the problems desertions was causing in advancing the Italian campaign. According to the note, the Italian Alps provided soldiers with plenty of opportunities to abandon their contingents and escape punishment (Napoléon, 1862: 548). In response, Napoléon ordered that a gendarmerie detachment be deployed in the region to catch the hiding deserters and deter future ones. In 1808, a report from the prefect of the Puy-de-Dôme complained about the seasonality of the phenomenon and claimed that many deserters found refuge in departments other than their own, making identification by the gendarmerie a hard endeavor (Waquet, 1968: 199). One year later, another prefect would write that desertion intensified during harvest season, attributing this to the fact that “when grains cover the fields [they] make the countryside even more impenetrable” (Waquet, 1968: 199). In response, the French government took a series of actions aimed at minimizing the extent of desertion. For example, in Year X (1802), it introduced policies to reduce the likelihood of recidivism Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+Journal of Institutional Economics
+
+13
+
+amongst captured deserters.23 One such policy mandated that deserters captured by the government forces were to be organized into battalions to be deployed in the French colonies. Another policy put captured deserters under the authority of the French Navy. Yet another required these men be deployed to islands rather than mainland territories. One thread common to these policies is the strategic choice, by the government, of the geographic, economic, and social environment within which to place individuals perceived to be more likely to desert. Soldiers are less likely to desert when they find themselves in hostile territory and when they have limited outside options. By forcing these men to foreign and faraway lands, remote islands, and on to boats,24 the government was implicitly reducing the value of the contested asset (the soldier’s labor services) to the soldiers themselves, thus diminishing the incentive to invest resources in the effort to capture the associated benefits. In the language of our model, these policies reduced the value of w* available to potential deserters. Contingents of rehabilitated deserters were also subjected to unique restrictions and regulations. Soldiers were more strictly monitored than usual. They were housed in fortified sites where they were kept under continuous surveillance by dedicated units of the military police. Soldiers were not allowed to leave their barracks unsupervised. Even for the most modest of tasks, they had to be accompanied by an officer. Potential deserters were also required to wear distinctive uniforms25 and a shorter haircut than standard soldiers, which made them easily recognizable by their superiors.26 The punishment was proportional to the gravity of the desertion. The Code de la Conscription of Year XII specified that death was the punishment those who deserted to the enemy on the battlefield or any enemy foreign country and deserters who had taken their weapons with them. The ball and chain for ten years were reserved to those who deserted and left the country, those who deserted and stole any asset of the army, and those who deserted more than once. Collective desertion was punished by adding two years of ball and chain to each deserter. Twelve years of ball and chain were also reserved to anybody who left their military fortification unauthorized. Public work (three years) was reserved to réfractaires or insoumis, with the addition of two years for collective desertion. In addition to these punishments, every deserter had to pay a fine to the state.
+
+## 5. Conclusion
+
+The issue of desertion is of great importance in the history and practice of military affairs. Most studies of it are historical in nature, providing qualitative and some quantitative analysis of the phenomenon. This paper offers the first explicitly theoretical treatment of desertion. It does so by extending the “property rights framework” developed by Yoram Barzel over the past four decades. Following Barzel, we believe that in order to understand social institutions, one must focus on the allocation of claims over resources within society, which is determined by the cost of delineating and enforcing property rights. This logic applies seemingly to any asset imaginable, from the machinery employed in a factory, to land, to slaves, and, as we argue in this paper, to the labor services of soldiers. The ultimate test for any theoretical framework is whether it is operationalizable, that is, whether it says something specific about observable and measurable real-world variables. Applying the property rights approach to desertion, we are able to derive several testable implications. We test these against an original dataset on desertion across the French departments during the Napoleonic Empire. The results of our econometric exercise are largely consistent with the predictions of the model. These results should not be taken as ultimate evidence of the causal relationship between our independent variables and the phenomenon of desertion. Due to the limitations intrinsic in our data, we cannot fully rule out the possibility of reverse causality or omitted-variable bias. For example, 23
+
+As we discuss in section 3, there were so many deserters by this time that the French government was simply not in the position to jail or even kill those condemned for desertion. 24 The significance of this argument was cleverly suggested by an anonymous referee. 25 Friedman (1986) argues that the British army used similar strategies during the American revolutionary war. 26 Decree of Vendémiaire 19, Year XII (October 12, 1803). Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+14
+
+Ennio E. Piano and Louis Rouanet
+
+expecting higher desertion rates, the central government may respond by drafting a higher percentage of the population in the first place. Because our data measure the average desertion rate by department over a six-year period, we cannot control for this possibility by controlling for lagged values of the desertion rate itself. Nevertheless, the data offer suggestive evidence that the variables identified by our theoretical analysis to affect the magnitude of desertion do in fact matter, and matter in the direction predicted by our framework. Our analysis is also consistent with historical experience “out of sample.” For example, in his study of desertion in the British army during the Napoleonic wars, Linch finds that “the location of the soldier and prospects this environment offered to him to escape his unit, avoid recapture, and survive provided the catalyst [for running away]” (Linch, 2016: 816). For example, soldiers were keener to desert their ranks during the summer months, when they could command higher wages, due to the increased labor needs of the harvest season. Desertion rates were higher when soldiers were stationed close to home, as in the British Isles, than in occupied foreign territory or insulated enclaves far from the homeland, like Malta and Gibraltar. Finally, he finds that among the British soldiers stationed in North America, those stationed at the border between Canada and the US were most likely to desert. Acknowledgements. The authors would like to thank Paola Suarez, Clara Jace, and Bryan Cutsinger for comments on previous drafts of the paper. Participants at the 2019 Public Choice Society meeting in Louisville provided helpful criticism. The paper was vastly improved thanks to two anonymous referees. Remaining errors are attributed solely to the authors.
+
+## References
+
+Agostini, T. (2007), ‘“Deserted His Majesty’s Service”: Military Runaways, the British-American Press, and the Problem of Desertion During the Seven Years’ War’, Journal of Social History, 40(4): 957–985. Allen, D. W. (1990), ‘An Inquiry into the State’s Role in Marriage’, Journal of Economic Behavior & Organization, 13(2): 171–191. Allen, Douglas W. (1991), ‘What are Transaction Costs?’ Research in Law and Economics, 14, 1–18. Allen, D. W. (1995), ‘Order in the Church: A Property Rights Approach’, Journal of Economic Behavior & Organization, 27(1): 97–117. Allen, D. W. (1998), ‘Compatible Incentives and the Purchase of Military Commissions’, Journal of Legal Studies, 27(1): 45–66. Allen, D. W. (2002), ‘The British Navy Rules: Monitoring and Incompatible Incentives in the Age of Fighting Sail’, Explorations in Economic History, 39(2): 204–231. Allen, D. W. (2015), ‘On Hodgson on Property Rights’, Journal of Institutional Economics, 11(4): 711–717. Allen, D. W. and P. T. Leeson (2015), ‘Institutionally Constrained Technology Adoption: Resolving the Longbow Puzzle’, Journal of Law and Economics, 58(3): 683–715. Barzel, Y. (1977), ‘An Economic Analysis of Slavery’, Journal of Law and Economics, 20(1): 87–110. Barzel, Y. (1997), Economic Analysis of Property Rights, Cambridge, UK: Cambridge University Press. Barzel, Y. (2002), A Theory of the State: Economic Rights, Legal Rights, and the Scope of the State, Cambridge, UK: Cambridge University Press. Barzel, Y. (2015), ‘What Are “Property Rights”, And Why Do They Matter? A Comment on Hodgson’s Article’, Journal of Institutional Economics, 11(4): 719–723. Becker, G. S. (1968), ‘Crime and Punishment: An Economic Approach’, Journal of Political Economy, 76(2): 169–217. Brennan, G. and G. Tullock (1982), ‘An Economic Theory of Military Tactics: Methodological Individualism at War’, Journal of Economic Behavior & Organization, 3(2–3): 225–242. Chabert, A. (1949), Essai Sur les Mouvements des Revenus et de l’Activité Economique en France de 1798 à 1820, Paris, France: Genin. Cheung, S. N. (1983), ‘The Contractual Nature of the Firm’, Journal of Law and Economics, 26(1): 1–21. Costa, D. L. and M. E. Kahn (2010), Heroes and Cowards: The Social Face of War, Princeton, NJ: Princeton University Press. Forrest, A. I. (1989), Conscripts and Deserters: The Army and French Society during the Revolution and Empire, Oxford, UK: Oxford University Press. Fouché, J. (1908), La Police Secrète du Premier Empire: Bulletins Quotidiens Adressés par Fouché à l’Empereur (Vol. 2), Paris, France: Perrin. Frey, B. S. and H. Buhofer (1988), ‘Prisoners and Property Rights’, Journal of Law and Economics, 31(1): 19–46. Friedman, D. D. (1986), Price Theory: An Intermediate Text, Nashville, TN: Southwestern Publishing. Grab, A. (1995), ‘Army, State, and Society: Conscription and Desertion in Napoleonic Italy (1802–1814)’, Journal of Modern History, 67(1): 25–54. Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250
+
+Journal of Institutional Economics
+
+15
+
+Halle, P. de la (1803), Statistique Générale et Particulière de la France et de Ses Colonies, Paris, France: Buisson. Hodgson, G. M. (2015), ‘Much of the “Economics of Property Rights” Devalues Property and Legal Rights’, Journal of Institutional Economics, 11(4): 683–709. Johnson, R. N. and G. D. Libecap (1982), ‘Contracting Problems and Regulation: The Case of the Fishery’, American Economic Review, 72(5): 1005–1022. Lee, D. R. and R. B. McKenzie (1992), ‘Reexamination of the Relative Efficiency of the Draft and the All-volunteer Army’, Southern Economic Journal, 58(3): 644–654. Leeson, P. T. (2007), ‘An-arrgh-chy: The Law and Economics of Pirate Organization’, Journal of Political Economy, 115(6): 1049–1094. Leeson, P. T. (2009), ‘The Invisible Hook: The Law and Economics of Pirate Tolerance’, New York University Journal of Law and Liberty, 4, 139. Leeson, P. T. (2010), ‘Pirational Choice: The Economics of Infamous Pirate Practices’, Journal of Economic Behavior & Organization, 76(3): 497–510. Leeson, P. T. (2012a), ‘Ordeals’, Journal of Law and Economics, 55(3): 691–714. Leeson, P. T. (2012b), ‘“God Damn”: The Law and Economics of Monastic Malediction’, Journal of Law, Economics, & Organization, 30(1): 193–216. Le Mée, R. (1971), ‘Population Agglomérée, Population Eparse au Début du XIXe Siècle’, in Annales de démographie historique, Paris, France: Société de Démographie Historique, pp. 455–510. Linch, K. (2016), ‘Desertion from the British Army during the Napoleonic Wars’, Journal of Social History, 49(4): 808–828. Military Dictionary (1780), A military dictionary, explaining and describing the technical terms, works and machines used in the science of war. Dublin: Office of C. Jackson. Napoléon, I (1858–1870), Correspondance de Napoléon Ier, 30 volumes. Paris, France: Plon. Nüssli, C. and M. A. Nüssli (2008), Georeferenced Historical Vector Data, Paris, France: Euratlas. Piano, E. E. (2017), ‘Free Riders: The Economics and Organization of Outlaw Motorcycle Gangs’, Public Choice, 171(3–4): 283–301. Piano, E. E. (2018), ‘Outlaw and Economics: Biker Gangs and Club Goods’, Rationality and Society, 30(3): 350–376. Prudhomme, L. M. (1804), Dictionnaire Universel, Géographique, Statistique, Historique et Politique de la France. Paris, France: Baudouin. Ross, T. W. (1994), ‘Raising an Army: A Positive Theory of Military Recruitment’, Journal of Law and Economics, 37(1), 109–131. Rouanet, L. and E. E. Piano (2019), ‘Filling the Ranks: The Remplacement Militaire in Post-Revolutionary France’, Mimeo, available at https://ssrn.com/abstract=3294 (accessed 10 May 2019). Tullock, G. (1967), ‘The Welfare Costs of Tariffs, Monopolies, and Theft’, Economic Inquiry, 5(3): 224–232. Vallée, G. (1937), Compte Général de la Conscription de A. A. Hargenvilliers, publié d’après le manuscrit original avec une introduction et des notes, Paris, France: Librairie du Recueil Sirey. Viard, P. (1926), ‘Études Sur la Conscription Militaire Napoléonienne’, Revue du Nord, 12(48): 273–301. Vosgien (1809), Dictionnaire Géographique Portatif, Paris, France: Leroy. Waquet, J. (1968), ‘La société civile devant l’insoumission et la désertion: à l’époque de la conscription militaire (1798–1814) d’après la correspondance du ministre de l’intérieur’, Bibliothèque de l’École des chartes, 187–222. Woodbury, E. N. (1921), ‘Causes for Military Desertion: A Study in Criminal Motives’, Journal of Criminal Law and Criminology, 12(2): 213–222.
+
+Cite this article: Piano EE, Rouanet L (2019). Desertion as theft. Journal of Institutional Economics 1–15. https://doi.org/ 10.1017/S1744137419000250 Downloaded from https://www.cambridge.org/core. IP address: 79.23.95.147, on 03 Jun 2019 at 12:42:33, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1744137419000250

@@ -47,6 +47,10 @@ jobs:
           mkdir -p _site
           cp index.html _site/
           cp -R wp-content _site/
+          # Machine-readable layer (see scripts/build_llm_text.py)
+          cp llms.txt llms-full.txt cv.md sitemap.xml robots.txt _site/
+          cp -R papers _site/
+          [ -f CNAME ] && cp CNAME _site/ || true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
